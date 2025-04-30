@@ -77,6 +77,55 @@ main {
     text-align: left;
 }
 
+.jeu-title {
+    font-size: 2.2rem;
+    color: white;
+    margin-bottom: 1.5rem;
+}
+
+.jeu-nom {
+    font-size: 2.5rem;
+    font-weight: 800;
+    color: #f7df1e;
+    margin-bottom: 2.5rem;
+    margin-top: 70px;
+}
+
+.jeu-description {
+    font-size: 1.3rem;
+    color: white;
+    max-width: 800px;
+    margin: 0 auto 2rem;
+}
+
+.jeu-reference {
+    font-size: 1.1rem;
+    font-weight: 500;
+    color: white;
+}
+
+.jeu-difficulte {
+    font-size: 1.4rem;
+    font-weight: 600;
+    color: white;
+    user-select: none;
+}
+
+.jeu-difficulte .etoile {
+    margin-top: 2.5rem;
+    font-size: 1.6rem;
+    color: #f7df1e;
+    user-select: none;
+}
+
+#nouveau-personnage {
+    width: 50%;
+    margin: 0 auto;
+    min-width: 300px;
+    margin-top: 70px;
+    user-select: none;
+}
+
 footer {
     background-color: #1f1f1f;
     color: #888;

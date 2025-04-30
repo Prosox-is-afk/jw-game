@@ -1,0 +1,1143 @@
+[
+    {
+        "id": 1,
+        "nom": "Aaron",
+        "description": "Frère de Moïse et premier grand prêtre d'Israël, il a aidé Moïse à libérer les Israélites d'Égypte.",
+        "reference": "Exode 4:14-16 ; Lévitique 8:1-12",
+        "difficulte": 1
+    },
+    {
+        "id": 2,
+        "nom": "Abel",
+        "description": "Fils d'Adam et Ève, tué par son frère Caïn après avoir offert un sacrifice agréable à Dieu.",
+        "reference": "Genèse 4:2-8",
+        "difficulte": 1
+    },
+    {
+        "id": 3,
+        "nom": "Abigaïl",
+        "description": "Femme de Nabal, puis épouse de David, connue pour sa sagesse et son intervention pacifique.",
+        "reference": "1 Samuel 25:2-42",
+        "difficulte": 2
+    },
+    {
+        "id": 4,
+        "nom": "Abraham",
+        "description": "Père d’Isaac, appelé ami de Dieu et modèle de foi, il a quitté sa patrie pour aller là où Dieu le guiderait et s’est montré fidèle jusqu’à accepter d’offrir son fils en sacrifice.",
+        "reference": "Genèse 12:1-7 ; 22:1-18",
+        "difficulte": 1
+    },
+    {
+        "id": 5,
+        "nom": "Adam",
+        "description": "Premier homme créé par Dieu, vivant dans le jardin d'Éden avec Ève.",
+        "reference": "Genèse 2:7, 15-17 ; 3:6, 17-19",
+        "difficulte": 1
+    },
+    {
+        "id": 6,
+        "nom": "Agar",
+        "description": "Servante égyptienne de Sara, donnée pour femme à Abraham ; mère d’Ismaël, elle a été chassée après la naissance d’Isaac mais Jéhovah a pris soin d’elle et de son fils.",
+        "reference": "Genèse 16:1-13 ; 21:9-21",
+        "difficulte": 3
+    },
+    {
+        "id": 7,
+        "nom": "Amos",
+        "description": "Berger de Juda envoyé comme prophète en Israël, fils de Tekoa, chargé d’annoncer des jugements sévères contre l’injustice et l’hypocrisie religieuse.",
+        "reference": "Amos 1:1 ; 7:14, 15",
+        "difficulte": 3
+    },
+    {
+        "id": 8,
+        "nom": "Hannah (Anne)",
+        "description": "Femme d’Elqana et mère de Samuel, elle a supplié Jéhovah dans le sanctuaire pour avoir un fils, puis l’a consacré au service de Dieu dès son jeune âge.",
+        "reference": "1 Samuel 1:1-28 ; 2:1-11",
+        "difficulte": 3
+    },
+    {
+        "id": 9,
+        "nom": "Barnabé",
+        "description": "Lévite et compagnon de Paul, envoyé par l’assemblée pour soutenir l’expansion de la prédication, il s’est montré encourageant, généreux et plein de foi.",
+        "reference": "Actes 4:36, 37 ; 9:26, 27 ; 13:2",
+        "difficulte": 3
+    },
+    {
+        "id": 10,
+        "nom": "Barthélémy",
+        "description": "L’un des douze apôtres de Jésus, souvent identifié à Nathanaël, il a été témoin de son ministère mais reste peu mentionné dans les récits bibliques.",
+        "reference": "Matthieu 10:3 ; Jean 1:45-49 (si identifié à Nathanaël)",
+        "difficulte": 4
+    },
+    {
+        "id": 11,
+        "nom": "Caïn",
+        "description": "Fils aîné d’Adam et Ève, cultivateur, il a tué son frère Abel par jalousie après que Dieu a rejeté son offrande.",
+        "reference": "Genèse 4:1-16",
+        "difficulte": 1
+    },
+    {
+        "id": 12,
+        "nom": "Caleb",
+        "description": "Fils de Jephounné, l’un des deux espions qui ont encouragé les Israélites à faire confiance à Jéhovah pour entrer en Terre promise, il a été récompensé pour sa fidélité en recevant le territoire d’Hébron.",
+        "reference": "Nombres 13:30 ; Josué 14:6-13",
+        "difficulte": 2
+    },
+    {
+        "id": 13,
+        "nom": "Coré",
+        "description": "Lévite et cousin de Moïse, il a mené une rébellion contre l’autorité que Jéhovah avait donnée à Moïse et Aaron ; il a été englouti par la terre avec ses complices.",
+        "reference": "Nombres 16:1-33",
+        "difficulte": 3
+    },
+    {
+        "id": 14,
+        "nom": "Dalila",
+        "description": "Femme aimée par Samson, elle l’a trahi en découvrant le secret de sa force pour le livrer aux Philistins.",
+        "reference": "Juges 16:4-21",
+        "difficulte": 3
+    },
+    {
+        "id": 15,
+        "nom": "Daniel",
+        "description": "Jeune exilé juif à Babylone, fidèle à Jéhovah malgré les pressions, interprète de rêves et survivant de la fosse aux lions grâce à sa foi.",
+        "reference": "Daniel 1:1-6 ; 6:16-23",
+        "difficulte": 1
+    },
+    {
+        "id": 16,
+        "nom": "David",
+        "description": "Fils de Jessé et roi d’Israël, il a tué Goliath, écrit de nombreux psaumes, et a été appelé “homme selon le cœur de Dieu” malgré ses erreurs.",
+        "reference": "1 Samuel 16:1, 13 ; 1 Samuel 17 ; Actes 13:22",
+        "difficulte": 1
+    },
+    {
+        "id": 17,
+        "nom": "Déborah",
+        "description": "Prophétesse et juge en Israël, elle a encouragé Barak à mener l’armée contre Sisera et a contribué à une grande délivrance du peuple de Dieu.",
+        "reference": "Juges 4:4-9 ; 5:1-31",
+        "difficulte": 2
+    },
+    {
+        "id": 18,
+        "nom": "Élie",
+        "description": "Prophète puissant envoyé par Dieu au royaume d’Israël, il a défié les prophètes de Baal, fait descendre le feu du ciel, et a été emporté dans un tourbillon.",
+        "reference": "1 Rois 17:1 ; 18:36-38 ; 2 Rois 2:11",
+        "difficulte": 1
+    },
+    {
+        "id": 19,
+        "nom": "Élisée",
+        "description": "Serviteur et successeur du prophète Élie, il a accompli de nombreux miracles puissants, dont la résurrection d’un enfant et la guérison de Naaman.",
+        "reference": "2 Rois 2:9-15 ; 4:32-37 ; 5:1-14",
+        "difficulte": 2
+    },
+    {
+        "id": 20,
+        "nom": "Ésaü",
+        "description": "Fils d’Isaac et frère jumeau de Jacob, il a vendu son droit d’aînesse pour un plat de lentilles et a perdu la bénédiction paternelle à cause de son mépris pour les choses sacrées.",
+        "reference": "Genèse 25:29-34 ; 27:30-36 ; Hébreux 12:16",
+        "difficulte": 2
+    },
+    {
+        "id": 21,
+        "nom": "Esther",
+        "description": "Nièce de Mardochée et reine de Perse, elle a risqué sa vie pour sauver les Juifs d’un génocide planifié, devenant un instrument courageux entre les mains de Jéhovah.",
+        "reference": "Esther 2:7 ; 4:13-16 ; 7:3-6",
+        "difficulte": 1
+    },
+    {
+        "id": 22,
+        "nom": "Ève",
+        "description": "Femme d’Adam et première femme créée, mère de tous les humains, elle a été trompée par Satan et a mangé du fruit défendu, entraînant le péché dans le monde.",
+        "reference": "Genèse 2:21-23 ; 3:1-6, 16",
+        "difficulte": 1
+    },
+    {
+        "id": 23,
+        "nom": "Ézéchias",
+        "description": "Roi fidèle de Juda, fils d’Achaz, il a restauré le vrai culte, prié Jéhovah face à l’invasion assyrienne et a vu sa vie prolongée de 15 ans après une maladie mortelle.",
+        "reference": "2 Rois 18:1-5 ; 19:14-20 ; 20:1-6",
+        "difficulte": 2
+    },
+    {
+        "id": 24,
+        "nom": "Ézéchiel",
+        "description": "Fils de Bouzi et prêtre devenu prophète parmi les exilés à Babylone, il a reçu des visions marquantes de Jéhovah, dont celle des roues célestes et du temple symbolique.",
+        "reference": "Ézéchiel 1:1-3 ; chapitres 1 et 40",
+        "difficulte": 2
+    },
+    {
+        "id": 25,
+        "nom": "Gédéon",
+        "description": "Fils de Joas, choisi par Jéhovah pour délivrer Israël des Madianites, il a vaincu une armée immense avec seulement 300 hommes, montrant que c’est Dieu qui accorde la victoire.",
+        "reference": "Juges 6:11-16 ; 7:1-22",
+        "difficulte": 2
+    },
+    {
+        "id": 26,
+        "nom": "Anne (prophétesse)",
+        "description": "Prophétesse âgée de la tribu d’Aser, présente au temple de Jérusalem quand le petit Jésus y est présenté. Elle reconnaît en lui le Messie promis et parle de lui aux autres.",
+        "reference": "Luc 2:36-38",
+        "difficulte": 4
+    },
+    {
+        "id": 27,
+        "nom": "Isaac",
+        "description": "Fils d’Abraham et de Sara, né miraculeusement alors qu’ils étaient âgés, il a été prêt à se laisser offrir en sacrifice et est devenu père de Jacob et Ésaü.",
+        "reference": "Genèse 21:1-3 ; 22:9-12 ; 25:19-26",
+        "difficulte": 1
+    },
+    {
+        "id": 28,
+        "nom": "Isaïe",
+        "description": "Prophète en Juda, fils d’Amots, il a été envoyé par Jéhovah pour avertir le peuple, annoncer la venue du Messie et décrire avec précision le rôle de Jésus des siècles à l’avance.",
+        "reference": "Isaïe 1:1 ; 6:1-8 ; 53:1-12",
+        "difficulte": 1
+    },
+    {
+        "id": 29,
+        "nom": "Ismaël",
+        "description": "Fils d’Abraham et d’Agar, il est devenu le père d’une grande nation comme Jéhovah l’avait promis, mais n’a pas reçu l’héritage spirituel réservé à Isaac.",
+        "reference": "Genèse 16:11, 12 ; 17:20, 21 ; 21:9-21",
+        "difficulte": 2
+    },
+    {
+        "id": 30,
+        "nom": "Jacob",
+        "description": "Fils d’Isaac et frère jumeau d’Ésaü, il a reçu la bénédiction d’Abraham, eu douze fils à l’origine des tribus d’Israël, et a été renommé Israël par Jéhovah.",
+        "reference": "Genèse 25:24-26 ; 28:10-15 ; 32:28",
+        "difficulte": 1
+    },
+    {
+        "id": 31,
+        "nom": "Jaël",
+        "description": "Femme de Héber le Kénite, elle a tué le chef militaire Sisera en lui enfonçant un piquet de tente dans la tête, accomplissant ainsi une prophétie de Déborah.",
+        "reference": "Juges 4:17-21 ; 5:24-27",
+        "difficulte": 3
+    },
+    {
+        "id": 32,
+        "nom": "Jean",
+        "description": "Fils de Zébédée et frère de Jacques, apôtre bien-aimé de Jésus, il a écrit l’Évangile de Jean, trois lettres inspirées et la Révélation (Apocalypse).",
+        "reference": "Matthieu 4:21 ; Jean 13:23 ; Révélation 1:1",
+        "difficulte": 1
+    },
+    {
+        "id": 33,
+        "nom": "Jean le Baptiseur",
+        "description": "Prophète préparant le chemin pour Jésus, prêchant la repentance et le baptême.",
+        "reference": "Marc 40:10",
+        "difficulte": 1
+    },
+    {
+        "id": 34,
+        "nom": "Jérémie",
+        "description": "Prophète appelé dès sa jeunesse, il a averti Juda de la destruction imminente de Jérusalem, malgré le rejet et les persécutions qu’il a subis.",
+        "reference": "Jérémie 1:4-10 ; 20:1, 2 ; 52:12-14",
+        "difficulte": 1
+    },
+    {
+        "id": 35,
+        "nom": "Jésus",
+        "description": "Fils de Dieu, envoyé sur la terre comme homme parfait, il a enseigné la vérité, accompli des miracles, donné sa vie en rançon et règne aujourd’hui comme Roi du Royaume de Dieu.",
+        "reference": "Matthieu 3:16, 17 ; Jean 3:16 ; Luc 22:19",
+        "difficulte": 1
+    },
+    {
+        "id": 36,
+        "nom": "Job",
+        "description": "Homme intègre et fidèle, durement éprouvé par Satan avec la permission de Jéhovah, il a gardé sa foi malgré de grandes pertes et a été béni doublement à la fin de son épreuve.",
+        "reference": "Job 1:1-22 ; 2:3-10 ; 42:10-17",
+        "difficulte": 1
+    },
+    {
+        "id": 37,
+        "nom": "Joël",
+        "description": "Prophète de Juda, fils de Pethouël, il a annoncé le jour de Jéhovah et a prophétisé l’effusion de l’esprit saint, accomplie à la Pentecôte.",
+        "reference": "Joël 1:1 ; 2:28-32 ; Actes 2:16-21",
+        "difficulte": 3
+    },
+    {
+        "id": 38,
+        "nom": "Jonas",
+        "description": "Prophète envoyé par Jéhovah à Ninive, il a d’abord fui sa mission, a été avalé par un grand poisson, puis a obéi et vu la ville se repentir, ce qui l’a contrarié.",
+        "reference": "Jonas 1:1-17 ; 3:1-10 ; 4:1-3",
+        "difficulte": 2
+    },
+    {
+        "id": 39,
+        "nom": "Jonathan",
+        "description": "Fils du roi Saül et ami fidèle de David, il a soutenu David malgré la jalousie de son père et est mort au combat contre les Philistins.",
+        "reference": "1 Samuel 18:1-4 ; 20:12-17 ; 31:2",
+        "difficulte": 2
+    },
+    {
+        "id": 40,
+        "nom": "Joseph",
+        "description": "Fils de Jacob et de Rachel, vendu par ses frères, il est devenu gouverneur d’Égypte et a sauvé sa famille de la famine, tout en restant fidèle à Jéhovah.",
+        "reference": "Genèse 37:3-28 ; 41:39-41 ; 45:4-8",
+        "difficulte": 1
+    },
+    {
+        "id": 41,
+        "nom": "Joseph (père de Jésus)",
+        "description": "Descendant de David et mari de Marie, il a servi de père adoptif à Jésus sur la terre ; homme droit, il a protégé sa famille et obéi fidèlement aux directives de Dieu.",
+        "reference": "Matthieu 1:18-24 ; 2:13-15 ; Luc 2:4-7",
+        "difficulte": 2
+    },
+    {
+        "id": 42,
+        "nom": "Josué",
+        "description": "Fils de Noun et assistant de Moïse, il a conduit les Israélites en Terre promise après la mort de Moïse et a dirigé la conquête de Canaan avec foi et courage.",
+        "reference": "Nombres 27:18-23 ; Josué 1:1-9 ; 6:1-5",
+        "difficulte": 1
+    },
+    {
+        "id": 43,
+        "nom": "Juda",
+        "description": "Fils de Jacob et de Léa, il a plaidé pour la vie de Joseph, est devenu l’ancêtre de la lignée royale menant au Messie, et a reçu une bénédiction prophétique spéciale de Jacob.",
+        "reference": "Genèse 37:26, 27 ; 44:18-34 ; 49:8-10",
+        "difficulte": 3
+    },
+    {
+        "id": 44,
+        "nom": "Judas Iscariote",
+        "description": "L’un des douze apôtres de Jésus, chargé de la bourse, il a trahi Jésus pour 30 pièces d’argent, puis s’est suicidé après avoir été consumé par le remords.",
+        "reference": "Matthieu 26:14-16 ; 27:3-5 ; Jean 12:6",
+        "difficulte": 1
+    },
+    {
+        "id": 45,
+        "nom": "Lazare",
+        "description": "Frère de Marthe et Marie, ami proche de Jésus, il est mort et a été ressuscité après quatre jours dans la tombe, montrant que Jésus a pouvoir sur la mort.",
+        "reference": "Jean 11:1-44 ; 12:1-11",
+        "difficulte": 2
+    },
+    {
+        "id": 46,
+        "nom": "Léa",
+        "description": "Fille de Laban et première femme de Jacob, sœur de Rachel, elle a donné naissance à six des douze tribus d’Israël, dont Juda et Lévi.",
+        "reference": "Genèse 29:16-35 ; 30:17-21",
+        "difficulte": 3
+    },
+    {
+        "id": 47,
+        "nom": "Loth",
+        "description": "Neveu d’Abraham, il a habité Sodome mais a été sauvé avec ses filles avant sa destruction ; sa femme a été transformée en statut de sel pour avoir regardé en arrière.",
+        "reference": "Genèse 13:5-12 ; 19:15-26",
+        "difficulte": 2
+    },
+    {
+        "id": 48,
+        "nom": "Luc",
+        "description": "Médecin et compagnon de Paul, il est l’auteur inspiré de l’Évangile de Luc et des Actes des Apôtres ; il n’était pas apôtre mais a fidèlement soutenu l’œuvre de prédication.",
+        "reference": "Colossiens 4:14 ; Luc 1:1-4 ; Actes 1:1",
+        "difficulte": 2
+    },
+    {
+        "id": 49,
+        "nom": "Marie (mère de Jésus)",
+        "description": "Femme de Joseph et mère de Jésus, elle a été choisie par Jéhovah pour porter son Fils ; humble et fidèle, elle a assisté à son ministère jusqu’à sa mort.",
+        "reference": "Luc 1:26-38 ; 2:6-7 ; Jean 19:25-27",
+        "difficulte": 1
+    },
+    {
+        "id": 50,
+        "nom": "Marie de Magdala",
+        "description": "Femme guérie par Jésus de sept démons, elle est devenue une fidèle disciple et a été la première à voir Jésus ressuscité.",
+        "reference": "Luc 8:2 ; Jean 20:1, 11-18",
+        "difficulte": 2
+    },
+    {
+        "id": 51,
+        "nom": "Marthe",
+        "description": "Sœur de Marie et de Lazare, amie proche de Jésus, elle s’est distinguée par son hospitalité et sa foi, notamment lorsqu’elle a affirmé croire en la résurrection.",
+        "reference": "Luc 10:38-42 ; Jean 11:20-27",
+        "difficulte": 2
+    },
+    {
+        "id": 52,
+        "nom": "Matthieu",
+        "description": "Ancien collecteur d’impôts devenu apôtre de Jésus, auteur de l’Évangile selon Matthieu.",
+        "reference": "Matthieu 9:9 ; Marc 2:14 ; Luc 5:27-28",
+        "difficulte": 1
+    },
+    {
+        "id": 53,
+        "nom": "Moïse",
+        "description": "Fils d’Amram et Jokébed, il a été choisi par Jéhovah pour libérer Israël de l’esclavage en Égypte, recevoir la Loi, et conduire le peuple jusqu’aux frontières de la Terre promise.",
+        "reference": "Exode 3:10-12 ; 14:21-31 ; Deutéronome 34:5",
+        "difficulte": 1
+    },
+    {
+        "id": 54,
+        "nom": "Nathan",
+        "description": "Prophète à la cour du roi David, il a transmis des messages importants de Jéhovah, notamment pour reprendre David après son péché avec Bath-Shéba et pour annoncer la venue du Messie par sa lignée.",
+        "reference": "2 Samuel 7:1-17 ; 12:1-14 ; 1 Rois 1:32-34",
+        "difficulte": 3
+    },
+    {
+        "id": 55,
+        "nom": "Noé",
+        "description": "Fils de Lamek, homme intègre au milieu d’une génération corrompue, il a construit l’arche sur ordre de Dieu pour survivre au Déluge avec sa famille et les animaux.",
+        "reference": "Genèse 6:9-22 ; 7:1-24 ; Hébreux 11:7",
+        "difficulte": 1
+    },
+    {
+        "id": 56,
+        "nom": "Noémi",
+        "description": "Femme d’Élimélek et belle-mère de Ruth, elle a perdu son mari et ses fils, mais a gardé foi en Jéhovah et a soutenu Ruth, devenant ancêtre du roi David.",
+        "reference": "Ruth 1:1-22 ; 4:13-17",
+        "difficulte": 3
+    },
+    {
+        "id": 57,
+        "nom": "Paul",
+        "description": "Né Saul de Tarse, ancien persécuteur des chrétiens devenu apôtre de Jésus après une vision, il a prêché aux nations, fondé des assemblées et rédigé plusieurs lettres inspirées.",
+        "reference": "Actes 9:1-22 ; 13:1-3 ; 2 Corinthiens 11:23-28",
+        "difficulte": 1
+    },
+    {
+        "id": 58,
+        "nom": "Pierre",
+        "description": "Pêcheur de Galilée et frère d’André, il est devenu l’un des douze apôtres de Jésus, a joué un rôle clé dans l’expansion du christianisme et a écrit deux lettres inspirées.",
+        "reference": "Matthieu 4:18-20 ; Jean 21:15-17 ; 1 Pierre 1:1",
+        "difficulte": 1
+    },
+    {
+        "id": 59,
+        "nom": "Philippe",
+        "description": "L’un des douze apôtres de Jésus, originaire de Bethsaïda, il a présenté Nathanaël à Jésus et a été témoin de plusieurs miracles ; à ne pas confondre avec Philippe l’évangélisateur.",
+        "reference": "Jean 1:43-46 ; 6:5-7 ; 14:8-9",
+        "difficulte": 2
+    },
+    {
+        "id": 60,
+        "nom": "Rachel",
+        "description": "Fille de Laban et femme bien-aimée de Jacob, sœur de Léa, elle a eu du mal à avoir des enfants, mais a donné naissance à Joseph et Benjamin avant de mourir en couche.",
+        "reference": "Genèse 29:16-30 ; 30:22-24 ; 35:16-20",
+        "difficulte": 2
+    },
+    {
+        "id": 61,
+        "nom": "Rahab",
+        "description": "Femme de Jéricho qui a caché les espions israélites, elle a manifesté foi en Jéhovah, a été épargnée lors de la destruction de la ville et fait partie de la lignée du Messie.",
+        "reference": "Josué 2:1-21 ; 6:22-25 ; Matthieu 1:5",
+        "difficulte": 2
+    },
+    {
+        "id": 62,
+        "nom": "Rébecca",
+        "description": "Femme d’Isaac et mère de Jacob et Ésaü, choisie en réponse à la prière d’un serviteur d’Abraham, elle a joué un rôle actif pour que la bénédiction revienne à Jacob.",
+        "reference": "Genèse 24:12-67 ; 27:5-17",
+        "difficulte": 2
+    },
+    {
+        "id": 63,
+        "nom": "Ruth",
+        "description": "Moabite veuve de Mahlôn, elle a loyalement suivi sa belle-mère Noémi en Israël, a manifesté une foi remarquable en Jéhovah et est devenue arrière-grand-mère du roi David.",
+        "reference": "Ruth 1:16, 17 ; 2:1-12 ; 4:13-17",
+        "difficulte": 1
+    },
+    {
+        "id": 64,
+        "nom": "Saül",
+        "description": "Premier roi d’Israël, choisi par Dieu mais rejeté plus tard pour sa désobéissance ; il a poursuivi David par jalousie et est mort au combat contre les Philistins.",
+        "reference": "1 Samuel 10:1 ; 15:22-26 ; 31:1-6",
+        "difficulte": 1
+    },
+    {
+        "id": 65,
+        "nom": "Salomon",
+        "description": "Fils de David et de Bath-Shéba, troisième roi d’Israël, il a reçu une grande sagesse de Dieu, a construit le temple de Jérusalem, mais s’est égaré plus tard en adorant d’autres dieux.",
+        "reference": "1 Rois 3:5-14 ; 6:1 ; 11:1-4",
+        "difficulte": 1
+    },
+    {
+        "id": 66,
+        "nom": "Samuel",
+        "description": "Fils d’Elqana et d’Anne, donné dès l’enfance au service de Jéhovah, il a été prophète, juge et dernier chef d’Israël avant la royauté, et a oint les rois Saül puis David.",
+        "reference": "1 Samuel 1:20-28 ; 3:1-21 ; 10:1",
+        "difficulte": 1
+    },
+    {
+        "id": 67,
+        "nom": "Sara",
+        "description": "Femme d’Abraham et mère d’Isaac, elle a donné naissance à un fils dans sa vieillesse grâce à la promesse de Dieu, et son nom signifie « princesse ».",
+        "reference": "Genèse 17:15-19 ; 21:1-3 ; Hébreux 11:11",
+        "difficulte": 1
+    },
+    {
+        "id": 68,
+        "nom": "Siméon",
+        "description": "Fils de Jacob et de Léa, frère de Juda, il a participé à la vengeance contre Sichem avec Lévi et est devenu l’ancêtre de la tribu de Siméon, qui a reçu une part dans le territoire de Juda.",
+        "reference": "Genèse 29:33 ; 34:25-30 ; Josué 19:1",
+        "difficulte": 3
+    },
+    {
+        "id": 69,
+        "nom": "Siméon",
+        "description": "Homme âgé et fidèle, présent au temple quand Joseph et Marie y ont présenté Jésus bébé. Il a prophétisé à son sujet après l’avoir pris dans ses bras.",
+        "reference": "Luc 2:25-35",
+        "difficulte": 4
+    },
+    {
+        "id": 70,
+        "nom": "Siméï",
+        "description": "Membre de la famille de Saül, il a maudit le roi David en fuyant Jérusalem. Plus tard, David lui a pardonné, mais sur son lit de mort, il a chargé Salomon de veiller sur sa conduite. Siméï a fini par mourir pour avoir désobéi à un ordre royal.",
+        "reference": "2 Samuel 16:5-13 ; 19:18-23 ; 1 Rois 2:8-9, 36-46",
+        "difficulte": 4
+    },
+    {
+        "id": 71,
+        "nom": "Tabitha",
+        "description": "Disciple chrétienne de Joppé, connue pour ses nombreux actes de bonté et de générosité envers les veuves ; elle est morte subitement mais a été ressuscitée par l’apôtre Pierre.",
+        "reference": "Actes 9:36-42",
+        "difficulte": 3
+    },
+    {
+        "id": 72,
+        "nom": "Thaddée",
+        "description": "L’un des douze apôtres de Jésus, aussi appelé Judas (fils de Jacques) dans certaines listes ; il est mentionné peu souvent et ne doit pas être confondu avec Judas Iscariote.",
+        "reference": "Matthieu 10:3 ; Luc 6:16 ; Jean 14:22",
+        "difficulte": 4
+    },
+    {
+        "id": 73,
+        "nom": "Thomas",
+        "description": "L’un des douze apôtres de Jésus, souvent surnommé 'le sceptique' parce qu’il a voulu voir les marques des clous pour croire à la résurrection ; Jésus a répondu à son doute avec compassion.",
+        "reference": "Jean 11:16 ; 20:24-29",
+        "difficulte": 2
+    },
+    {
+        "id": 74,
+        "nom": "Timothée",
+        "description": "Jeune chrétien d’origine juive et grecque, compagnon de l’apôtre Paul, il a été un fidèle missionnaire et a reçu deux lettres inspirées contenant des conseils pour les anciens.",
+        "reference": "Actes 16:1-3 ; Philippiens 2:19-22 ; 1 Timothée 1:1-3",
+        "difficulte": 1
+    },
+    {
+        "id": 75,
+        "nom": "Tite",
+        "description": "Chrétien d’origine grecque et collaborateur proche de Paul, il a été envoyé en mission pour organiser les assemblées, notamment en Crète, et a reçu une lettre inspirée.",
+        "reference": "Galates 2:1-3 ; 2 Corinthiens 7:6 ; Tite 1:4-5",
+        "difficulte": 2
+    },
+    {
+        "id": 76,
+        "nom": "Zacharie",
+        "description": "Prêtre de la division d’Abiya et père de Jean le Baptiste, il a reçu la visite de l’ange Gabriel dans le temple, mais a été temporairement rendu muet pour avoir douté du message divin.",
+        "reference": "Luc 1:5-22, 59-64",
+        "difficulte": 3
+    },
+    {
+        "id": 77,
+        "nom": "Zébédée",
+        "description": "Père des apôtres Jacques et Jean, il était pêcheur sur le lac de Galilée ; ses fils ont quitté leur barque et leur métier pour suivre Jésus.",
+        "reference": "Matthieu 4:21, 22 ; Marc 1:19, 20",
+        "difficulte": 4
+    },
+    {
+        "id": 78,
+        "nom": "Zachée",
+        "description": "Chef des collecteurs d’impôts à Jéricho, il était petit de taille mais désireux de voir Jésus ; touché par l’attention de Jésus, il s’est repenti sincèrement et a changé de conduite.",
+        "reference": "Luc 19:1-10",
+        "difficulte": 2
+    },
+    {
+        "id": 79,
+        "nom": "Séphora/Zippora",
+        "description": "Fille de Jéthro et femme de Moïse, elle l’a accompagné lors de sa mission en Égypte et a agi rapidement pour circoncire leur fils afin d’éviter un désaccord avec Jéhovah.",
+        "reference": "Exode 2:16-21 ; 4:24-26 ; 18:2-4",
+        "difficulte": 3
+    },
+    {
+        "id": 80,
+        "nom": "Zorobabel",
+        "description": "Descendant de David et gouverneur de Juda après l’exil à Babylone, il a dirigé la reconstruction de l’autel et du temple de Jérusalem avec l’appui des prophètes Aggée et Zacharie.",
+        "reference": "Esdras 3:2 ; Zacharie 4:6-9 ; Matthieu 1:12, 13",
+        "difficulte": 3
+    },
+    {
+        "id": 81,
+        "nom": "Hénok",
+        "description": "Septième homme dans la lignée d’Adam, il a marché fidèlement avec Dieu et a été enlevé pour éviter une mort violente ; il a aussi prophétisé contre les méchants de son époque.",
+        "reference": "Genèse 5:21-24 ; Hébreux 11:5 ; Jude 14, 15",
+        "difficulte": 2
+    },
+    {
+        "id": 82,
+        "nom": "Miriam",
+        "description": "Sœur de Moïse et d’Aaron, prophétesse, elle a aidé à sauver Moïse bébé, chanté après la traversée de la mer Rouge, mais a été frappée de lèpre pour s’être opposée à Moïse.",
+        "reference": "Exode 2:4-8 ; 15:20, 21 ; Nombres 12:1-15",
+        "difficulte": 2
+    },
+    {
+        "id": 83,
+        "nom": "Zacharie",
+        "description": "Fils de Bérékia, il a prophétisé à Juda après le retour d’exil de Babylone, encourageant le peuple à reconstruire le temple et annonçant des prophéties messianiques marquantes.",
+        "reference": "Zacharie 1:1 ; 4:6-10 ; 9:9 ; 12:10",
+        "difficulte": 2
+    },
+    {
+        "id": 84,
+        "nom": "Manoah",
+        "description": "Père de Samson, de la tribu de Dan, il a reçu avec sa femme la visite d’un ange annonçant la naissance de leur fils, qui serait naziréen et libérateur d’Israël.",
+        "reference": "Juges 13:2-24",
+        "difficulte": 5
+    },
+    {
+        "id": 85,
+        "nom": "Pharaon",
+        "description": "Titre porté par les rois d’Égypte ; plusieurs sont mentionnés dans la Bible, mais le plus célèbre est celui qui a été confronté à Moïse et a refusé de libérer les Israélites, jusqu’à ce que Jéhovah frappe l’Égypte de dix plaies.",
+        "reference": "Exode 5:1, 2 ; 7:1-5 ; 14:5-31",
+        "difficulte": 2
+    },
+    {
+        "id": 86,
+        "nom": "Putiphar",
+        "description": "Officier de Pharaon et chef de la garde, il a acheté Joseph comme esclave ; sa femme a faussement accusé Joseph de tentative de viol après qu’il a rejeté ses avances.",
+        "reference": "Genèse 39:1-20",
+        "difficulte": 3
+    },
+    {
+        "id": 87,
+        "nom": "Ruben",
+        "description": "Premier fils de Jacob et de Léa, il a tenté de sauver Joseph de ses frères mais a perdu son droit d’aînesse à cause d’un acte irrespectueux envers son père.",
+        "reference": "Genèse 29:32 ; 37:21, 22 ; 35:22 ; 49:3, 4",
+        "difficulte": 3
+    },
+    {
+        "id": 88,
+        "nom": "Samson",
+        "description": "Juge d’Israël doté d’une force extraordinaire grâce à un vœu de naziréat, il a combattu les Philistins mais a été trahi par Dalila ; il est mort en détruisant un temple philistin, tuant de nombreux ennemis.",
+        "reference": "Juges 13:5 ; 14:5-6 ; 16:4-30",
+        "difficulte": 1
+    },
+    {
+        "id": 89,
+        "nom": "Jessé",
+        "description": "Père de David et descendant de Boaz et Ruth, il a vécu à Bethléhem et a présenté ses fils au prophète Samuel, qui a reçu l’ordre de Jéhovah d’oindre David comme futur roi.",
+        "reference": "1 Samuel 16:1-13 ; Ruth 4:17, 22 ; Matthieu 1:5, 6",
+        "difficulte": 3
+    },
+    {
+        "id": 90,
+        "nom": "Josaphat",
+        "description": "Roi fidèle de Juda, fils d’Asa, il a renforcé l’adoration de Jéhovah, envoyé des Lévites enseigner la Loi et obtenu la victoire sur ses ennemis par la foi et la prière.",
+        "reference": "2 Chroniques 17:1-9 ; 20:1-30",
+        "difficulte": 3
+    },
+    {
+        "id": 91,
+        "nom": "Josias",
+        "description": "Roi de Juda, petit fils de Manassé, devenu roi à 8 ans, il s’est distingué par sa fidélité à Jéhovah, a purgé le pays de l’idolâtrie et restauré le culte pur après avoir redécouvert le livre de la Loi.",
+        "reference": "2 Rois 22:1–23:25 ; 2 Chroniques 34:1–35:27",
+        "difficulte": 2
+    },
+    {
+        "id": 92,
+        "nom": "Joseph d'Arimathie",
+        "description": "Membre du Sanhédrin et disciple de Jésus en secret, il a courageusement demandé à Pilate le corps de Jésus et l’a enterré dans son propre tombeau neuf.",
+        "reference": "Matthieu 27:57-60 ; Marc 15:43-46 ; Jean 19:38",
+        "difficulte": 3
+    },
+    {
+        "id": 93,
+        "nom": "Jaïrus",
+        "description": "Chef de synagogue juive, il a demandé à Jésus de sauver sa fille mourante ; Jésus l’a encouragé à avoir foi et a ressuscité sa fille après sa mort.",
+        "reference": "Marc 5:22-24, 35-43 ; Luc 8:41-56",
+        "difficulte": 3
+    },
+    {
+        "id": 94,
+        "nom": "Élisabeth",
+        "description": "Femme de Zacharie et mère de Jean le Baptiste, elle était juste aux yeux de Dieu et a conçu miraculeusement dans sa vieillesse grâce à l’intervention divine.",
+        "reference": "Luc 1:5-7, 24-25, 57-60",
+        "difficulte": 3
+    },
+    {
+        "id": 95,
+        "nom": "Ananias",
+        "description": "Disciple fidèle envoyé par Jésus pour guérir Saul (Paul) de sa cécité après sa vision sur le chemin de Damas.",
+        "reference": "Actes 9:10-18",
+        "difficulte": 4
+    },
+    {
+        "id": 96,
+        "nom": "Saphira",
+        "description": "Femme d’Ananias, elle a menti avec son mari au sujet d’un don fait à la congrégation chrétienne. Quand elle a confirmé le mensonge, elle est morte subitement par jugement divin, illustrant la gravité de l’hypocrisie spirituelle.",
+        "reference": "Actes 5:1-11",
+        "difficulte": 3
+    },
+    {
+        "id": 97,
+        "nom": "Gamaliel",
+        "description": "Pharisien et membre respecté du Sanhédrin, il a conseillé la prudence face aux apôtres, en affirmant que si leur œuvre venait de Dieu, elle ne pourrait pas être arrêtée. Il a aussi été le professeur de l’apôtre Paul.",
+        "reference": "Actes 5:34-39 ; 22:3",
+        "difficulte": 3
+    },
+    {
+        "id": 98,
+        "nom": "Silas",
+        "description": "Disciple du 1er siècle, prophète et compagnon fidèle de l’apôtre Paul dans ses voyages missionnaires ; il a coécrit certaines lettres inspirées et a été emprisonné pour sa foi.",
+        "reference": "Actes 15:22, 32, 40 ; 16:19-26 ; 1 Thessaloniciens 1:1",
+        "difficulte": 2
+    },
+    {
+        "id": 99,
+        "nom": "Apollos",
+        "description": "Juif originaire d’Alexandrie, éloquent et bien versé dans les Écritures ; après avoir été instruit plus précisément par Aquilas et Priscille, il est devenu un prédicateur puissant et respecté dans l’assemblée chrétienne.",
+        "reference": "Actes 18:24-28 ; 1 Corinthiens 3:5-6",
+        "difficulte": 4
+    },
+    {
+        "id": 100,
+        "nom": "Uri",
+        "description": "Artisan israélite, père de Betsalel, que Jéhovah a choisi pour construire les éléments du tabernacle. Il appartenait à la tribu de Juda.",
+        "reference": "Exode 31:2 ; 35:30",
+        "difficulte": 5
+    },
+    {
+        "id": 101,
+        "nom": "Onésime",
+        "description": "Esclave fugitif de Philémon, il a rencontré l’apôtre Paul en prison, est devenu chrétien et a été renvoyé à son maître comme un frère dans la foi, avec une lettre pleine de tact et de compassion.",
+        "reference": "Philémon 10-16 ; Colossiens 4:9",
+        "difficulte": 5
+    },
+    {
+        "id": 102,
+        "nom": "Philemon",
+        "description": "Chrétien de Colosses et maître d’Onésime, à qui Paul a adressé une lettre inspirée. Il était manifestement un homme généreux et hospitalier, avec une assemblée qui se réunissait dans sa maison.",
+        "reference": "Philémon 1-25",
+        "difficulte": 3
+    },
+    {
+        "id": 103,
+        "nom": "Lydie",
+        "description": "Marchande de pourpre à Philippes et adoratrice de Dieu, elle a écouté attentivement Paul, est devenue croyante, s’est fait baptiser avec sa maison et a montré une grande hospitalité envers les missionnaires.",
+        "reference": "Actes 16:14-15, 40",
+        "difficulte": 3
+    },
+    {
+        "id": 104,
+        "nom": "Urie",
+        "description": "Hittite fidèle et valeureux soldat de l’armée de David. Il était le mari de Bethsabée. David a organisé sa mort pour pouvoir épouser sa femme après avoir commis l’adultère avec elle.",
+        "reference": "2 Samuel 11:3-17",
+        "difficulte": 3
+    },
+    {
+        "id": 105,
+        "nom": "Bethsabée",
+        "description": "Femme d’Urie, puis épouse du roi David. Elle est devenue la mère de Salomon. Son histoire illustre à la fois une faute grave de David et la miséricorde de Dieu.",
+        "reference": "2 Samuel 11–12 ; 1 Rois 1:11-31",
+        "difficulte": 2
+    },
+    {
+        "id": 106,
+        "nom": "Absalom",
+        "description": "Fils de David, réputé pour sa beauté mais aussi pour sa rébellion. Il a tenté de renverser son père et a trouvé la mort dans sa révolte.",
+        "reference": "2 Samuel chapitres 13 à 18",
+        "difficulte": 2
+    },
+    {
+        "id": 107,
+        "nom": "Naaman",
+        "description": "Chef de l’armée du roi de Syrie, atteint de la lèpre. Il a été guéri miraculeusement après avoir obéi au prophète Élisée, malgré ses doutes initiaux.",
+        "reference": "2 Rois 5:1-14",
+        "difficulte": 3
+    },
+    {
+        "id": 108,
+        "nom": "Loïs",
+        "description": "Grand-mère de Timothée, elle est saluée par Paul pour sa foi sincère, qu’elle a manifestement transmise à sa fille Eunice et à son petit-fils Timothée.",
+        "reference": "2 Timothée 1:5",
+        "difficulte": 4
+    },
+    {
+        "id": 109,
+        "nom": "Eunice",
+        "description": "Mère juive croyante de Timothée, elle lui a transmis, avec sa propre mère Loïs, une foi sincère et une connaissance solide des Écritures dès son enfance.",
+        "reference": "2 Timothée 1:5 ; 3:14, 15",
+        "difficulte": 4
+    },
+    {
+        "id": 110,
+        "nom": "Élihou",
+        "description": "Jeune homme présent parmi les amis de Job, il attend patiemment que les plus âgés parlent avant d’intervenir. Contrairement aux autres, il reconnaît que Job a raison de chercher des réponses, mais lui rappelle que Dieu est toujours juste. Son discours prépare le terrain pour l’intervention de Jéhovah lui-même.",
+        "reference": "Job chapitres 32 à 37",
+        "difficulte": 3
+    },
+    {
+        "id": 111,
+        "nom": "Jézabel",
+        "description": "Épouse du roi Achab, cruelle, idolâtre et manipulatrice. Elle a persécuté les prophètes de Jéhovah et a introduit le culte de Baal en Israël. Sa fin a été violente, comme l’avait prophétisé Élie.",
+        "reference": "1 Rois chapitres 16 à 21 ; 2 Rois 9:30-37",
+        "difficulte": 2
+    },
+    {
+        "id": 112,
+        "nom": "Aristarque",
+        "description": "Chrétien originaire de Thessalonique, compagnon fidèle de Paul dans plusieurs de ses voyages, y compris lors de son transfert vers Rome ; il a partagé les épreuves de Paul, y compris l'emprisonnement.",
+        "reference": "Actes 19:29 ; 20:4 ; 27:2 ; Colossiens 4:10 ; Philémon 24",
+        "difficulte": 5
+    },
+    {
+        "id": 113,
+        "nom": "Nabal",
+        "description": "Homme riche mais rude et méprisant, mari d’Abigaïl. Il a refusé d’aider David et ses hommes, malgré les services qu’ils lui avaient rendus. Jéhovah l’a frappé et il est mort subitement peu après.",
+        "reference": "1 Samuel 25:2-38",
+        "difficulte": 3
+    },
+    {
+        "id": 114,
+        "nom": "Gad",
+        "description": "Prophète de Jéhovah à l’époque du roi David, il a servi de conseiller spirituel au roi, lui transmettant des instructions et des avertissements de la part de Dieu. Il est aussi mentionné comme ayant participé à la rédaction de récits sur la vie de David.",
+        "reference": "1 Samuel 22:5 ; 2 Samuel 24:11-13 ; 1 Chroniques 29:29",
+        "difficulte": 3
+    },
+    {
+        "id": 115,
+        "nom": "Lamek",
+        "description": "Descendant de Caïn, il est le premier homme dans la Bible à prendre deux femmes. Il est aussi connu pour son chant menaçant dans lequel il se vante d’une vengeance disproportionnée.",
+        "reference": "Genèse 4:19, 23-24",
+        "difficulte": 4
+    },
+    {
+        "id": 116,
+        "nom": "Jéthro",
+        "description": "Prêtre de Madian et beau-père de Moïse. Il lui a offert refuge après sa fuite d’Égypte, puis lui a donné d’excellents conseils sur l’organisation du peuple d’Israël.",
+        "reference": "Exode 2:16-21 ; 18:1-27",
+        "difficulte": 3
+    },
+    {
+        "id": 117,
+        "nom": "Esdras",
+        "description": "Prêtre et copiste habile de la Loi, descendant d’Aaron, il a conduit un groupe de Juifs de Babylone à Jérusalem après l’exil. Il a joué un rôle essentiel dans la restauration de la pureté religieuse et dans l’enseignement de la Loi de Dieu au peuple.",
+        "reference": "Esdras 7:6, 10 ; Néhémie 8:1-8",
+        "difficulte": 2
+    },
+    {
+        "id": 118,
+        "nom": "Osée",
+        "description": "Prophète d’Israël au 8ᵉ siècle av. n. è., il a été chargé de dénoncer l’infidélité spirituelle du peuple en comparant leur trahison à celle d’une épouse infidèle. Sa propre expérience conjugale a illustré le message de Jéhovah sur la loyauté et la miséricorde.",
+        "reference": "Osée 1:2 ; 2:19, 20 ; 6:6",
+        "difficulte": 3
+    },
+    {
+        "id": 119,
+        "nom": "Boaz",
+        "description": "Homme riche et respecté de Bethléhem, il a montré bonté et loyauté en rachetant Ruth, une veuve moabite fidèle. Il est devenu son mari et l’un des ancêtres du roi David et de Jésus.",
+        "reference": "Ruth chapitres 2 à 4 ; Matthieu 1:5",
+        "difficulte": 3
+    },
+    {
+        "id": 120,
+        "nom": "Marie (soeur de Marthe)",
+        "description": "Disciple de Jésus et sœur de Marthe et de Lazare, elle est connue pour avoir écouté attentivement Jésus plutôt que de se laisser distraire par les tâches domestiques, et pour avoir oint ses pieds avec un parfum précieux en signe d’honneur.",
+        "reference": "Luc 10:38-42 ; Jean 11:1-2 ; 12:1-8",
+        "difficulte": 2
+    },
+    {
+        "id": 121,
+        "nom": "Jason",
+        "description": "Chrétien de Thessalonique qui a accueilli Paul et Silas dans sa maison. Il a été traîné devant les autorités par des opposants, mais a montré courage et fidélité face à la persécution.",
+        "reference": "Actes 17:5-9 ; Romains 16:21",
+        "difficulte": 4
+    },
+    {
+        "id": 122,
+        "nom": "Néhémie",
+        "description": "Juif fidèle et échanson du roi perse Artaxerxès, il a dirigé la reconstruction des murailles de Jérusalem malgré l’opposition, et a ensuite encouragé la réforme spirituelle du peuple en collaboration avec Esdras.",
+        "reference": "Néhémie 1:1-4 ; 2:1-8 ; 6:15, 16 ; 8:9",
+        "difficulte": 2
+    },
+    {
+        "id": 123,
+        "nom": "Abdias",
+        "description": "Prophète de Jéhovah et auteur du plus court livre de l’Ancien Testament. Il a annoncé le jugement contre Édom pour sa violence envers Israël, soulignant la justice de Dieu et la restauration finale de son peuple.",
+        "reference": "Livre d’Abdias",
+        "difficulte": 4
+    },
+    {
+        "id": 124,
+        "nom": "Michée",
+        "description": "Prophète de Juda au 8ᵉ siècle av. n. è., contemporain d’Isaïe, il a annoncé la destruction de Samarie et de Jérusalem, tout en prophétisant la venue du Messie à Bethléhem. Il a fermement dénoncé l’injustice et plaidé pour une vraie foi.",
+        "reference": "Michée 1:1 ; 5:2 ; 6:8",
+        "difficulte": 3
+    },
+    {
+        "id": 125,
+        "nom": "Nahum",
+        "description": "Prophète de Jéhovah ayant annoncé la destruction de Ninive, la capitale de l’Empire assyrien. Son message a montré que, même si Dieu est patient, il agit avec puissance contre les nations arrogantes et cruelles.",
+        "reference": "Nahum 1:1-3 ; 2:1 ; 3:5-7",
+        "difficulte": 4
+    },
+    {
+        "id": 126,
+        "nom": "Habacuc",
+        "description": "Prophète de Jéhovah qui a sincèrement interrogé Dieu sur la tolérance du mal et de l’injustice. Jéhovah lui a répondu que la justice triompherait en son temps. Habacuc a exprimé une confiance profonde malgré des circonstances difficiles.",
+        "reference": "Habacuc 1:1-3 ; 2:2-4 ; 3:17-19",
+        "difficulte": 4
+    },
+    {
+        "id": 127,
+        "nom": "Sophonie",
+        "description": "Prophète de Juda au temps du roi Josias, il a annoncé le « jour de Jéhovah » contre Juda et les nations rebelles, tout en encourageant les humbles à rechercher Jéhovah pour être épargnés. Son message mêle jugement et espoir de restauration.",
+        "reference": "Sophonie 1:1-3 ; 2:2, 3 ; 3:9, 17",
+        "difficulte": 4
+    },
+    {
+        "id": 128,
+        "nom": "Aggée",
+        "description": "Prophète envoyé par Jéhovah pour encourager les Juifs revenus d’exil à reprendre et achever la reconstruction du temple à Jérusalem. Son message a réveillé leur zèle spirituel et renforcé leur foi en l’accomplissement des promesses divines.",
+        "reference": "Aggée 1:1-8 ; 2:4-9",
+        "difficulte": 3
+    },
+    {
+        "id": 129,
+        "nom": "Malachie",
+        "description": "Dernier prophète de l’Ancien Testament, il a reproché aux Israélites leur relâchement spirituel après le retour d’exil. Il a prophétisé la venue du « messager » (Jean le Baptiste) et a souligné l’importance du respect envers Dieu et de la pureté du culte.",
+        "reference": "Malachie 1:6 ; 2:7-9 ; 3:1-3 ; 4:5, 6",
+        "difficulte": 3
+    },
+    {
+        "id": 130,
+        "nom": "L’eunuque éthiopien",
+        "description": "Haut fonctionnaire de la reine Candace d’Éthiopie, responsable de son trésor. Il lisait le prophète Isaïe sur le chemin du retour de Jérusalem lorsqu’il a rencontré Philippe, qui lui a expliqué les Écritures. Touché, il s’est fait baptiser sur-le-champ.",
+        "reference": "Actes 8:26-39",
+        "difficulte": 3
+    },
+    {
+        "id": 131,
+        "nom": "Ananias",
+        "description": "Chrétien du 1er siècle qui, avec sa femme Saphira, a vendu un terrain mais a menti en prétendant avoir donné l’intégralité du montant à la congrégation. Ce mensonge délibéré contre Dieu a été sévèrement jugé : il est mort subitement.",
+        "reference": "Actes 5:1-11",
+        "difficulte": 3
+    },
+    {
+        "id": 132,
+        "nom": "Shadrak/Hanania",
+        "description": " L’un des trois jeunes Hébreux déportés à Babylone avec Daniel. Avec Méshak et Abed-Négo, il a refusé d’adorer la statue du roi Nabuchodonosor et a été jeté dans la fournaise ardente, mais Jéhovah l’a miraculeusement protégé.",
+        "reference": "Daniel 1:6, 7 ; 3:12-30",
+        "difficulte": 3
+    },
+    {
+        "id": 133,
+        "nom": "Méshak/Mishaël",
+        "description": "Compagnon de Shadrak et Abed-Négo, il a montré une foi inébranlable en refusant l’idolâtrie, même au prix de sa vie. Protégé dans la fournaise ardente.",
+        "reference": "Daniel 1:6, 7 ; 3:12-30",
+        "difficulte": 3
+    },
+    {
+        "id": 134,
+        "nom": "Abed-Négo/Azaria",
+        "description": "Troisième compagnon jeté dans la fournaise pour avoir refusé d’adorer la statue du roi. Il est resté ferme dans sa foi et a été sauvé par un ange de Jéhovah.",
+        "reference": "Daniel 1:6, 7 ; 3:12-30",
+        "difficulte": 3
+    },
+    {
+        "id": 135,
+        "nom": "Nabuchodonosor",
+        "description": "Roi de Babylone durant le 6ᵉ siècle av. n. è., il a conquis Jérusalem et emmené les Juifs en exil. Célèbre pour ses rêves prophétiques interprétés par Daniel, son orgueil a été temporairement abaissé par Dieu quand il a perdu la raison, ce qui l’a poussé à reconnaître la souveraineté de Jéhovah.",
+        "reference": "Daniel chapitres 1 à 4 ; 2 Rois 24:10-17 ; 25:1-21",
+        "difficulte": 1
+    },
+    {
+        "id": 136,
+        "nom": "Mardochée",
+        "description": "Juif fidèle exilé en Perse, cousin et tuteur d’Esther. Il a découvert un complot contre le roi, a refusé de se prosterner devant Haman, et a joué un rôle central dans la délivrance des Juifs menacés d’extermination. Il a ensuite été élevé à une haute fonction dans l’Empire perse.",
+        "reference": "Esther chapitres 2 à 10",
+        "difficulte": 2
+    },
+    {
+        "id": 137,
+        "nom": "Barouk",
+        "description": "Secrétaire et fidèle compagnon du prophète Jérémie, il a écrit sous dictée les paroles inspirées de Jéhovah et a partagé les dangers du ministère prophétique à une époque de grande opposition à Jérusalem.",
+        "reference": "Jérémie 32:12 ; 36:4-32 ; 45:1-5",
+        "difficulte": 3
+    },
+    {
+        "id": 138,
+        "nom": "Balaam",
+        "description": "Prophète non israélite engagé par le roi Balak pour maudire Israël. Jéhovah l’a contraint à bénir son peuple à la place. Plus tard, Balaam a contribué à faire trébucher les Israélites en les poussant à l’immoralité avec les Moabites.",
+        "reference": "Nombres chapitres 22 à 24 ; 31:16 ; Révélation 2:14",
+        "difficulte": 4
+    },
+    {
+        "id": 139,
+        "nom": "Nimrod",
+        "description": "Arrière-petit-fils de Noé, décrit comme un puissant chasseur et le premier à établir un royaume. Il a fondé des villes comme Babel, Érech et Ninive. Il est souvent associé à la rébellion contre Dieu, notamment à travers la construction de la tour de Babel.",
+        "reference": "Genèse 10:8-12 ; 1 Chroniques 1:10 ; Michée 5:6",
+        "difficulte": 2
+    },
+    {
+        "id": 140,
+        "nom": "Akân",
+        "description": "Israélite de la tribu de Juda qui, après la conquête de Jéricho, a désobéi à l’ordre de Dieu en gardant pour lui des biens voués à la destruction. Sa faute a provoqué la défaite d’Israël à Aï. Il a été découvert par tirage au sort et mis à mort avec sa famille.",
+        "reference": "Josué 7:1, 10-26",
+        "difficulte": 5
+    },
+    {
+        "id": 143,
+        "nom": "Jean le Baptiste",
+        "description": "Prophète et précurseur de Jésus, il a été chargé de préparer le peuple pour la venue du Messie. Fils de Zacharie et d’Élisabeth, il a prêché le repentir et baptisé ceux qui voulaient se rapprocher de Dieu, y compris Jésus lui-même. Il a été exécuté sur ordre d’Hérode.",
+        "reference": "Matthieu 3:1-6, 13-17 ; Jean 1:6-8 ; Luc 1:13-17 ; Marc 6:17-29",
+        "difficulte": 1
+    },
+    {
+        "id": 144,
+        "nom": "Hérode le Grand",
+        "description": "Roi de Judée nommé par Rome. Il était rusé, cruel et jaloux de son pouvoir. À la naissance de Jésus, il a ordonné le massacre des garçons de moins de deux ans à Bethléhem pour tenter d’éliminer le « roi des Juifs ».",
+        "reference": "Matthieu 2:1-19 ; Luc 1:5",
+        "difficulte": 2
+    },
+    {
+        "id": 145,
+        "nom": "Ponce Pilate",
+        "description": "Gouverneur romain de Judée au temps de Jésus, il a présidé le procès de Jésus et autorisé son exécution, malgré le fait qu’il ne trouvait en lui aucune faute. Il a cédé à la pression de la foule, préférant maintenir l’ordre plutôt que rendre justice.",
+        "reference": "Matthieu 27:11-26 ; Jean 18:28 – 19:16 ; Luc 23:1-25 ; Marc 15:1-15",
+        "difficulte": 2
+    },
+    {
+        "id": 146,
+        "nom": "Barrabas",
+        "description": "Prisonnier notoire détenu à Jérusalem, coupable de meurtre et de sédition. Il a été relâché à la place de Jésus à la demande de la foule, selon la coutume pascale, alors que Pilate cherchait à apaiser la population.",
+        "reference": "Matthieu 27:16-26 ; Marc 15:7-15 ; Luc 23:18-25 ; Jean 18:40",
+        "difficulte": 3
+    },
+    {
+        "id": 147,
+        "nom": "Nicodème",
+        "description": "Pharisien et membre du Sanhédrin, il est venu voir Jésus de nuit pour s’informer sur ses enseignements. Plus tard, il a défendu Jésus devant les chefs religieux et a participé à son enterrement avec Joseph d’Arimathie.",
+        "reference": "Jean 3:1-21 ; 7:50-52 ; 19:39-42",
+        "difficulte": 3
+    },
+    {
+        "id": 148,
+        "nom": "Simon de Cyrène",
+        "description": "Homme originaire de Cyrène (en Libye actuelle) que les soldats romains ont réquisitionné pour porter le poteau de supplice de Jésus jusqu’au lieu de l’exécution. Il est identifié comme le père d’Alexandre et de Rufus.",
+        "reference": "Matthieu 27:32 ; Marc 15:21 ; Luc 23:26",
+        "difficulte": 4
+    },
+    {
+        "id": 149,
+        "nom": "Cléopas",
+        "description": "Disciple de Jésus qui, après sa résurrection, a marché avec lui sur le chemin d’Emmaüs sans le reconnaître. Son cœur a « brûlé » en écoutant Jésus expliquer les Écritures avant de le reconnaître lors d’un repas.",
+        "reference": "Luc 24:13-35",
+        "difficulte": 4
+    },
+    {
+        "id": 150,
+        "nom": "Matthias",
+        "description": "Disciple de Jésus choisi par tirage au sort pour remplacer Judas Iscariote parmi les douze apôtres, après la résurrection de Jésus. Il avait été témoin de toute l’activité terrestre de Jésus, depuis son baptême jusqu’à son ascension.",
+        "reference": "Actes 1:21-26",
+        "difficulte": 3
+    },
+    {
+        "id": 151,
+        "nom": "Étienne",
+        "description": "Premier chrétien à être mis à mort pour sa foi, il a été choisi comme assistant (diacre) dans la congrégation de Jérusalem. Rempli de foi et d’esprit saint, il a puissamment témoigné devant le Sanhédrin avant d’être lapidé. Jésus lui est apparu juste avant sa mort.",
+        "reference": "Actes 6:5-15 ; 7:1-60",
+        "difficulte": 2
+    },
+    {
+        "id": 152,
+        "nom": "Simon le magicien",
+        "description": "Samaritain connu pour ses pratiques occultes, il s’est fait baptiser après avoir entendu la prédication de Philippe. Mais il a été sévèrement repris par l’apôtre Pierre pour avoir voulu acheter le pouvoir de transmettre l’esprit saint.",
+        "reference": "Actes 8:9-24",
+        "difficulte": 5
+    },
+    {
+        "id": 153,
+        "nom": "Corneille",
+        "description": "Centurion romain « pieux et craignant Dieu » vivant à Césarée, il a été le premier non-Juif incirconcis à devenir chrétien après avoir reçu une vision. Sa conversion marque un tournant dans l’expansion du christianisme vers les nations.",
+        "reference": "Actes chapitres 10 et 11",
+        "difficulte": 3
+    },
+    {
+        "id": 154,
+        "nom": "Sergius Paulus",
+        "description": "Proconsul romain de l’île de Chypre, décrit comme un homme intelligent. Il a demandé à entendre la parole de Dieu de la part de Paul et Barnabé. Impressionné par un miracle, il est devenu croyant, marquant la première conversion d’un haut fonctionnaire romain.",
+        "reference": "Actes 13:6-12",
+        "difficulte": 4
+    },
+    {
+        "id": 155,
+        "nom": "Bar-Jésus/Élymas",
+        "description": "Magicien et faux prophète juif qui s’opposait à Paul et Barnabé devant le proconsul Sergius Paulus, cherchant à détourner ce dernier de la foi. Paul l’a alors frappé de cécité temporaire par la puissance de l’esprit saint.",
+        "reference": "Actes 13:6-11",
+        "difficulte": 3
+    },
+    {
+        "id": 156,
+        "nom": "Jacques",
+        "description": "Fils de Marie et de Joseph, donc demi-frère de Jésus. Bien qu’il n’ait pas cru en Jésus au départ, il est devenu un chrétien fidèle après la résurrection. Il a joué un rôle important dans la congrégation de Jérusalem et est probablement l’auteur de la lettre de Jacques.",
+        "reference": "Matthieu 13:55 ; Jean 7:5 ; Actes 15:13 ; 1 Corinthiens 15:7 ; Jacques 1:1",
+        "difficulte": 1
+    },
+    {
+        "id": 162,
+        "nom": "Aquila",
+        "description": "Juif chrétien et fabricant de tentes, marié à Priscille. Il a travaillé avec l’apôtre Paul et l’a hébergé à Corinthe. Avec sa femme, il a contribué à enseigner et fortifier d’autres chrétiens, notamment Apollos.",
+        "reference": "Actes 18:1-3, 18, 26 ; Romains 16:3 ; 1 Corinthiens 16:19 ; 2 Timothée 4:19",
+        "difficulte": 3
+    },
+    {
+        "id": 163,
+        "nom": "Priscille",
+        "description": "Chrétienne zélée du 1er siècle et épouse d’Aquila. Elle a travaillé aux côtés de son mari et de l’apôtre Paul, et a contribué à enseigner des chrétiens comme Apollos avec douceur et précision. Toujours mentionnée avec son mari, elle est un bel exemple de foi active.",
+        "reference": "Actes 18:2, 18, 26 ; Romains 16:3 ; 1 Corinthiens 16:19 ; 2 Timothée 4:19",
+        "difficulte": 3
+    },
+    {
+        "id": 165,
+        "nom": "Hérode Antipas",
+        "description": "Tétrarque de Galilée et de la Pérée. Il a joué un rôle actif dans les récits de Jean le Baptiste et de Jésus. Marié de façon illégitime à Hérodiade (femme de son frère), ce qui a conduit à l’arrestation de Jean.",
+        "reference": "Marc 6:17-28 ; Luc 23:7-12 ; Matthieu 14:1-12",
+        "difficulte": 3
+    },
+    {
+        "id": 166,
+        "nom": "Eutyche",
+        "description": "Jeune homme qui s’est endormi pendant un long discours de l’apôtre Paul, alors qu’il était assis à une fenêtre au troisième étage. Il est tombé et est mort sur le coup, mais Paul l’a ressuscité, ce qui a profondément encouragé les frères présents.",
+        "reference": "Actes 20:7-12",
+        "difficulte": 3
+    },
+    {
+        "id": 167,
+        "nom": "Hérode Agrippa 1er",
+        "description": "Roi sur une grande partie de la Palestine. Il a persécuté les chrétiens au début de l’ère chrétienne et a fait exécuter l’apôtre Jacques. Plus tard, il a été frappé par Dieu pour s’être attribué de la gloire divine.",
+        "reference": "Actes 12:1-23",
+        "difficulte": 3
+    },
+    {
+        "id": 168,
+        "nom": "Félix",
+        "description": "Gouverneur romain de Judée, devant qui l’apôtre Paul a été conduit après son arrestation. Bien qu’il ait été curieux d’entendre parler de « la foi en Jésus Christ », il a souvent ajourné le procès dans l’espoir d’obtenir un pot-de-vin. Il a finalement laissé Paul en prison pour faire plaisir aux Juifs.",
+        "reference": "Actes 23:24 ; 24:1-27",
+        "difficulte": 3
+    },
+    {
+        "id": 170,
+        "nom": "Festus",
+        "description": "Successeur de Félix comme gouverneur de Judée, il a rapidement dû gérer l’affaire de Paul. Ne sachant comment trancher, il a demandé l’avis du roi Hérode Agrippa II. C’est devant lui que Paul a fait appel à César, ce qui a conduit à son transfert à Rome.",
+        "reference": "Actes 25:1 – 26:32",
+        "difficulte": 4
+    },
+    {
+        "id": 171,
+        "nom": "Hérode Agrippa II",
+        "description": "Fils d’Hérode Agrippa Ier, dernier de la dynastie hérodienne mentionné dans la Bible. Il a assisté au procès de l’apôtre Paul aux côtés de la gouverneure Bérénice. Bien qu’il ait été roi sur certaines régions, il n’avait pas autorité sur la Judée.",
+        "reference": "Actes 25:13 – 26:32",
+        "difficulte": 2
+    },
+    {
+        "id": 172,
+        "nom": "Goliath",
+        "description": "Guerrier philistin géant de Gath, célèbre pour avoir défié les armées d’Israël. Il a été tué par le jeune David, qui l’a affronté avec foi en Jéhovah, une fronde et cinq pierres. Ce combat est devenu emblématique de la victoire du courage spirituel sur la force physique.",
+        "reference": "1 Samuel 17:1-54",
+        "difficulte": 1
+    }
+]
