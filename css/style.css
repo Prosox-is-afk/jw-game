@@ -1,0 +1,87 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    background-color: #121212;
+    color: #fff;
+    font-family: "Segoe UI", sans-serif;
+    display: flex;
+    flex-direction: column;
+}
+
+main {
+    flex: 1;
+}
+.navbar {
+    background-color: #1f1f1f;
+}
+.navbar-brand {
+    font-weight: bold;
+    font-size: 1.5rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+.navbar-brand img {
+    width: 30px;
+    height: 30px;
+}
+
+#logo-jw {
+    color: #000;
+    text-shadow: 1px 1px 0 #f7df1e, -1px 1px 0 #f7df1e, 1px -1px 0 #f7df1e,
+        -1px -1px 0 #f7df1e;
+}
+
+.btn-game {
+    display: flex;
+    justify-content: center;
+    background-color: #f7df1e;
+    color: #000;
+    font-size: 1.3rem;
+    font-weight: 800;
+    text-transform: uppercase;
+    border: none;
+    padding: 1.25rem 2rem;
+    border-radius: 999px;
+    width: 100%;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    text-decoration: none;
+}
+
+.btn-game:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.4);
+    background-color: #f7de1eb9;
+    color: #000;
+}
+
+.btn-content {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.btn-icon {
+    width: 32px;
+    text-align: center;
+}
+
+.btn-label {
+    min-width: 170px; /* assure un début de texte toujours aligné */
+    text-align: left;
+}
+
+footer {
+    background-color: #1f1f1f;
+    color: #888;
+    text-align: center;
+    padding: 1rem 0;
+    font-size: 0.9rem;
+    margin-top: 3rem;
+}
