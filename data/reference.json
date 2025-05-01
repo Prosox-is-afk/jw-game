@@ -1,42 +1,997 @@
 [
     {
+        "id": 1,
+        "reference": "2 Timothée 3:16",
+        "text": "Toute Écriture est inspirée de Dieu et utile pour enseigner, pour reprendre, pour redresser les choses, pour discipliner selon la justice."
+    },
+    {
+        "id": 2,
+        "reference": "Jean 17:17",
+        "text": "Ta parole est vérité."
+    },
+    {
+        "id": 3,
+        "reference": "Hébreux 4:12",
+        "text": "Car la parole de Dieu est vivante et puissante, et plus tranchante qu’aucune épée à deux tranchants."
+    },
+    {
+        "id": 4,
+        "reference": "2 Pierre 1:21",
+        "text": "Car ce n’est pas par la volonté de l’homme qu’une prophétie s’est jamais produite, mais c’est parce que des hommes ont parlé de la part de Dieu, poussés par l’esprit saint."
+    },
+    {
+        "id": 5,
+        "reference": "Tite 1:2",
+        "text": "Cette espérance de la vie éternelle, c’est ce que Dieu, qui ne peut pas mentir, a promis il y a très longtemps."
+    },
+    {
+        "id": 6,
+        "reference": "Psaume 83:18",
+        "text": "Que tous sachent que toi, dont le nom est Jéhovah, tu es, toi seul, le Très-Haut sur toute la terre !"
+    },
+    {
+        "id": 7,
+        "reference": "Isaïe 42:8",
+        "text": "Je suis Jéhovah. C’est là mon nom. Je ne donnerai ma gloire à aucun autre, ni ma louange aux images taillées."
+    },
+    {
+        "id": 8,
+        "reference": "Exode 3:15",
+        "text": "Dieu dit encore à Moïse : \"Tu diras aux Israélites : 'Jéhovah, le Dieu de vos ancêtres, le Dieu d’Abraham, le Dieu d’Isaac et le Dieu de Jacob, m’a envoyé vers vous.' C’est mon nom pour toujours, c’est ainsi que l’on m’invoquera de génération en génération.\""
+    },
+    {
+        "id": 9,
+        "reference": "Proverbes 18:10",
+        "text": "Le nom de Jéhovah est une tour forte. Le juste y accourt et il est en sécurité."
+    },
+    {
+        "id": 10,
+        "reference": "Matthieu 6:9",
+        "text": "Notre Père qui es aux cieux, que ton nom soit sanctifié."
+    },
+    {
+        "id": 11,
+        "reference": "Joël 2:32",
+        "text": "Quiconque invoquera le nom de Jéhovah sera sauvé."
+    },
+    {
+        "id": 12,
+        "reference": "Actes 15:14",
+        "text": "Dieu, pour la première fois, a tourné son attention vers les nations pour tirer d’elles un peuple pour son nom."
+    },
+    {
+        "id": 13,
+        "reference": "Jean 17:6",
+        "text": "J’ai fait connaître ton nom aux hommes que tu m’as donnés du milieu du monde."
+    },
+    {
+        "id": 14,
+        "reference": "Psaume 124:8",
+        "text": "Notre secours est dans le nom de Jéhovah, le Créateur du ciel et de la terre."
+    },
+    {
+        "id": 15,
+        "reference": "Malachie 3:16",
+        "text": "Un livre de souvenir fut écrit devant lui pour ceux qui craignent Jéhovah et pour ceux qui pensent à son nom."
+    },
+    {
+        "id": 16,
+        "reference": "Révélation 4:11",
+        "text": "Tu es digne, Jéhovah notre Dieu, de recevoir la gloire, l’honneur et la puissance, parce que tu as créé toutes choses."
+    },
+    {
+        "id": 17,
+        "reference": "Isaïe 45:18",
+        "text": "Car voici ce qu’a dit Jéhovah, le Créateur des cieux, le vrai Dieu, Celui qui a formé la terre, qui l’a faite et qui l’a établie fermement, qui ne l’a pas créée simplement pour rien, mais qui l’a formée pour être habitée : « Je suis Jéhovah, et il n’y en a pas d’autre. »"
+    },
+    {
+        "id": 18,
+        "reference": "Psaume 100:3",
+        "text": "Sachez que Jéhovah est Dieu. C’est lui qui nous a faits, et nous sommes à lui."
+    },
+    {
+        "id": 19,
+        "reference": "Jérémie 10:10",
+        "text": "Mais Jéhovah est Dieu en vérité. C’est lui le Dieu vivant et le Roi pour des temps indéfinis."
+    },
+    {
+        "id": 20,
+        "reference": "Daniel 4:17",
+        "text": "Le Très-Haut domine sur le royaume des humains, et il le donne à qui il veut."
+    },
+    {
+        "id": 21,
+        "reference": "Isaïe 33:22",
+        "text": "Car Jéhovah est notre Juge, Jéhovah est notre Législateur, Jéhovah est notre Roi; c’est lui qui nous sauvera."
+    },
+    {
+        "id": 22,
+        "reference": "1 Chroniques 29:11",
+        "text": "À toi, ô Jéhovah, appartiennent la grandeur, la puissance, la beauté, la splendeur et la majesté, car tout ce qui est dans les cieux et sur la terre est à toi."
+    },
+    {
+        "id": 23,
+        "reference": "Actes 17:24",
+        "text": "Le Dieu qui a fait le monde et tout ce qui s’y trouve... n’habite pas dans des temples faits de mains d’homme."
+    },
+    {
+        "id": 24,
         "reference": "Jean 3:16",
-        "texte": "Car Dieu a tellement aimé le monde qu’il a donné son Fils unique, afin que tous ceux qui exercent la foi en lui ne soient pas détruits mais aient la vie éternelle."
+        "text": "Car Dieu a tellement aimé le monde qu’il a donné son Fils unique, afin que tous ceux qui exercent la foi en lui ne soient pas détruits mais aient la vie éternelle."
     },
     {
-        "reference": "Psaume 23:1",
-        "texte": "Jéhovah est mon berger. Je ne manquerai de rien."
+        "id": 25,
+        "reference": "Jean 14:6",
+        "text": "Jésus lui dit : “Je suis le chemin, la vérité et la vie. Personne ne vient au Père sinon par moi.”"
     },
     {
-        "reference": "Philippiens 4:13",
-        "texte": "Pour tout je suis fort grâce à celui qui me donne de la puissance."
+        "id": 26,
+        "reference": "Matthieu 20:28",
+        "text": "Le Fils de l’homme est venu, non pour être servi, mais pour servir et donner sa vie en rançon pour beaucoup."
     },
     {
-        "reference": "Proverbes 3:5-6",
-        "texte": "Fais confiance à Jéhovah de tout ton cœur et ne t’appuie pas sur ton intelligence. Dans toutes tes voies, pense à lui, et il rendra tes sentiers droits."
+        "id": 27,
+        "reference": "Actes 4:12",
+        "text": "Il n’y a de salut en aucun autre, car il n’existe sous le ciel aucun autre nom qui ait été donné parmi les hommes par lequel nous devions être sauvés."
     },
     {
+        "id": 28,
+        "reference": "Jean 14:28",
+        "text": "Car le Père est plus grand que moi."
+    },
+    {
+        "id": 29,
+        "reference": "Colossiens 1:15",
+        "text": "Il est l’image du Dieu invisible, le premier-né de toute création."
+    },
+    {
+        "id": 30,
+        "reference": "1 Timothée 2:5",
+        "text": "Car il y a un seul Dieu, et un seul médiateur entre Dieu et les hommes, un homme, Christ Jésus."
+    },
+    {
+        "id": 31,
+        "reference": "1 Pierre 2:21",
+        "text": "Christ lui-même a souffert pour vous, vous laissant un modèle afin que vous suiviez fidèlement ses traces."
+    },
+    {
+        "id": 32,
+        "reference": "1 Jean 4:9",
+        "text": "Par ceci l’amour de Dieu a été manifesté chez nous : Dieu a envoyé son Fils unique dans le monde afin que nous puissions obtenir la vie par lui."
+    },
+    {
+        "id": 33,
+        "reference": "Révélation 3:14",
+        "text": "Voici ce que déclare l’Amen, le témoin fidèle et vrai, le commencement de la création de Dieu."
+    },
+    {
+        "id": 34,
+        "reference": "Jean 1:1",
+        "text": "Au commencement était la Parole, et la Parole était avec Dieu, et la Parole était un dieu."
+    },
+    {
+        "id": 35,
+        "reference": "Jean 1:14",
+        "text": "Alors la Parole est devenue chair et elle a résidé parmi nous, pleine de faveur imméritée et de vérité."
+    },
+    {
+        "id": 36,
+        "reference": "Actes 5:32",
+        "text": "Nous sommes témoins de ces choses, ainsi que l’esprit saint que Dieu a donné à ceux qui lui obéissent."
+    },
+    {
+        "id": 37,
+        "reference": "Luc 11:13",
+        "text": "Donc, si vous, bien que mauvais, vous savez donner de bonnes choses à vos enfants, à combien plus forte raison le Père céleste donnera-t-il de l’esprit saint à ceux qui le lui demandent !"
+    },
+    {
+        "id": 38,
+        "reference": "Actes 1:8",
+        "text": "Mais vous recevrez de la puissance lorsque l’esprit saint viendra sur vous, et vous serez mes témoins... jusqu’à la partie la plus lointaine de la terre."
+    },
+    {
+        "id": 39,
+        "reference": "Galates 5:22",
+        "text": "Mais le fruit de l’esprit, c’est l’amour, la joie, la paix, la patience, la bonté, la bienveillance, la fé faith."
+    },
+    {
+        "id": 40,
+        "reference": "Galates 5:23",
+        "text": "la douceur, la maîtrise de soi. Contre de telles choses, il n’y a pas de loi."
+    },
+    {
+        "id": 41,
+        "reference": "Éphésiens 4:30",
+        "text": "N’attristez pas l’esprit saint de Dieu, par lequel vous avez été marqués d’un sceau pour un jour de libération par rançon."
+    },
+    {
+        "id": 42,
+        "reference": "2 Timothée 1:7",
+        "text": "Car Dieu ne nous a pas donné un esprit de lâcheté, mais de puissance, d’amour et de bon sens."
+    },
+    {
+        "id": 43,
+        "reference": "Hébreux 11:6",
+        "text": "D’ailleurs, sans la foi il est impossible de lui plaire, car celui qui s’approche de Dieu doit croire qu’il existe et qu’il récompense ceux qui le cherchent sincèrement."
+    },
+    {
+        "id": 44,
+        "reference": "Jacques 2:26",
+        "text": "De même que le corps sans esprit est mort, de même aussi la foi sans les œuvres est morte."
+    },
+    {
+        "id": 45,
+        "reference": "Jacques 2:24",
+        "text": "Vous voyez que c’est par les œuvres qu’un homme est déclaré juste, et non par la foi seule."
+    },
+    {
+        "id": 46,
+        "reference": "Jacques 1:22",
+        "text": "Cependant, mettez la parole en pratique, et ne vous contentez pas de l’écouter, vous trompant par de faux raisonnements."
+    },
+    {
+        "id": 47,
+        "reference": "Matthieu 7:21",
+        "text": "Ce n’est pas tout homme qui me dit “Seigneur, Seigneur” qui entrera dans le Royaume des cieux, mais celui qui fait la volonté de mon Père qui est dans les cieux."
+    },
+    {
+        "id": 48,
+        "reference": "Matthieu 24:13",
+        "text": "Mais celui qui aura enduré jusqu’à la fin, celui-là sera sauvé."
+    },
+    {
+        "id": 49,
+        "reference": "Romains 10:10",
+        "text": "Car avec le cœur on a de la foi pour la justice, mais avec la bouche on fait une déclaration publique pour le salut."
+    },
+    {
+        "id": 50,
+        "reference": "1 Timothée 4:16",
+        "text": "Surveille constamment ta manière de vivre et ton enseignement. En agissant ainsi, tu te sauveras toi-même ainsi que ceux qui t’écoutent."
+    },
+    {
+        "id": 51,
+        "reference": "Philippiens 2:12",
+        "text": "Continuez à accomplir votre salut avec crainte et tremblement."
+    },
+    {
+        "id": 52,
+        "reference": "Ézéchiel 33:8",
+        "text": "Si je dis au méchant : ‘Ô méchant, tu mourras à coup sûr !’, mais que tu ne parles pas pour avertir le méchant de changer de conduite, alors il mourra dans sa faute, parce que c’est un méchant, mais je te demanderai compte de son sang."
+    },
+    {
+        "id": 53,
+        "reference": "Matthieu 6:10",
+        "text": "Que ton Royaume vienne. Que ta volonté se fasse, comme au ciel, aussi sur la terre."
+    },
+    {
+        "id": 54,
+        "reference": "Daniel 2:44",
+        "text": "Aux jours de ces rois-là, le Dieu du ciel établira un royaume qui ne sera jamais détruit. Ce royaume ne passera à aucun autre peuple. Il écrasera et anéantira tous ces royaumes, et lui-même subsistera pour des temps indéfinis."
+    },
+    {
+        "id": 55,
+        "reference": "Matthieu 24:14",
+        "text": "Et cette bonne nouvelle du Royaume sera prêchée sur toute la terre habitée, en témoignage pour toutes les nations; et alors viendra la fin."
+    },
+    {
+        "id": 56,
+        "reference": "Psaume 37:29",
+        "text": "Les justes posséderont la terre, et sur elle ils résideront pour toujours."
+    },
+    {
+        "id": 57,
         "reference": "Matthieu 6:33",
-        "texte": "Continuez donc à chercher d’abord le royaume et la justice de Dieu, et toutes ces autres choses vous seront ajoutées."
+        "text": "Cherchez constamment d’abord le Royaume et la justice de Dieu, et toutes ces autres choses vous seront ajoutées."
     },
     {
-        "reference": "Romains 8:28",
-        "texte": "Nous savons que Dieu fait concourir toutes choses au bien de ceux qui l’aiment, ceux qui sont appelés selon son dessein."
+        "id": 58,
+        "reference": "Révélation 11:15",
+        "text": "Le royaume du monde est devenu le Royaume de notre Seigneur et de son Christ, et il régnera à tout jamais."
     },
     {
+        "id": 59,
+        "reference": "Matthieu 28:19",
+        "text": "Allez donc, et faites des disciples de gens d’entre toutes les nations, les baptisant au nom du Père, du Fils et de l’esprit saint,"
+    },
+    {
+        "id": 60,
+        "reference": "Matthieu 28:20",
+        "text": "et leur enseignant à observer tout ce que je vous ai commandé. Et voici, je suis avec vous tous les jours jusqu’à la conclusion du système de choses."
+    },
+    {
+        "id": 61,
+        "reference": "Ézéchiel 3:18",
+        "text": "Si je dis au méchant : ‘Tu vas mourir à coup sûr’, mais que tu ne l’avertisses pas... alors il mourra pour son péché, mais je te demanderai compte de son sang."
+    },
+    {
+        "id": 62,
+        "reference": "Actes 20:20",
+        "text": "Je n’ai pas hésité à vous annoncer tout ce qui vous était utile, et à vous enseigner publiquement et de maison en maison."
+    },
+    {
+        "id": 63,
+        "reference": "Actes 5:42",
+        "text": "Et chaque jour, dans le temple et de maison en maison, ils continuaient sans arrêt à enseigner et à déclarer la bonne nouvelle concernant le Christ, Jésus."
+    },
+    {
+        "id": 64,
+        "reference": "Romains 10:14",
+        "text": "Mais comment feront-ils appel à celui en qui ils n’ont pas mis leur foi ? Et comment mettront-ils leur foi en celui dont ils n’ont pas entendu parler ? Et comment entendront-ils sans quelqu’un qui prêche ?"
+    },
+    {
+        "id": 65,
+        "reference": "Isaïe 43:10",
+        "text": "« Vous êtes mes témoins, déclare Jéhovah, oui mon serviteur que j’ai choisi... »"
+    },
+    {
+        "id": 66,
+        "reference": "1 Corinthiens 9:16",
+        "text": "Si je déclare la bonne nouvelle, je n’ai pas de raison de me vanter, car une nécessité m’est imposée. Vraiment, malheur à moi si je ne déclarais pas la bonne nouvelle !"
+    },
+    {
+        "id": 67,
+        "reference": "2 Timothée 4:2",
+        "text": "Prêche la parole, interviens en toute occasion favorable et défavorable, reprends, réprimande, exhorte, avec toute patience et en instruisant."
+    },
+    {
+        "id": 68,
+        "reference": "1 Pierre 3:15",
+        "text": "Mais sanctifiez le Christ comme Seigneur dans vos cœurs, étant toujours prêts à vous défendre, avec douceur et profond respect, devant quiconque vous demande raison de l’espérance qui est en vous."
+    },
+    {
+        "id": 69,
+        "reference": "2 Timothée 3:1",
+        "text": "Mais sache que dans les derniers jours il y aura des temps critiques, difficiles à supporter."
+    },
+    {
+        "id": 70,
+        "reference": "Matthieu 24:36",
+        "text": "Quant à ce jour-là et à cette heure-là, personne n’en sait rien, ni les anges des cieux, ni le Fils, mais seul le Père."
+    },
+    {
+        "id": 71,
+        "reference": "Luc 21:11",
+        "text": "Il y aura de grands tremblements de terre, et dans un endroit après l’autre des pestes et des famines; il y aura des phénomènes terrifiants et de grands signes venant du ciel."
+    },
+    {
+        "id": 72,
+        "reference": "1 Timothée 4:1",
+        "text": "Cependant l’esprit dit clairement que dans les derniers temps certains abandonneront la fé faith."
+    },
+    {
+        "id": 73,
+        "reference": "2 Pierre 3:3",
+        "text": "Dans les derniers jours viendront des moqueurs avec leurs moqueries, qui se conduiront selon leurs propres désirs."
+    },
+    {
+        "id": 74,
+        "reference": "2 Pierre 3:4",
+        "text": "Ils diront : “Où est cette présence promise de son retour ? Depuis le jour où nos ancêtres sont morts, toutes choses continuent exactement comme depuis le début de la création.”"
+    },
+    {
+        "id": 75,
+        "reference": "1 Thessaloniciens 5:2",
+        "text": "Vous savez vous-mêmes très bien que le jour de Jéhovah vient exactement comme un voleur dans la nuit."
+    },
+    {
+        "id": 76,
+        "reference": "1 Thessaloniciens 5:3",
+        "text": "Quand les gens diront : “Paix et sécurité !”, alors une destruction soudaine viendra instantanément sur eux."
+    },
+    {
+        "id": 77,
+        "reference": "2 Pierre 3:13",
+        "text": "Mais il y a de nouveaux cieux et une nouvelle terre que nous attendons selon sa promesse, et dans ces lieux la justice habitera."
+    },
+    {
+        "id": 78,
+        "reference": "Révélation 12:12",
+        "text": "C’est pourquoi réjouissez-vous, cieux, et vous qui y résidez ! Malheur à la terre et à la mer, parce que le Diable est descendu vers vous, ayant une grande fureur, sachant qu’il n’a qu’une courte période."
+    },
+    {
+        "id": 79,
+        "reference": "Ecclésiaste 9:5",
+        "text": "Les vivants savent qu’ils mourront ; mais les morts ne savent rien du tout."
+    },
+    {
+        "id": 80,
+        "reference": "Psaume 146:4",
+        "text": "Son esprit s’en va, il retourne à son sol ; en ce jour-là, ses pensées périssent."
+    },
+    {
+        "id": 81,
+        "reference": "Genèse 3:19",
+        "text": "Car tu es poussière et tu retourneras à la poussière."
+    },
+    {
+        "id": 82,
+        "reference": "Ézéchiel 18:4",
+        "text": "Voici, toutes les âmes — autant l’âme du père que l’âme du fils — m’appartiennent. L’âme qui pèche, c’est celle qui mourra."
+    },
+    {
+        "id": 83,
+        "reference": "Jean 11:11",
+        "text": "Jésus leur dit : “Lazare, notre ami, s’est endormi, mais je pars pour le réveiller.”"
+    },
+    {
+        "id": 84,
+        "reference": "Jean 11:14",
+        "text": "Alors Jésus leur dit ouvertement : “Lazare est mort.”"
+    },
+    {
+        "id": 85,
+        "reference": "Psaume 115:17",
+        "text": "Ce ne sont pas les morts qui louent Yah, ni ceux qui descendent dans le silence de la mort."
+    },
+    {
+        "id": 86,
+        "reference": "Matthieu 10:28",
+        "text": "Ne craignez pas ceux qui tuent le corps mais ne peuvent pas tuer l’âme; craignez plutôt celui qui peut détruire et l’âme et le corps dans la géhenne."
+    },
+    {
+        "id": 87,
+        "reference": "Ézéchiel 18:20",
+        "text": "L’âme qui pèche, c’est elle qui mourra. Un fils ne portera pas la faute de son père, et un père ne portera pas la faute de son fils."
+    },
+    {
+        "id": 88,
+        "reference": "Romains 6:23",
+        "text": "Car le salaire du péché, c’est la mort, mais le don que Dieu donne, c’est la vie éternelle par Christ Jésus notre Seigneur."
+    },
+    {
+        "id": 89,
+        "reference": "Malachie 4:3",
+        "text": "Vous piétinerez les méchants, car ils seront comme de la poussière sous la plante de vos pieds."
+    },
+    {
+        "id": 90,
+        "reference": "Psaume 37:20",
+        "text": "Mais les méchants disparaîtront; les ennemis de Jéhovah seront comme la beauté des prairies : ils s’évanouiront, comme de la fumée ils s’évanouiront."
+    },
+    {
+        "id": 91,
+        "reference": "Jude 7",
+        "text": "De même, Sodome et Gomorrhe et les villes voisines, qui se sont livrées d’une manière extrême à l’immoralité sexuelle et ont poursuivi une chair différente, sont exposées en exemple en subissant la punition judiciaire du feu éternel."
+    },
+    {
+        "id": 92,
+        "reference": "Révélation 20:14",
+        "text": "La mort et l’hadès furent jetés dans le lac de feu. Voilà ce que signifie le lac de feu : la seconde mort."
+    },
+    {
+        "id": 93,
+        "reference": "Jérémie 7:31",
+        "text": "Ils ont construit les hauts lieux de Topheth... pour y brûler leurs fils et leurs filles dans le feu : ce que je n’avais pas ordonné et qui ne m’était pas venu à l’idée."
+    },
+    {
+        "id": 94,
+        "reference": "Psaume 37:11",
+        "text": "Les humbles posséderont la terre et ils trouveront un grand plaisir dans l’abondance de paix."
+    },
+    {
+        "id": 95,
+        "reference": "Isaïe 11:6",
+        "text": "Le loup habitera quelque temps avec l’agneau, et le léopard se couchera avec le chevreau; le veau, le jeune lion et l’animal engraissé seront ensemble, et un petit garçon les conduira."
+    },
+    {
+        "id": 96,
+        "reference": "Isaïe 35:5",
+        "text": "À cette époque, les yeux des aveugles seront ouverts, et les oreilles des sourds seront débouchées."
+    },
+    {
+        "id": 97,
+        "reference": "Révélation 21:4",
+        "text": "Il essuiera toute larme de leurs yeux, et la mort ne sera plus, ni deuil, ni cri, ni douleur ne seront plus. Les choses anciennes ont disparu."
+    },
+    {
+        "id": 98,
+        "reference": "Isaïe 65:21",
+        "text": "Ils bâtiront des maisons et les habiteront; ils planteront des vignes et en mangeront les fruits."
+    },
+    {
+        "id": 99,
+        "reference": "Isaïe 33:24",
+        "text": "Aucun habitant ne dira : “Je suis malade.”"
+    },
+    {
+        "id": 100,
+        "reference": "Psaume 72:16",
+        "text": "Il y aura abondance de grain sur la terre; au sommet des montagnes, il débordera."
+    },
+    {
+        "id": 101,
+        "reference": "Révélation 21:5",
+        "text": "Et Celui qui était assis sur le trône a dit : “Voici, je fais toutes choses nouvelles.”"
+    },
+    {
+        "id": 102,
+        "reference": "Job 33:25",
+        "text": "Que sa chair devienne plus fraîche que dans la jeunesse; qu’il revienne aux jours de sa vigueur juvénile.”"
+    },
+    {
+        "id": 103,
+        "reference": "Isaïe 25:8",
+        "text": "Il engloutira la mort pour toujours, et le Souverain Seigneur Jéhovah essuiera les larmes de tous les visages."
+    },
+    {
+        "id": 104,
+        "reference": "Luc 23:43",
+        "text": "Et il lui dit : “Vraiment je te le dis aujourd’hui, tu seras avec moi dans le Paradis.”"
+    },
+    {
+        "id": 105,
+        "reference": "Jean 5:28",
+        "text": "Ne vous étonnez pas de cela, parce que l’heure vient où tous ceux qui sont dans les tombes entendront sa voix"
+    },
+    {
+        "id": 106,
+        "reference": "Jean 5:29",
+        "text": "et en sortiront : ceux qui ont fait le bien pour une résurrection de vie, ceux qui ont fait le mal pour une résurrection de jugement."
+    },
+    {
+        "id": 107,
+        "reference": "Actes 24:15",
+        "text": "J’ai en Dieu l’espérance... qu’il va y avoir une résurrection tant des justes que des injustes."
+    },
+    {
+        "id": 108,
+        "reference": "Jean 11:25",
+        "text": "Jésus lui dit : “Je suis la résurrection et la vie. Celui qui exerce la foi en moi, même s’il meurt, reviendra à la vie.”"
+    },
+    {
+        "id": 109,
+        "reference": "Job 14:15",
+        "text": "Tu appelleras, et je te répondrai. Tu languiras après l’œuvre de tes mains."
+    },
+    {
+        "id": 110,
+        "reference": "1 Corinthiens 15:26",
+        "text": "Et le dernier ennemi, la mort, doit être réduit à rien."
+    },
+    {
+        "id": 111,
+        "reference": "1 Corinthiens 15:22",
+        "text": "En effet, de même qu’en Adam tous meurent, de même aussi dans le Christ tous reviendront à la vie."
+    },
+    {
+        "id": 112,
+        "reference": "Romains 5:8",
+        "text": "Mais voici comment Dieu nous a montré son amour : le Christ est mort pour nous alors que nous étions encore pécheurs."
+    },
+    {
+        "id": 113,
+        "reference": "1 Timothée 2:6",
+        "text": "Il s’est donné lui-même en rançon correspondante pour tous."
+    },
+    {
+        "id": 114,
+        "reference": "1 Jean 4:10",
+        "text": "L’amour, c’est ceci : non pas que nous, nous ayons aimé Dieu, mais que lui nous a aimés et a envoyé son Fils en sacrifice propitiatoire pour nos péchés."
+    },
+    {
+        "id": 115,
+        "reference": "1 Pierre 3:18",
+        "text": "En effet, Christ est mort une fois pour toutes concernant les péchés, un juste pour des injustes, afin de vous conduire à Dieu."
+    },
+    {
+        "id": 116,
+        "reference": "Isaïe 53:5",
+        "text": "Mais il était transpercé à cause de nos transgressions; il était écrasé à cause de nos fautes. Le châtiment qui nous apporte la paix était sur lui, et grâce à ses blessures nous sommes guéris."
+    },
+    {
+        "id": 117,
+        "reference": "1 Corinthiens 6:9",
+        "text": "Ou bien ne savez-vous pas que les injustes n’hériteront pas du Royaume de Dieu? Ne vous y trompez pas : ni les fornicateurs, ni les idolâtres, ni les adultères,"
+    },
+    {
+        "id": 118,
+        "reference": "1 Corinthiens 6:10",
+        "text": "ni les hommes qui se soumettent à des actes homosexuels, ni les hommes qui en pratiquent, ni les voleurs, ni les cupides, ni les ivrognes, ni les insulteurs, ni les extorqueurs n’hériteront du Royaume de Dieu."
+    },
+    {
+        "id": 119,
+        "reference": "Galates 5:19",
+        "text": "Or les œuvres de la chair sont évidentes. Ce sont : la débauche sexuelle, l’impureté, une conduite indécente,"
+    },
+    {
+        "id": 120,
+        "reference": "Galates 5:20",
+        "text": "l’idolâtrie, la pratique du spiritisme, les haines, les disputes, la jalousie, les accès de colère, les rivalités, les divisions, les sectes,"
+    },
+    {
+        "id": 121,
+        "reference": "Galates 5:21",
+        "text": "l’envie, les beuveries, les fêtes excessives et autres choses semblables. À propos de ces choses, je vous préviens... que ceux qui pratiquent de telles choses n’hériteront pas du Royaume de Dieu."
+    },
+    {
+        "id": 122,
+        "reference": "Éphésiens 5:3",
+        "text": "Que ni la fornication, ni aucune impureté, ni la convoitise ne soient même mentionnées parmi vous, comme il convient à des saints."
+    },
+    {
+        "id": 123,
+        "reference": "Éphésiens 5:5",
+        "text": "Car vous le savez bien, aucun fornicateur, impur ou cupide — c’est-à-dire aucun idolâtre — n’a d’héritage dans le Royaume du Christ et de Dieu."
+    },
+    {
+        "id": 124,
+        "reference": "Hébreux 13:4",
+        "text": "Que le mariage soit honorable parmi tous, et que le lit conjugal soit sans souillure, car Dieu jugera les fornicateurs et les adultères."
+    },
+    {
+        "id": 125,
+        "reference": "Actes 15:29",
+        "text": "abstenez-vous de ce qui a été sacrifié aux idoles, du sang, de ce qui est étouffé et de la débauche sexuelle. Si vous vous gardez soigneusement de ces choses, vous prospérerez."
+    },
+    {
+        "id": 126,
+        "reference": "Jacques 1:27",
+        "text": "La forme de culte pur et sans tache du point de vue de notre Dieu et Père, la voici : prendre soin des orphelins et des veuves dans leur détresse, et se garder sans tache du monde."
+    },
+    {
+        "id": 127,
+        "reference": "Jacques 4:4",
+        "text": "Ne savez-vous pas que l’amitié pour le monde est inimitié contre Dieu ?"
+    },
+    {
+        "id": 128,
+        "reference": "1 Jean 2:15",
+        "text": "N’aimez ni le monde, ni les choses qui sont dans le monde. Si quelqu’un aime le monde, l’amour du Père n’est pas en lui."
+    },
+    {
+        "id": 129,
+        "reference": "1 Corinthiens 15:33",
+        "text": "Ne vous y méprenez pas : les mauvaises compagnies corrompent les bonnes mœurs."
+    },
+    {
+        "id": 130,
+        "reference": "2 Corinthiens 7:1",
+        "text": "Purifions-nous de tout ce qui souille la chair et l’esprit, en menant à la perfection la sainteté dans la crainte de Dieu."
+    },
+    {
+        "id": 131,
+        "reference": "Colossiens 3:5",
+        "text": "Faites donc mourir vos membres qui sont sur la terre : la débauche sexuelle, l’impureté, l’appétit sexuel, le désir nuisible et la cupidité, qui est de l’idolâtrie."
+    },
+    {
+        "id": 132,
+        "reference": "2 Corinthiens 6:14",
+        "text": "Ne vous mettez pas sous un joug mal assorti avec des incroyants. Car quelle association y a-t-il entre la justice et l’illégalité ? Ou quelle part y a-t-il entre la lumière et les ténèbres ?"
+    },
+    {
+        "id": 133,
+        "reference": "Jean 13:35",
+        "text": "Par là tous sauront que vous êtes mes disciples : si vous avez de l’amour entre vous."
+    },
+    {
+        "id": 134,
+        "reference": "Matthieu 22:37",
+        "text": "“ Tu dois aimer Jéhovah ton Dieu de tout ton cœur, de toute ton âme et de toute ta pensée.”"
+    },
+    {
+        "id": 135,
+        "reference": "Matthieu 22:39",
+        "text": "“ Tu dois aimer ton prochain comme toi-même.”"
+    },
+    {
+        "id": 136,
+        "reference": "1 Jean 4:8",
+        "text": "Celui qui n’aime pas n’a pas appris à connaître Dieu, parce que Dieu est amour."
+    },
+    {
+        "id": 137,
+        "reference": "1 Jean 3:16",
+        "text": "Par ceci nous avons appris à connaître l’amour : c’est que celui-là a donné sa vie pour nous; et nous, nous devons donner notre vie pour nos frères."
+    },
+    {
+        "id": 138,
+        "reference": "Colossiens 3:14",
+        "text": "Mais par-dessus tout cela, revêtez-vous de l’amour, car c’est le lien de l’unité parfaite."
+    },
+    {
+        "id": 139,
+        "reference": "1 Pierre 4:8",
+        "text": "Avant tout, ayez les uns pour les autres un amour intense, car l’amour couvre une multitude de péchés."
+    },
+    {
+        "id": 140,
+        "reference": "Matthieu 5:44",
+        "text": "Mais moi je vous dis : aimez vos ennemis et priez pour ceux qui vous persécutent."
+    },
+    {
+        "id": 141,
+        "reference": "Philippiens 4:6",
+        "text": "Ne vous inquiétez de rien, mais, en toutes choses, par la prière et les supplications avec des actions de grâces, faites connaître vos demandes à Dieu."
+    },
+    {
+        "id": 142,
+        "reference": "1 Thessaloniciens 5:17",
+        "text": "Priez constamment."
+    },
+    {
+        "id": 143,
+        "reference": "1 Jean 5:14",
+        "text": "Et voici la confiance que nous avons en lui : c’est que, si nous demandons quelque chose selon sa volonté, il nous écoute."
+    },
+    {
+        "id": 144,
+        "reference": "Matthieu 7:7",
+        "text": "Demandez, et on vous donnera; cherchez, et vous trouverez; frappez, et on vous ouvrira."
+    },
+    {
+        "id": 145,
+        "reference": "Psaume 65:2",
+        "text": "Ô Toi qui écoutes la prière, oui, à toi viendront des gens de tout endroit."
+    },
+    {
+        "id": 146,
+        "reference": "Jacques 5:16",
+        "text": "La supplication fervente du juste peut accomplir beaucoup."
+    },
+    {
+        "id": 147,
+        "reference": "Actes 5:29",
+        "text": "Il faut obéir à Dieu, comme à un chef, plutôt qu’aux hommes."
+    },
+    {
+        "id": 148,
+        "reference": "Romains 13:1",
+        "text": "Que toute personne soit soumise aux autorités supérieures, car il n’y a pas d’autorité qui ne vienne de Dieu."
+    },
+    {
+        "id": 149,
+        "reference": "Marc 12:17",
+        "text": "“Rendez à César les choses de César, mais à Dieu les choses de Dieu.”"
+    },
+    {
+        "id": 150,
+        "reference": "Jean 17:16",
+        "text": "Ils ne font pas partie du monde, comme je ne fais pas partie du monde."
+    },
+    {
+        "id": 151,
+        "reference": "Isaïe 2:4",
+        "text": "Ils forgeront leurs épées en socs de charrue et leurs lances en faucilles. Nation ne lèvera plus l’épée contre nation, et l’on n’apprendra plus la guerre."
+    },
+    {
+        "id": 152,
+        "reference": "1 Jean 5:19",
+        "text": "Nous savons que nous venons de Dieu, mais que le monde entier se trouve au pouvoir du méchant."
+    },
+    {
+        "id": 153,
+        "reference": "Jacques 4:7",
+        "text": "Opposez-vous au Diable, et il fuira loin de vous."
+    },
+    {
+        "id": 154,
+        "reference": "Éphésiens 6:11",
+        "text": "Revêtez l’armure complète de Dieu afin de pouvoir tenir ferme contre les manœuvres du Diable."
+    },
+    {
+        "id": 155,
+        "reference": "1 Pierre 5:8",
+        "text": "Restez dans votre bon sens, soyez vigilants ! Votre adversaire, le Diable, rôde comme un lion rugissant, cherchant à dévorer quelqu’un."
+    },
+    {
+        "id": 156,
+        "reference": "1 Pierre 5:9",
+        "text": "Mais prenez votre position contre lui, fermes dans la foi."
+    },
+    {
+        "id": 157,
+        "reference": "Révélation 12:9",
+        "text": "Le grand dragon fut jeté dehors, le serpent originel, celui qu’on appelle Diable et Satan, qui égare la terre habitée tout entière."
+    },
+    {
+        "id": 158,
+        "reference": "2 Corinthiens 4:4",
+        "text": "Le dieu de ce monde a aveuglé l’intelligence des incrédules."
+    },
+    {
+        "id": 159,
+        "reference": "Jean 8:44",
+        "text": "Vous avez pour père le Diable, et ce sont les désirs de votre père que vous voulez accomplir. Celui-là a été meurtrier dès le commencement... il est menteur et le père du mensonge."
+    },
+    {
+        "id": 160,
+        "reference": "1 Corinthiens 10:13",
+        "text": "Aucune tentation ne vous est survenue qui ne soit commune aux hommes. Mais Dieu est fidèle, et il ne permettra pas que vous soyez tentés au-delà de ce que vous pouvez supporter; mais avec la tentation, il préparera aussi le moyen d’en sortir, afin que vous puissiez la supporter."
+    },
+    {
+        "id": 161,
+        "reference": "Philippiens 4:13",
+        "text": "Pour tout je possède la force grâce à celui qui me donne de la puissance."
+    },
+    {
+        "id": 162,
+        "reference": "1 Pierre 5:7",
+        "text": "Tandis que vous vous déchargez sur lui de toute votre inquiétude, parce qu’il se soucie de vous."
+    },
+    {
+        "id": 163,
         "reference": "Isaïe 41:10",
-        "texte": "N’aie pas peur, car je suis avec toi. Ne regarde pas autour de toi avec inquiétude, car je suis ton Dieu. Je te fortifierai et je t’aiderai. Oui, je te soutiendrai de ma main droite de justice."
+        "text": "Ne sois pas effrayé, car je suis avec toi. Ne sois pas inquiet, car je suis ton Dieu. Je te fortifierai et je t’aiderai."
     },
     {
-        "reference": "1 Corinthiens 13:4-5",
-        "texte": "L’amour est patient et bon. L’amour n’est pas jaloux. Il ne se vante pas, ne s’enfle pas d’orgueil, ne se conduit pas de manière indécente, ne cherche pas ses propres intérêts, ne s’irrite pas. Il ne tient pas compte du mal."
+        "id": 164,
+        "reference": "2 Timothée 3:12",
+        "text": "D’ailleurs, tous ceux qui veulent vivre dans l’attachement à Dieu en association avec Christ Jésus seront persécutés."
     },
     {
-        "reference": "Psaume 119:105",
-        "texte": "Ta parole est une lampe pour mon pied et une lumière pour mon sentier."
+        "id": 165,
+        "reference": "Jacques 1:2",
+        "text": "Considérez comme une grande joie, mes frères, le fait que vous rencontriez diverses épreuves,"
     },
     {
-        "reference": "Josué 1:9",
-        "texte": "Ne t’ai-je pas donné cet ordre : ‘Sois courageux et fort’ ? Ne sois pas terrifié ni effrayé, car Jéhovah ton Dieu est avec toi où que tu ailles."
+        "id": 166,
+        "reference": "Jacques 1:3",
+        "text": "sachant que l’épreuve de votre foi produit l’endurance."
+    },
+    {
+        "id": 167,
+        "reference": "Romains 8:38",
+        "text": "Car j’ai la certitude que ni la mort, ni la vie, ni les anges, ni les gouvernements, ni les choses présentes, ni les choses à venir, ni les puissances,"
+    },
+    {
+        "id": 168,
+        "reference": "Romains 8:39",
+        "text": "ni la hauteur, ni la profondeur, ni aucune autre création ne pourra nous séparer de l’amour de Dieu qui est en Christ Jésus notre Seigneur."
+    },
+    {
+        "id": 169,
+        "reference": "2 Corinthiens 4:16",
+        "text": "C’est pourquoi nous ne baissons pas les bras, mais même si l’homme que nous sommes extérieurement dépérit, l’homme que nous sommes intérieurement est renouvelé de jour en jour."
+    },
+    {
+        "id": 170,
+        "reference": "Proverbes 27:11",
+        "text": "Sois sage, mon fils, et réjouis mon cœur, afin que je puisse répondre à celui qui me provoque."
+    },
+    {
+        "id": 171,
+        "reference": "Hébreux 10:24",
+        "text": "Et veillons les uns sur les autres pour nous inciter à l’amour et aux belles œuvres."
+    },
+    {
+        "id": 172,
+        "reference": "Hébreux 10:25",
+        "text": "N’abandonnons pas notre assemblée, comme c’est la coutume de quelques-uns, mais encourageons-nous mutuellement, et cela d’autant plus que vous voyez le Jour approcher."
+    },
+    {
+        "id": 173,
+        "reference": "Jean 13:34",
+        "text": "Je vous donne un commandement nouveau : que vous vous aimiez les uns les autres; que, tout comme je vous ai aimés, vous aussi vous vous aimiez les uns les autres."
+    },
+    {
+        "id": 174,
+        "reference": "Matthieu 7:16",
+        "text": "C’est à leurs fruits que vous les reconnaîtrez."
+    },
+    {
+        "id": 175,
+        "reference": "Matthieu 7:21",
+        "text": "Ce ne sont pas tous ceux qui me disent “Seigneur, Seigneur” qui entreront dans le royaume des cieux."
+    },
+    {
+        "id": 176,
+        "reference": "Jean 17:3",
+        "text": "Or, la vie éternelle, c’est qu’ils apprennent à te connaître, toi, le seul vrai Dieu, et celui que tu as envoyé, Jésus Christ."
+    },
+    {
+        "id": 177,
+        "reference": "1 Pierre 3:21",
+        "text": "Ce baptême vous sauve aussi maintenant (il ne sert pas à enlever la saleté de la chair, mais c’est la demande faite à Dieu pour obtenir une bonne conscience) grâce à la résurrection de Jésus Christ."
+    },
+    {
+        "id": 178,
+        "reference": "Jacques 2:17",
+        "text": "De même, la foi, si elle n’a pas d’œuvres, est morte en elle-même."
+    },
+    {
+        "id": 179,
+        "reference": "Jean 15:19",
+        "text": "Si vous faisiez partie du monde, le monde aimerait ce qui lui appartient. Or vous ne faites pas partie du monde, mais je vous ai choisis hors du monde, et c’est pour cela que le monde vous hait."
+    },
+    {
+        "id": 180,
+        "reference": "Matthieu 5:5",
+        "text": "Heureux ceux qui sont doux, car ils hériteront la terre !"
+    },
+    {
+        "id": 181,
+        "reference": "Révélation 14:1",
+        "text": "J’ai vu, et voici : l’Agneau se tenait debout sur le mont Sion, et avec lui 144 000 personnes qui avaient son nom et le nom de son Père écrits sur leurs fronts."
+    },
+    {
+        "id": 182,
+        "reference": "Jean 10:16",
+        "text": "J’ai d’autres brebis, qui ne sont pas de ce bercail; celles-là aussi, il faut que je les conduise. Elles écouteront ma voix, et elles deviendront un seul troupeau avec un seul berger."
+    },
+    {
+        "id": 183,
+        "reference": "Jean 4:24",
+        "text": "Dieu est un Esprit, et ceux qui l’adorent doivent l’adorer avec l’esprit et la vérité."
+    },
+    {
+        "id": 184,
+        "reference": "Habacuc 2:3",
+        "text": "Car la vision est encore pour le temps fixé; elle avance vers son terme, et elle ne mentira pas. Si elle paraît tarder, attends-la, car elle s’accomplira à coup sûr. Elle ne sera pas en retard."
+    },
+    {
+        "id": 185,
+        "reference": "Sophonie 2:3",
+        "text": "Cherchez Jéhovah, vous tous, humbles de la terre, vous qui avez exécuté ses décisions de justice. Cherchez la justice, cherchez l’humilité. Peut-être serez-vous abrités au jour de la colère de Jéhovah."
+    },
+    {
+        "id": 186,
+        "reference": "Matthieu 5:3",
+        "text": "Heureux ceux qui sont conscients de leur pauvreté spirituelle, car le royaume des cieux leur appartient."
+    },
+    {
+        "id": 187,
+        "reference": "Proverbes 3:5",
+        "text": "Fais confiance à Jéhovah de tout ton cœur et ne t’appuie pas sur ton intelligence."
+    },
+    {
+        "id": 188,
+        "reference": "Proverbes 3:6",
+        "text": "Dans toutes tes voies tiens compte de lui, et il rendra tes sentiers droits."
+    },
+    {
+        "id": 189,
+        "reference": "Jérémie 17:7",
+        "text": "Heureux l’homme qui place sa confiance en Jéhovah et dont Jéhovah est la confiance."
+    },
+    {
+        "id": 190,
+        "reference": "Matthieu 7:13",
+        "text": "Entrez par la porte étroite; car large est la porte et spacieuse est la route qui mène à la destruction, et nombreux sont ceux qui y entrent."
+    },
+    {
+        "id": 191,
+        "reference": "Matthieu 7:14",
+        "text": "Mais étroite est la porte et resserrée la route qui mène à la vie, et peu nombreux sont ceux qui la trouvent."
+    },
+    {
+        "id": 192,
+        "reference": "Jacques 4:8",
+        "text": "Approchez-vous de Dieu, et il s’approchera de vous."
+    },
+    {
+        "id": 193,
+        "reference": "Révélation 21:3",
+        "text": "Et j’ai entendu une voix forte venant du trône dire : « Voici, la tente de Dieu est avec les humains. Il résidera avec eux, et ils seront son peuple. Et Dieu lui‑même sera avec eux. »"
+    },
+    {
+        "id": 194,
+        "reference": "1 Pierre 5:10",
+        "text": "Mais, après que vous aurez souffert un peu de temps, le Dieu de toute faveur imméritée... vous restaurera lui-même, il vous rendra fermes, il vous rendra forts."
+    },
+    {
+        "id": 195,
+        "reference": "Matthieu 19:6",
+        "text": "Donc, ce que Dieu a uni, que l’homme ne le sépare pas."
+    },
+    {
+        "id": 196,
+        "reference": "Galates 6:7",
+        "text": "Ne vous y trompez pas : on ne se moque pas de Dieu. Car ce qu’un homme sème, c’est aussi ce qu’il récoltera;"
+    },
+    {
+        "id": 197,
+        "reference": "Galates 6:8",
+        "text": "en effet, celui qui sème pour sa chair récoltera de la chair la corruption, mais celui qui sème pour l’esprit récoltera de l’esprit la vie éternelle."
+    },
+    {
+        "id": 198,
+        "reference": "Zacharie 8:23",
+        "text": "Dans ces jours-là, dix hommes de toutes les langues des nations saisiront, oui saisiront la frange du vêtement d’un homme juif en disant : “Nous voulons aller avec vous, car nous avons entendu dire que Dieu est avec vous.”"
+    },
+    {
+        "id": 199,
+        "reference": "Philippiens 4:7",
+        "text": "Et la paix de Dieu, qui dépasse tout entendement, gardera vos cœurs et vos pensées par le moyen de Christ Jésus."
     }
 ]

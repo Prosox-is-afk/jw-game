@@ -29,9 +29,9 @@ function afficherVerset() {
 
         if (showReferenceFirst) {
             recto.textContent = item.reference;
-            verso.textContent = item.texte;
+            verso.textContent = item.text;
         } else {
-            recto.textContent = item.texte;
+            recto.textContent = item.text;
             verso.textContent = item.reference;
         }
     }, 300);
