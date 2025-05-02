@@ -31,64 +31,92 @@
         </nav>
 
         <!-- CONTENU PRINCIPAL -->
-        <main
-            class="container py-5 d-flex flex-column align-items-center gap-4"
-        >
-            <h1 class="text-center mb-4">Choisis un jeu biblique</h1>
+        <main class="container py-5 d-flex flex-column align-items-center">
+            <h1 class="text-center mb-5">Choisis un jeu biblique</h1>
 
-            <a href="pages/qui-suis-je-intro.html" class="btn btn-game">
-                <div class="btn-content">
-                    <div class="btn-icon">
-                        <i class="fa-solid fa-user-secret"></i>
-                    </div>
-                    <div class="btn-label">Qui suis-je ?</div>
+            <div
+                class="row row-cols-1 row-cols-md-3 g-4 justify-content-center"
+            >
+                <div class="col d-flex justify-content-center">
+                    <a
+                        href="pages/qui-suis-je-intro.html"
+                        class="btn btn-game w-100"
+                    >
+                        <div class="btn-content">
+                            <div class="btn-icon">
+                                <i class="fa-solid fa-user-secret"></i>
+                            </div>
+                            <div class="btn-label">Qui suis-je ?</div>
+                        </div>
+                    </a>
                 </div>
-            </a>
 
-            <a href="pages/reference-intro.html" class="btn btn-game">
-                <div class="btn-content">
-                    <div class="btn-icon">
-                        <i class="fa-solid fa-bookmark"></i>
-                    </div>
-                    <div class="btn-label">Référence</div>
+                <div class="col d-flex justify-content-center">
+                    <a
+                        href="pages/reference-intro.html"
+                        class="btn btn-game w-100"
+                    >
+                        <div class="btn-content">
+                            <div class="btn-icon">
+                                <i class="fa-solid fa-bookmark"></i>
+                            </div>
+                            <div class="btn-label">Référence</div>
+                        </div>
+                    </a>
                 </div>
-            </a>
 
-            <a href="pages/portrait-intro.html" class="btn btn-game">
-                <div class="btn-content">
-                    <div class="btn-icon">
-                        <i class="fa-solid fa-image"></i>
-                    </div>
-                    <div class="btn-label">Portrait</div>
+                <div class="col d-flex justify-content-center">
+                    <a href="pages/quiz-intro.html" class="btn btn-game w-100">
+                        <div class="btn-content">
+                            <div class="btn-icon">
+                                <i class="fas fa-question-circle"></i>
+                            </div>
+                            <div class="btn-label">Quiz</div>
+                        </div>
+                    </a>
                 </div>
-            </a>
 
-            <a href="pages/quiz.html" class="btn btn-game">
-                <div class="btn-content">
-                    <div class="btn-icon">
-                        <i class="fas fa-question-circle"></i>
-                    </div>
-                    <div class="btn-label">Quiz</div>
+                <div class="col d-flex justify-content-center">
+                    <a
+                        href="pages/portrait-intro.html"
+                        class="btn btn-game w-100"
+                    >
+                        <div class="btn-content">
+                            <div class="btn-icon">
+                                <i class="fa-solid fa-image"></i>
+                            </div>
+                            <div class="btn-label">Portrait</div>
+                        </div>
+                    </a>
                 </div>
-            </a>
 
-            <a href="pages/frisechronologique.html" class="btn btn-game">
-                <div class="btn-content">
-                    <div class="btn-icon">
-                        <i class="fa-solid fa-timeline"></i>
-                    </div>
-                    <div class="btn-label">Timeline</div>
+                <div class="col d-flex justify-content-center">
+                    <a
+                        href="pages/frisechronologique.html"
+                        class="btn btn-game w-100"
+                    >
+                        <div class="btn-content">
+                            <div class="btn-icon">
+                                <i class="fa-solid fa-timeline"></i>
+                            </div>
+                            <div class="btn-label">Timeline</div>
+                        </div>
+                    </a>
                 </div>
-            </a>
 
-            <a href="#" class="btn btn-game">
-                <div class="btn-content">
-                    <div class="btn-icon"><i class="fas fa-hammer"></i></div>
-                    <div class="btn-label">À venir...</div>
+                <div class="col d-flex justify-content-center">
+                    <a href="#" class="btn btn-game w-100">
+                        <div class="btn-content">
+                            <div class="btn-icon">
+                                <i class="fas fa-hammer"></i>
+                            </div>
+                            <div class="btn-label">À venir...</div>
+                        </div>
+                    </a>
                 </div>
-            </a>
+            </div>
 
-            <button onclick="redirectToRandomPage()" class="btn btn-game">
+            <button onclick="redirectToRandomPage()" class="btn btn-game mt-5">
                 <div class="btn-content">
                     <div class="btn-icon"><i class="fa-solid fa-dice"></i></div>
                     <div class="btn-label">Jeu aléatoire</div>

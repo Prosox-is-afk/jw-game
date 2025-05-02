@@ -1,0 +1,1202 @@
+[
+    {
+        "id": 1,
+        "question": "Dieu s'est reposé le septième jour après la création.",
+        "reponse": "vrai",
+        "explication": "D’après la Genèse, Dieu a achevé son œuvre créatrice en six jours symboliques et s’est reposé le septième (Genèse 2:2-3)"
+    },
+    {
+        "id": 2,
+        "question": "Ève a été créée à partir d'une côte d'Adam.",
+        "reponse": "vrai",
+        "explication": "La Bible explique qu’Ève a été formée à partir d’une côte prise à Adam, faisant d’elle « l’os de ses os » (Genèse 2:21-23)"
+    },
+    {
+        "id": 3,
+        "question": "Le serpent qui a parlé à Ève était en réalité Satan le Diable.",
+        "reponse": "vrai",
+        "explication": "Le récit de la Genèse mentionne un serpent qui parle, et la Bible révèle plus tard que Satan s’est servi de ce serpent pour tromper Ève (Genèse 3:1-5; Révélation 12:9)"
+    },
+    {
+        "id": 4,
+        "question": "Adam et Ève ont été expulsés du jardin d'Éden pour avoir désobéi à Dieu.",
+        "reponse": "vrai",
+        "explication": "Après avoir mangé le fruit défendu, Adam et Ève ont été chassés d’Éden en conséquence de leur désobéissance à Dieu (Genèse 3:16-19, 23)"
+    },
+    {
+        "id": 5,
+        "question": "Adam a vécu 930 ans.",
+        "reponse": "vrai",
+        "explication": "La Bible indique qu’Adam a vécu 930 ans avant de mourir à cause du péché (Genèse 5:5)"
+    },
+    {
+        "id": 6,
+        "question": "Caïn a tué Abel, devenant ainsi le premier meurtrier.",
+        "reponse": "vrai",
+        "explication": "Par jalousie, Caïn a assassiné son frère Abel, commettant le premier meurtre de l’histoire humaine (Genèse 4:8-10)"
+    },
+    {
+        "id": 7,
+        "question": "Hénok n'est pas mort parce que Dieu l'a enlevé.",
+        "reponse": "vrai",
+        "explication": "Au lieu de mourir comme les autres hommes, Hénok a été enlevé par Dieu pour qu’il ne voie pas la mort de la même manière, selon la Bible (Hébreux 11:5)"
+    },
+    {
+        "id": 8,
+        "question": "Noé a construit l'arche en seulement une semaine.",
+        "reponse": "faux",
+        "explication": "Dieu a donné à Noé l’instruction de construire une arche gigantesque, ce qui a pris de nombreuses années, bien plus qu’une semaine, avant l’arrivée du Déluge (Genèse 6:14, 22; 7:6)"
+    },
+    {
+        "id": 9,
+        "question": "Huit personnes ont survécu au Déluge dans l'arche de Noé.",
+        "reponse": "vrai",
+        "explication": "Seules huit personnes (Noé, sa femme, ses trois fils et leurs femmes) sont entrées dans l’arche et ont survécu au Déluge universel (Genèse 7:7; 1 Pierre 3:20)"
+    },
+    {
+        "id": 10,
+        "question": "Noé a pris uniquement un couple de chaque espèce d'animaux dans l'arche.",
+        "reponse": "faux",
+        "explication": "Noé a pris un couple de chaque espèce d’animaux impurs, mais pour les animaux purs, il en a pris sept paires, selon les directives de Dieu (Genèse 7:2-3)"
+    },
+    {
+        "id": 11,
+        "question": "Dieu a fait apparaître un arc-en-ciel après le Déluge comme signe de sa promesse.",
+        "reponse": "vrai",
+        "explication": "Après le Déluge, Dieu a placé un arc-en-ciel dans les nuages en signe de l’alliance qu’il ne détruirait plus jamais la terre par un déluge (Genèse 9:12-15)"
+    },
+    {
+        "id": 12,
+        "question": "Abraham s'appelait à l'origine Abram.",
+        "reponse": "vrai",
+        "explication": "Le nom d’origine d’Abraham était Abram, mais Dieu l’a changé en Abraham lorsqu’il a promis de faire de lui le père de nombreuses nations (Genèse 17:5)"
+    },
+    {
+        "id": 13,
+        "question": "Abraham a tenté de sacrifier son fils Ismaël en obéissance à Dieu.",
+        "reponse": "faux",
+        "explication": "Dieu a demandé à Abraham de sacrifier son fils Isaac (et non Ismaël) pour éprouver sa foi, mais il a arrêté Abraham au dernier moment (Genèse 22:1-2, 9-12)"
+    },
+    {
+        "id": 14,
+        "question": "Saraï est le nom de naissance de Sara, la femme d'Abraham.",
+        "reponse": "vrai",
+        "explication": "La femme d’Abraham s’appelait d’abord Saraï, mais Dieu a changé son nom en Sara lorsqu’il a renouvelé la promesse d’un fils (Genèse 17:15-16)"
+    },
+    {
+        "id": 15,
+        "question": "Loth, le neveu d'Abraham, a vu sa femme transformée en statue de sel.",
+        "reponse": "vrai",
+        "explication": "Lorsque Loth et sa famille fuyaient Sodome, la femme de Lot a désobéi en regardant en arrière la ville détruite et a été changée en colonne de sel (Genèse 19:26)"
+    },
+    {
+        "id": 16,
+        "question": "Les villes de Sodome et Gomorrhe ont été détruites par un déluge.",
+        "reponse": "faux",
+        "explication": "Sodome et Gomorrhe ont été détruites, non par un déluge, mais par “du soufre et du feu” venant de Jéhovah en punition de leur grande méchanceté (Genèse 19:24-25)"
+    },
+    {
+        "id": 17,
+        "question": "Isaac était le père de Jacob et d'Ésaü.",
+        "reponse": "vrai",
+        "explication": "Isaac, le fils d’Abraham, a eu des jumeaux : Ésaü (le premier-né) et Jacob, qui devinrent les ancêtres de deux nations distinctes (Genèse 25:24-26)"
+    },
+    {
+        "id": 18,
+        "question": "Ésaü a vendu son droit d'aînesse à Jacob pour un plat de lentilles.",
+        "reponse": "vrai",
+        "explication": "Affamé, Ésaü a méprisé son droit d’aînesse et l’a cédé à son frère Jacob en échange d’un simple repas de pain et de lentilles (Genèse 25:30-34)"
+    },
+    {
+        "id": 19,
+        "question": "Le nom 'Israël' a été donné à Jacob après sa lutte avec un ange.",
+        "reponse": "vrai",
+        "explication": "Jacob a lutté toute une nuit avec un ange de Dieu, et à l’aube, Dieu l’a bénit et lui a donné le nouveau nom d’Israël (Genèse 32:28)"
+    },
+    {
+        "id": 20,
+        "question": "Jacob a eu douze fils qui sont devenus les ancêtres des douze tribus d'Israël.",
+        "reponse": "vrai",
+        "explication": "Jacob (Israël) a engendré douze fils, comme Ruben, Siméon, Lévi, Juda... qui sont à l’origine des douze tribus d’Israël (Genèse 35:22-26)"
+    },
+    {
+        "id": 21,
+        "question": "Joseph, le fils de Jacob, a interprété les rêves de Pharaon par sagesse humaine.",
+        "reponse": "faux",
+        "explication": "Joseph a clairement dit que l’interprétation des rêves venait de Dieu, et grâce à Sa révélation, il a expliqué les rêves de Pharaon concernant la famine à venir (Genèse 41:15-16, 28-32)"
+    },
+    {
+        "id": 22,
+        "question": "Joseph a été vendu comme esclave par ses frères jaloux.",
+        "reponse": "vrai",
+        "explication": "Les frères de Joseph, envieux de lui, l’ont vendu à des marchands d’esclaves se rendant en Égypte, où il est devenu serviteur (Genèse 37:27-28)"
+    },
+    {
+        "id": 23,
+        "question": "Moïse a été sauvé des eaux du Nil par la fille du Pharaon.",
+        "reponse": "vrai",
+        "explication": "Le bébé Moïse, placé dans un panier sur le Nil, a été découvert et adopté par la fille de Pharaon, qui l’a ainsi sauvé de la mort (Exode 2:5-6, 10)"
+    },
+    {
+        "id": 24,
+        "question": "Aaron était le frère aîné de Moïse.",
+        "reponse": "vrai",
+        "explication": "Aaron était le frère de Moïse, plus âgé de trois ans, et il a aidé Moïse en devenant le premier grand prêtre d’Israël (Exode 7:7)"
+    },
+    {
+        "id": 25,
+        "question": "Les dix plaies d'Égypte ont été déclenchées par Moïse de son propre pouvoir.",
+        "reponse": "faux",
+        "explication": "Moïse n’était que l’instrument de Dieu : c’est Jéhovah qui a infligé dix plaies miraculeuses à l’Égypte pour contraindre Pharaon à laisser partir son peuple (Exode 7:14-18)"
+    },
+    {
+        "id": 26,
+        "question": "La dernière des dix plaies d'Égypte fut la mort des premiers-nés.",
+        "reponse": "vrai",
+        "explication": "La dixième et dernière plaie envoyée par Dieu sur l’Égypte a été la mort de tous les premiers-nés égyptiens, ce qui a finalement poussé Pharaon à libérer les Israélites (Exode 12:29-31)"
+    },
+    {
+        "id": 27,
+        "question": "Les Israélites ont traversé la mer Rouge à pied sec.",
+        "reponse": "vrai",
+        "explication": "Jéhovah a miraculeusement ouvert un passage à travers la mer Rouge, permettant aux Israélites de la traverser sur la terre sèche avant que les eaux ne submergent l’armée égyptienne (Exode 14:21-22, 27-28)"
+    },
+    {
+        "id": 28,
+        "question": "Dieu a donné les Dix Commandements à Moïse sur le mont Sinaï.",
+        "reponse": "vrai",
+        "explication": "Au mont Sinaï, Dieu a remis à Moïse deux tablettes de pierre contenant les Dix Commandements, lois fondamentales pour Israël (Exode 31:18; 34:28)"
+    },
+    {
+        "id": 29,
+        "question": "Pendant que Moïse était sur le mont Sinaï, les Israélites sont restés fidèles et ont attendu patiemment.",
+        "reponse": "faux",
+        "explication": "En l’absence de Moïse, les Israélites ont perdu patience et ont fabriqué un veau en or pour l’adorer, commettant ainsi une grave idolâtrie (Exode 32:7-8)"
+    },
+    {
+        "id": 30,
+        "question": "Moïse a brisé les premières tables de la Loi en voyant l'idole du veau d'or.",
+        "reponse": "vrai",
+        "explication": "En descendant du Sinaï et en voyant le peuple adorer le veau d’or, Moïse, indigné, a jeté à terre les tablettes de la Loi et les a brisées (Exode 32:19)"
+    },
+    {
+        "id": 31,
+        "question": "Les Israélites ont mangé de la manne pendant un mois dans le désert.",
+        "reponse": "faux",
+        "explication": "Dieu a nourri les Israélites avec la manne miraculeuse pendant 40 ans, tout le temps de leur voyage dans le désert jusqu’à leur entrée en terre promise (Exode 16:35)"
+    },
+    {
+        "id": 32,
+        "question": "La manne avait le goût de galettes au miel.",
+        "reponse": "vrai",
+        "explication": "La manne que Dieu a fournie aux Israélites était blanche, fine comme le givre, et avait le goût de galettes au miel (Exode 16:31)"
+    },
+    {
+        "id": 33,
+        "question": "Les Israélites ont erré quarante ans dans le désert à cause de leur manque de foi.",
+        "reponse": "vrai",
+        "explication": "Après avoir douté de la possibilité de conquérir Canaan, les Israélites ont été condamnés par Dieu à errer dans le désert pendant 40 ans jusqu’à ce qu’une nouvelle génération entre dans le pays promis (Nombres 14:33-34)"
+    },
+    {
+        "id": 34,
+        "question": "Seulement deux des douze espions envoyés en Canaan ont donné un bon rapport.",
+        "reponse": "vrai",
+        "explication": "Parmi les espions envoyés par Moïse pour explorer Canaan, seuls Josué et Caleb ont fait preuve de foi en encourageant la conquête, tandis que les dix autres ont découragé le peuple (Nombres 14:6-8, 30)"
+    },
+    {
+        "id": 35,
+        "question": "Jéhovah a fait jaillir de l'eau d'un rocher pour les Israélites assoiffés.",
+        "reponse": "vrai",
+        "explication": "Dans le désert, Dieu a miraculeusement fourni de l’eau à son peuple en ordonnant à Moïse de frapper un rocher, d’où l’eau a jailli pour abreuver la foule et les troupeaux (Nombres 20:7-11)"
+    },
+    {
+        "id": 36,
+        "question": "Moïse a pu entrer dans la terre promise après avoir conduit Israël pendant 40 ans.",
+        "reponse": "faux",
+        "explication": "À cause d’une désobéissance ponctuelle envers Dieu, Moïse n’a pas été autorisé à entrer en Canaan ; il a seulement pu voir le pays de loin avant de mourir (Nombres 20:12; Deutéronome 34:4-5)"
+    },
+    {
+        "id": 37,
+        "question": "Moïse est mort à l'âge de 120 ans.",
+        "reponse": "vrai",
+        "explication": "Moïse est mort à l’âge de 120 ans, sa vue n’étant pas affaiblie et sa vigueur intacte jusqu’à sa mort, selon le récit biblique (Deutéronome 34:7)"
+    },
+    {
+        "id": 38,
+        "question": "Josué a succédé à Moïse pour conduire Israël.",
+        "reponse": "vrai",
+        "explication": "Après la mort de Moïse, c’est Josué que Dieu a établi comme chef pour guider le peuple d’Israël dans la conquête du pays de Canaan (Deutéronome 34:9)"
+    },
+    {
+        "id": 39,
+        "question": "Josué a prié Dieu, et le soleil s'est arrêté dans le ciel.",
+        "reponse": "vrai",
+        "explication": "À la requête de Josué durant une bataille, Dieu a prolongé la lumière du jour en faisant en sorte que le soleil et la lune semblent s’arrêter, jusqu’à ce que la victoire soit remportée (Josué 10:12-13)"
+    },
+    {
+        "id": 40,
+        "question": "Rahab, qui a aidé les espions israélites à Jéricho, a survécu à la destruction de la ville.",
+        "reponse": "vrai",
+        "explication": "Rahab, une habitante de Jéricho, a caché les espions envoyés par Josué. En récompense, elle et sa famille ont été épargnées lors de la prise de Jéricho (Josué 6:23, 25)"
+    },
+    {
+        "id": 41,
+        "question": "Les murailles de Jéricho sont tombées après que les Israélites ont crié et sonné de la trompette.",
+        "reponse": "vrai",
+        "explication": "Sur l’ordre de Dieu, les Israélites ont marché autour de Jéricho pendant sept jours. Le septième jour, à leurs cris et au son des trompettes, les murailles se sont écroulées miraculeusement (Josué 6:20)"
+    },
+    {
+        "id": 42,
+        "question": "Samson a jugé Israël et possédait une force extraordinaire donnée par Dieu.",
+        "reponse": "vrai",
+        "explication": "Samson était l’un des juges d’Israël. Sa force surhumaine lui venait de l’esprit de Jéhovah, ce qui lui a permis d’accomplir des exploits contre les Philistins (Juges 15:14-15)"
+    },
+    {
+        "id": 43,
+        "question": "Samson a perdu sa force lorsque ses cheveux ont été coupés.",
+        "reponse": "vrai",
+        "explication": "Samson avait fait vœu de naziréen ; sa chevelure intacte symbolisait ce vœu. Après que Dalila lui a fait couper les cheveux, il a perdu sa force, comme Jéhovah s’était retiré de lui (Juges 16:17-19)"
+    },
+    {
+        "id": 44,
+        "question": "Gédéon a vaincu une armée massive avec seulement 300 hommes.",
+        "reponse": "vrai",
+        "explication": "Sur l’instruction de Dieu, Gédéon a réduit son armée à 300 hommes. Munis de trompettes, de cruches et de torches, ils ont semé la panique dans le camp ennemi et remporté la victoire grâce à Jéhovah (Juges 7:7, 20-22)"
+    },
+    {
+        "id": 45,
+        "question": "Ruth était une femme moabite qui est devenue une ancêtre du roi David.",
+        "reponse": "vrai",
+        "explication": "Ruth, bien qu’étrangère de Moab, s’est attachée au culte de Jéhovah et a épousé Boaz. Leur fils Obed fut le grand-père du roi David, intégrant Ruth dans la lignée messianique (Ruth 4:13, 17)"
+    },
+    {
+        "id": 46,
+        "question": "Le prophète Samuel a oint Saül comme premier roi d'Israël.",
+        "reponse": "vrai",
+        "explication": "À la demande du peuple qui voulait un roi, Dieu a chargé le prophète Samuel d’oindre Saül, de la tribu de Benjamin, pour devenir le premier roi d’Israël (1 Samuel 10:1)"
+    },
+    {
+        "id": 47,
+        "question": "Le jeune David a tué Goliath avec une épée.",
+        "reponse": "faux",
+        "explication": "David, encore jeune berger, a vaincu le géant Goliath non pas avec une épée mais avec une fronde et une pierre, puis il a utilisé l’épée de Goliath pour le décapiter (1 Samuel 17:49-51)"
+    },
+    {
+        "id": 48,
+        "question": "Le roi Saül est mort au combat contre les Philistins sur le mont Gilboa.",
+        "reponse": "vrai",
+        "explication": "Dans sa dernière bataille contre les Philistins, le roi Saül, grièvement blessé, s’est donné la mort pour éviter d’être capturé. Il est mort sur le mont Guilboa, tout comme ses fils, y compris Jonathan (1 Samuel 31:2-4)"
+    },
+    {
+        "id": 49,
+        "question": "David est devenu roi d'Israël immédiatement après la mort de Saül.",
+        "reponse": "faux",
+        "explication": "Après la mort de Saül, David a d’abord été oint roi sur la tribu de Juda à Hébron, tandis qu’Ishbosheth, fils de Saül, régna deux ans sur les autres tribus avant que David ne devienne roi de tout Israël (2 Samuel 2:3-4, 8-10)"
+    },
+    {
+        "id": 50,
+        "question": "David a fait venir l'arche de l'alliance à Jérusalem.",
+        "reponse": "vrai",
+        "explication": "Le roi David a organisé le transport de l’arche de l’alliance jusqu’à Jérusalem, afin qu’elle y soit installée, ce qui fut accompli avec beaucoup de réjouissances (2 Samuel 6:12-13)"
+    },
+    {
+        "id": 51,
+        "question": "Bethsabée était la première épouse du roi David.",
+        "reponse": "faux",
+        "explication": "Bath-Shéba (Bethsabée) n’était pas la première épouse de David. Avant elle, David avait déjà plusieurs épouses, comme Mikal, Ahinoam et Abigail (2 Samuel 3:2-5)"
+    },
+    {
+        "id": 52,
+        "question": "Le prophète Nathan a réprimandé David pour son péché avec Bethsabée.",
+        "reponse": "vrai",
+        "explication": "Après la faute de David avec Bath-Shéba et le meurtre d’Urie, Dieu a envoyé le prophète Nathan pour confronter David, ce qui a amené ce dernier à se repentir sincèrement (2 Samuel 12:7, 9, 13)"
+    },
+    {
+        "id": 53,
+        "question": "Absalom, fils de David, est mort en se rebellant contre son père.",
+        "reponse": "vrai",
+        "explication": "Absalom a tenté de détrôner son père David, mais il a été vaincu. Lors de sa fuite, il s’est retrouvé suspendu par les cheveux dans un arbre et a été tué par Joab, le général de David (2 Samuel 18:14-15)"
+    },
+    {
+        "id": 54,
+        "question": "Salomon était le fils aîné de David.",
+        "reponse": "faux",
+        "explication": "Salomon n’était pas le fils aîné de David. Il était le deuxième fils né de Bath-Shéba (après la mort du premier bébé), alors que David avait eu d’autres fils aînés comme Amnon et Absalom avant lui (2 Samuel 3:2-5; 12:24)"
+    },
+    {
+        "id": 55,
+        "question": "Salomon a demandé à Dieu la sagesse plutôt que la richesse ou la gloire.",
+        "reponse": "vrai",
+        "explication": "Au début de son règne, le jeune roi Salomon a humblement demandé à Dieu un cœur sage pour bien gouverner, et Dieu lui a accordé une sagesse exceptionnelle ainsi que des richesses et de la gloire (1 Rois 3:11-13)"
+    },
+    {
+        "id": 56,
+        "question": "Le roi Salomon a bâti un temple pour Jéhovah à Jérusalem.",
+        "reponse": "vrai",
+        "explication": "Salomon a supervisé la construction du premier temple de Jéhovah à Jérusalem, un magnifique sanctuaire pour l’adoration de Dieu, accomplissant ainsi le désir de son père David (1 Rois 6:14, 37-38)"
+    },
+    {
+        "id": 57,
+        "question": "Salomon a eu 700 femmes et 300 concubines.",
+        "reponse": "vrai",
+        "explication": "Malheureusement, le roi Salomon a accumulé un très grand nombre d’épouses (environ 700) et de concubines (300), ce qui a fini par détourner son cœur vers l’idolâtrie (1 Rois 11:3-4)"
+    },
+    {
+        "id": 58,
+        "question": "Salomon est resté fidèle à Jéhovah toute sa vie.",
+        "reponse": "faux",
+        "explication": "Plus tard dans sa vie, Salomon s’est laissé influencer par ses nombreuses épouses étrangères et il a pratiqué l’idolâtrie, s’éloignant ainsi de la fidélité qu’il devait à Jéhovah (1 Rois 11:4, 6)"
+    },
+    {
+        "id": 59,
+        "question": "Après Salomon, le royaume d'Israël s'est scindé en deux royaumes.",
+        "reponse": "vrai",
+        "explication": "Après la mort de Salomon, en raison des fautes du roi et de la dureté de son fils Roboam, le royaume s’est divisé : le royaume d’Israël (au nord) et le royaume de Juda (au sud) (1 Rois 12:19-20)"
+    },
+    {
+        "id": 60,
+        "question": "Le royaume d'Israël (du nord) a eu exclusivement des rois méchants.",
+        "reponse": "faux",
+        "explication": "La plupart des rois du royaume d’Israël ont fait ce qui est mal aux yeux de Dieu, mais certains ont accompli partiellement de bonnes actions. En revanche, aucun n’a rétabli pleinement un culte pur comme l’ont fait quelques rois de Juda (1 Rois 16:30-31)"
+    },
+    {
+        "id": 61,
+        "question": "Le prophète Élie a défié les prêtres de Baal sur le mont Carmel.",
+        "reponse": "vrai",
+        "explication": "Le prophète Élie a confronté 450 prophètes de Baal sur le mont Carmel pour prouver qui est le vrai Dieu. Jéhovah a répondu en consumant par le feu l’offrande d’Élie, prouvant sa puissance (1 Rois 18:24, 38-39)"
+    },
+    {
+        "id": 62,
+        "question": "Jézabel était la fidèle épouse du roi Achab et a encouragé l'adoration de Jéhovah.",
+        "reponse": "faux",
+        "explication": "Jézabel, la femme du roi Achab (Acab), était une idolâtre qui a fait introduire le culte de Baal en Israël et a persécuté les prophètes de Jéhovah, ce qui en a fait une reine extrêmement impie (1 Rois 21:25; 18:4)"
+    },
+    {
+        "id": 63,
+        "question": "Élisée a reçu une double portion de l'esprit d'Élie.",
+        "reponse": "vrai",
+        "explication": "Le prophète Élisée, successeur d’Élie, a demandé et reçu une « double portion » de l’esprit prophétique d’Élie, ce qui lui a permis d’accomplir de nombreux miracles par la puissance de Dieu (2 Rois 2:9, 15)"
+    },
+    {
+        "id": 64,
+        "question": "Le roi Jéhu a éliminé le culte de Baal du royaume d'Israël.",
+        "reponse": "vrai",
+        "explication": "Jéhu, oint roi d’Israël, a exécuté le jugement de Dieu sur la maison d’Achab et éliminé les adorateurs de Baal, détruisant le temple de Baal, bien qu’il n’ait pas supprimé le culte des veaux d’or (2 Rois 10:18-20, 27-29)"
+    },
+    {
+        "id": 65,
+        "question": "Le roi Ezéchias a fidèlement servi Jéhovah et a vaincu les Assyriens par sa propre force.",
+        "reponse": "faux",
+        "explication": "Le roi Ézéchias a été un roi fidèle de Juda, et quand les Assyriens ont attaqué Jérusalem, il s’est confié en Jéhovah. C’est l’ange de Jéhovah, pas la force d’Ézéchias, qui a frappé 185 000 soldats assyriens en une nuit (2 Rois 19:15, 35-36)"
+    },
+    {
+        "id": 66,
+        "question": "Le roi Josias a restauré le culte de Jéhovah et célébré une grande Pâque.",
+        "reponse": "vrai",
+        "explication": "Le roi Josias de Juda a entrepris des réformes religieuses majeures : il a éliminé l’idolâtrie et, après avoir retrouvé le livre de la Loi, il a organisé une célébration de la Pâque sans précédent, renouant avec la Loi de Dieu (2 Rois 23:21-23)"
+    },
+    {
+        "id": 67,
+        "question": "Le roi Nabuchodonosor de Babylone a détruit Jérusalem et son temple.",
+        "reponse": "vrai",
+        "explication": "En 607 av. n. è., les armées babyloniennes de Nabuchodonosor ont pris Jérusalem, brûlé le temple de Salomon et déporté la plupart des survivants juifs à Babylone (2 Rois 25:8-10, 21)"
+    },
+    {
+        "id": 68,
+        "question": "Les Juifs ont passé 70 ans en exil à Babylone.",
+        "reponse": "vrai",
+        "explication": "À cause de leur infidélité, les Juifs ont été exilés à Babylone. Jérémie avait prophétisé que cet exil durerait 70 ans, après quoi un reste pourrait revenir en Juda (Jérémie 25:11-12; 29:10)"
+    },
+    {
+        "id": 69,
+        "question": "Daniel a été jeté dans une fosse aux lions pour avoir prié Jéhovah.",
+        "reponse": "vrai",
+        "explication": "Le prophète Daniel a continué à prier Jéhovah malgré l’interdiction du roi de prier quiconque d’autre que lui. En conséquence, Daniel a été jeté dans la fosse aux lions, mais Dieu l’a protégé (Daniel 6:10, 16, 22)"
+    },
+    {
+        "id": 70,
+        "question": "Schadrak, Méchak et Abed-Négo sont morts dans la fournaise ardente.",
+        "reponse": "faux",
+        "explication": "Les trois compagnons hébreux de Daniel (Hanania, Mischaël et Azaria, surnommés Shadrak, Méschak et Abed-Nego) ont été jetés dans une fournaise ardente pour avoir refusé d’adorer une statue. Dieu les a miraculeusement sauvés, si bien qu’ils n’ont subi aucun mal (Daniel 3:26-27)"
+    },
+    {
+        "id": 71,
+        "question": "Le prophète Jonas a fui la mission que Dieu lui confiait et a été avalé par un grand poisson.",
+        "reponse": "vrai",
+        "explication": "Jonas a d’abord tenté d’échapper à la mission de prêcher à Ninive. Comme conséquence, il a été englouti par un grand poisson préparé par Dieu, où il est resté trois jours avant d’être recraché sur la terre ferme (Jonas 1:3, 17; 2:10)"
+    },
+    {
+        "id": 72,
+        "question": "Les habitants de Ninive se sont repentis à la prédication de Jonas.",
+        "reponse": "vrai",
+        "explication": "Lorsque Jonas a finalement proclamé l’avertissement de Dieu à Ninive, tous les habitants, du roi jusqu’au plus humble, se sont repentis et ont changé de conduite, et Dieu a épargné provisoirement la ville (Jonas 3:5-6, 10)"
+    },
+    {
+        "id": 73,
+        "question": "Esther est devenue reine de Perse et a sauvé son peuple d’un complot.",
+        "reponse": "vrai",
+        "explication": "Esther, une Juive, est devenue la reine du roi perse Assuérus (Xerxès). Grâce à son courage et à l’aide de Dieu, elle a déjoué le complot d’Haman qui voulait exterminer les Juifs, sauvant ainsi son peuple (Esther 4:14, 16; 8:3, 6)"
+    },
+    {
+        "id": 74,
+        "question": "Marie, la mère de Jésus, était de la lignée du roi David.",
+        "reponse": "vrai",
+        "explication": "Jésus devait naître dans la lignée royale de David. Les généalogies bibliques montrent que Marie était une descendante de David, ce qui fait de Jésus un héritier légitime de la promesse davidique (Luc 3:23, 31)"
+    },
+    {
+        "id": 75,
+        "question": "Jésus est né dans la ville de Bethléhem.",
+        "reponse": "vrai",
+        "explication": "Selon les prophéties et le récit évangélique, Jésus est né à Bethléhem en Judée, la ville de David, accomplissant ainsi la prophétie de Michée (Michée 5:2; Matthieu 2:1)"
+    },
+    {
+        "id": 76,
+        "question": "Un ange a annoncé aux bergers la naissance de Jésus.",
+        "reponse": "vrai",
+        "explication": "La nuit de la naissance de Jésus, un ange du Seigneur est apparu à des bergers pour leur annoncer la naissance du Sauveur, et une multitude d’anges ont loué Dieu (Luc 2:8-11, 13-14)"
+    },
+    {
+        "id": 77,
+        "question": "Trois rois mages sont venus adorer Jésus le jour de sa naissance.",
+        "reponse": "faux",
+        "explication": "La Bible parle de « mages » (des astrologues) venus d’Orient avec trois cadeaux, mais elle ne précise ni leur nombre ni qu’ils étaient rois. De plus, ils sont arrivés quelque temps après la naissance de Jésus, alors que la famille vivait dans une maison (Matthieu 2:1, 9-11)"
+    },
+    {
+        "id": 78,
+        "question": "Une étoile a guidé les astrologues vers Jésus, envoyée par Dieu.",
+        "reponse": "faux",
+        "explication": "Bien qu’une étoile ait guidé les astrologues jusqu’à Jésus, il est peu probable que Dieu en soit la source, car cela a conduit le roi Hérode à vouloir tuer Jésus. Satan a sans doute utilisé cette « étoile » pour essayer d’éliminer le futur Messie (Matthieu 2:7-8, 16)"
+    },
+    {
+        "id": 79,
+        "question": "La famille de Jésus s’est enfuie en Égypte pour échapper à Hérode.",
+        "reponse": "vrai",
+        "explication": "Un ange a averti Joseph dans un rêve de fuir en Égypte avec Marie et Jésus pour le protéger du roi Hérode, qui cherchait à faire périr l’enfant. Ils sont restés en Égypte jusqu’à la mort d’Hérode (Matthieu 2:13-15)"
+    },
+    {
+        "id": 80,
+        "question": "Jésus a grandi dans la ville de Nazareth en Galilée.",
+        "reponse": "vrai",
+        "explication": "Après la mort d’Hérode, Joseph et sa famille sont revenus et se sont installés dans la ville de Nazareth, de sorte que Jésus a été appelé Nazaréen (Matthieu 2:23; Luc 2:39-40)"
+    },
+    {
+        "id": 81,
+        "question": "À l'âge de 12 ans, Jésus enseignait déjà dans le Temple de Jérusalem.",
+        "reponse": "vrai",
+        "explication": "À l’âge de douze ans, Jésus a été retrouvé au temple, assis au milieu des enseignants, les écoutant et les interrogeant, et tous étaient étonnés de son intelligence de ses réponses (Luc 2:46-47)"
+    },
+    {
+        "id": 82,
+        "question": "Jean le Baptiste mangeait des sauterelles et du miel sauvage.",
+        "reponse": "vrai",
+        "explication": "Jean le Baptiste menait une vie simple dans le désert ; sa nourriture consistait notamment en sauterelles et en miel sauvage, conformément à la description évangélique (Matthieu 3:4)"
+    },
+    {
+        "id": 83,
+        "question": "Jésus a été baptisé par l'apôtre Pierre.",
+        "reponse": "faux",
+        "explication": "Jésus a été baptisé dans le Jourdain, non par Pierre, mais par Jean le Baptiste. À ce moment-là, l’esprit saint est descendu sur Jésus sous forme de colombe et la voix de Dieu s’est fait entendre (Matthieu 3:13, 16-17)"
+    },
+    {
+        "id": 84,
+        "question": "Au moment de son baptême, une voix céleste a déclaré : « Celui-ci est mon Fils bien-aimé. »",
+        "reponse": "vrai",
+        "explication": "Quand Jésus s’est fait baptiser, Dieu a témoigné en sa faveur : une voix venant du ciel a dit « Celui-ci est mon Fils bien-aimé, qui a mon approbation » (Matthieu 3:16-17)"
+    },
+    {
+        "id": 85,
+        "question": "Jésus a jeûné 40 jours dans le désert et y a été tenté par Satan.",
+        "reponse": "vrai",
+        "explication": "Immédiatement après son baptême, Jésus a passé 40 jours dans le désert à jeûner. Durant cette période, il a subi à trois reprises les tentations du Diable, auxquelles il a résisté en citant les Écritures (Matthieu 4:1-4)"
+    },
+    {
+        "id": 86,
+        "question": "Satan a offert à Jésus tous les royaumes du monde s'il se prosternait devant lui.",
+        "reponse": "vrai",
+        "explication": "Lors de la tentation dans le désert, Satan a montré à Jésus tous les royaumes du monde et leur gloire, promettant de les lui donner si Jésus se prosternait pour l’adorer, ce que Jésus a refusé catégoriquement (Matthieu 4:8-10)"
+    },
+    {
+        "id": 87,
+        "question": "Jésus a choisi 12 apôtres parmi ses disciples.",
+        "reponse": "vrai",
+        "explication": "Durant son ministère, Jésus a sélectionné douze de ses disciples et les a nommés apôtres pour les envoyer prêcher et avoir une relation particulière de formation avec lui (Marc 3:14-19)"
+    },
+    {
+        "id": 88,
+        "question": "Parmi les douze apôtres se trouvait un ancien collecteur d’impôts.",
+        "reponse": "vrai",
+        "explication": "Matthieu, également appelé Lévi, l’auteur de l’Évangile de Matthieu, était auparavant collecteur d’impôts avant de devenir l’un des douze apôtres de Jésus (Matthieu 9:9; 10:3)"
+    },
+    {
+        "id": 89,
+        "question": "Jésus a transformé l'eau en vin lors d'un mariage à Nazareth.",
+        "reponse": "faux",
+        "explication": "Le premier miracle de Jésus a eu lieu à Cana en Galilée, pas à Nazareth. Lors d’un mariage à Cana, il a transformé de l’eau en un excellent vin, manifestant ainsi sa gloire (Jean 2:1, 9-11)"
+    },
+    {
+        "id": 90,
+        "question": "Jésus a nourri environ 5 000 hommes avec cinq pains et deux poissons.",
+        "reponse": "vrai",
+        "explication": "Avec seulement cinq pains et deux poissons, Jésus a miraculeusement nourri une foule d’environ cinq mille hommes, sans compter les femmes et les enfants, et il y eut douze paniers de restes (Matthieu 14:17-21)"
+    },
+    {
+        "id": 91,
+        "question": "Jésus a choisi de vivre dans le luxe pour prêcher plus efficacement.",
+        "reponse": "faux",
+        "explication": "Jésus menait une vie simple et sans luxe matériel durant son ministère itinérant. Il a même dit qu’il n’avait pas « où poser la tête », soulignant qu’il ne cherchait pas le confort terrestre (Matthieu 8:20)"
+    },
+    {
+        "id": 92,
+        "question": "Jésus a enseigné : « Il y a plus de bonheur à donner qu'à recevoir ».",
+        "reponse": "vrai",
+        "explication": "Jésus a souligné le bonheur que l’on trouve dans la générosité. L’apôtre Paul a rapporté cette parole de Jésus : « Il y a plus de bonheur à donner qu’à recevoir » (Actes 20:35)"
+    },
+    {
+        "id": 93,
+        "question": "Jésus a prononcé le Sermon sur la montagne, qui contient les Béatitudes.",
+        "reponse": "vrai",
+        "explication": "Sur une montagne de Galilée, Jésus a enseigné une foule de disciples dans ce qu’on appelle le Sermon sur la montagne. Ce sermon commence par les Béatitudes, une série de déclarations décrivant ceux qui sont heureux aux yeux de Dieu (Matthieu 5:3-11; 7:28-29)"
+    },
+    {
+        "id": 94,
+        "question": "Jésus a dit à ses disciples de ne pas aimer leurs ennemis.",
+        "reponse": "faux",
+        "explication": "Jésus a enseigné exactement le contraire : il a dit « Aimez vos ennemis et priez pour ceux qui vous persécutent », montrant que l’amour chrétien doit s’étendre même aux ennemis (Matthieu 5:44)"
+    },
+    {
+        "id": 95,
+        "question": "Jésus a souvent enseigné en utilisant des paraboles.",
+        "reponse": "vrai",
+        "explication": "Afin d’enseigner des vérités spirituelles profondes de manière accessible, Jésus employait fréquemment des paraboles (histoires imagées) comme celle du bon Samaritain ou du fils prodigue (Matthieu 13:34-35)"
+    },
+    {
+        "id": 96,
+        "question": "Jésus n'a jamais exprimé d'émotions comme la tristesse.",
+        "reponse": "faux",
+        "explication": "Jésus a ressenti et exprimé des émotions humaines. Par exemple, quand son ami Lazare est mort, Jésus a pleuré, ce qui montre sa compassion et sa tristesse sincère (Jean 11:35)"
+    },
+    {
+        "id": 97,
+        "question": "Jésus a ressuscité Lazare, qui était mort depuis quatre jours.",
+        "reponse": "vrai",
+        "explication": "À Béthanie, Jésus a miraculeusement ramené à la vie son ami Lazare, qui était mort et enterré depuis quatre jours, démontrant ainsi le pouvoir de Dieu sur la mort (Jean 11:43-44)"
+    },
+    {
+        "id": 98,
+        "question": "Les chefs religieux juifs aimaient Jésus et le soutenaient.",
+        "reponse": "faux",
+        "explication": "Beaucoup de chefs religieux juifs, comme les pharisiens et les scribes, étaient hostiles à Jésus. Ils cherchaient souvent à le piéger par des questions et finalement complotèrent pour le faire mourir en raison de ses enseignements qui dénonçaient leur hypocrisie (Marc 14:1; Luc 11:53-54)"
+    },
+    {
+        "id": 99,
+        "question": "Jésus est entré à Jérusalem monté sur un âne, accomplissant une prophétie.",
+        "reponse": "vrai",
+        "explication": "Une semaine avant sa mort, Jésus est entré humblement à Jérusalem sur le petit d’une ânesse. Cet événement, acclamé par la foule, accomplissait la prophétie de Zacharie sur le roi venant monté sur un âne (Zacharie 9:9; Matthieu 21:6-9)"
+    },
+    {
+        "id": 100,
+        "question": "Jésus a chassé les marchands du temple à deux reprises.",
+        "reponse": "vrai",
+        "explication": "Jésus a purifié le temple en chassant les changeurs et les marchands. L’Évangile de Jean décrit une telle action en début de ministère, et les Évangiles synoptiques en mentionnent une autre lors de la dernière semaine de Jésus, indiquant qu’il a fait cela deux fois (Jean 2:14-16; Luc 19:45-46)"
+    },
+    {
+        "id": 101,
+        "question": "Jésus a institué la Commémoration (ou Cène) la nuit de la Pâque juive.",
+        "reponse": "vrai",
+        "explication": "Lors de la nuit de la Pâque 33 de n. è., Jésus a célébré le repas de la Pâque avec ses apôtres puis a institué le Repas du Seigneur (la Commémoration), en distribuant du pain et du vin symbolisant son corps et son sang (Luc 22:19-20)"
+    },
+    {
+        "id": 102,
+        "question": "Judas Iscariote a trahi Jésus pour trente pièces d'argent.",
+        "reponse": "vrai",
+        "explication": "L’apôtre Judas Iscariote est allé voir les prêtres juifs et a accepté de leur livrer Jésus en échange de trente pièces d’argent, accomplissant ainsi une prophétie de Zacharie (Matthieu 26:14-15)"
+    },
+    {
+        "id": 103,
+        "question": "Dans le jardin de Gethsémani, les apôtres ont veillé en priant toute la nuit avec Jésus.",
+        "reponse": "faux",
+        "explication": "Au Jardin de Gethsémani, alors que Jésus agonisait en prière avant son arrestation, ses apôtres n’ont pas réussi à rester éveillés. Ils se sont endormis à plusieurs reprises malgré les demandes de Jésus de veiller (Matthieu 26:40-41)"
+    },
+    {
+        "id": 104,
+        "question": "Pierre a tranché l'oreille d'un serviteur du grand prêtre lorsque Jésus a été arrêté.",
+        "reponse": "vrai",
+        "explication": "Lors de l’arrestation de Jésus, l’apôtre Pierre a dégainé une épée et a coupé l’oreille de Malchus, un serviteur du grand prêtre. Jésus a alors guéri l’oreille de l’homme et a dit à Pierre de rengainer son épée (Jean 18:10-11; Luc 22:51)"
+    },
+    {
+        "id": 105,
+        "question": "Tous les apôtres de Jésus sont restés fidèles et ne l'ont pas abandonné.",
+        "reponse": "faux",
+        "explication": "Quand Jésus a été arrêté, tous ses apôtres l’ont abandonné et se sont enfuis. De plus, Pierre a renié trois fois connaître Jésus cette nuit-là, bien que la plupart soient revenus vers lui après sa résurrection (Matthieu 26:56, 74-75)"
+    },
+    {
+        "id": 106,
+        "question": "Jésus a été jugé par le Sanhédrin avant d’être emmené devant Pilate.",
+        "reponse": "vrai",
+        "explication": "Après son arrestation, Jésus a d’abord été conduit devant le grand prêtre et le Sanhédrin, le tribunal juif suprême, où il a été accusé de blasphème, puis livré au gouverneur romain, Ponce Pilate, pour qu’il confirme la sentence (Luc 22:66; 23:1)"
+    },
+    {
+        "id": 107,
+        "question": "Le gouverneur romain Ponce Pilate a trouvé Jésus innocent mais l'a quand même fait exécuter.",
+        "reponse": "vrai",
+        "explication": "Pilate a déclaré à plusieurs reprises ne trouver aucune faute en Jésus, mais face à la pression de la foule et des chefs religieux, il a finalement cédé et a ordonné l’exécution de Jésus sur le poteau de supplice (Luc 23:22-24)"
+    },
+    {
+        "id": 108,
+        "question": "Jésus est mort cloué sur une croix en bois traditionnelle.",
+        "reponse": "faux",
+        "explication": "Jésus a été exécuté sur un poteau de supplice. Dans les Écritures grecques, le mot utilisé est stauros, qui désigne un poteau vertical. Jésus a été cloué sur ce poteau, sans preuve biblique de l’utilisation d’une croix avec une traverse (Actes 5:30)"
+    },
+    {
+        "id": 109,
+        "question": "Un écriteau sur le poteau de supplice de Jésus était rédigé en hébreu, en latin et en grec.",
+        "reponse": "vrai",
+        "explication": "L’accusation inscrite contre Jésus, « Jésus le Nazaréen Roi des Juifs », a été placardée sur son poteau de supplice en trois langues – hébreu (ou araméen), latin et grec – afin que tous puissent la lire (Jean 19:19-20)"
+    },
+    {
+        "id": 110,
+        "question": "Quand Jésus est mort, le voile du temple s'est déchiré en deux.",
+        "reponse": "vrai",
+        "explication": "Au moment où Jésus a expiré sur le poteau, un grand tremblement de terre a eu lieu et le rideau du sanctuaire (le voile séparant le Saint du Très-Saint dans le temple) s’est fendu en deux, symbolisant l’accès ouvert au ciel (Matthieu 27:50-51)"
+    },
+    {
+        "id": 111,
+        "question": "Jésus est resté mort dans la tombe pendant sept jours.",
+        "reponse": "faux",
+        "explication": "Jésus est resté dans la tombe pendant une courte période : il est mort le 14 Nisan (vendredi après-midi) et est ressuscité le 16 Nisan, le troisième jour (dimanche matin). Il n’est pas resté une semaine complète dans la tombe (Luc 24:6-7)"
+    },
+    {
+        "id": 112,
+        "question": "Les premiers à découvrir la tombe vide de Jésus furent des femmes.",
+        "reponse": "vrai",
+        "explication": "Le dimanche matin, plusieurs femmes disciples, dont Marie de Magdala, sont venues au tombeau de Jésus et l’ont trouvé vide. Un ange leur a annoncé que Jésus était ressuscité, faisant d’elles les premières témoins de la résurrection (Luc 24:1-3, 5-6)"
+    },
+    {
+        "id": 113,
+        "question": "Marie-Madeleine a confondu Jésus ressuscité avec le jardinier.",
+        "reponse": "vrai",
+        "explication": "Après la résurrection de Jésus, Marie de Magdala (Marie-Madeleine) se tenait près du tombeau en pleurs. Jésus ressuscité lui est apparu, mais elle l’a d’abord pris pour le jardinier jusqu’à ce qu’il l’appelle par son nom (Jean 20:14-16)"
+    },
+    {
+        "id": 114,
+        "question": "L'apôtre Thomas a immédiatement cru à la résurrection de Jésus sans aucune hésitation.",
+        "reponse": "faux",
+        "explication": "Thomas n’était pas présent lors de la première apparition de Jésus ressuscité aux apôtres. Il a douté du témoignage des autres et a déclaré qu’il voulait voir et toucher les marques des clous pour croire, ce qu’il a fait huit jours plus tard lorsqu’il a vu Jésus (Jean 20:24-27)"
+    },
+    {
+        "id": 115,
+        "question": "Deux disciples ont rencontré Jésus ressuscité sur le chemin d’Emmaüs.",
+        "reponse": "vrai",
+        "explication": "Le jour de sa résurrection, Jésus est apparu incognito à deux de ses disciples qui se rendaient au village d’Emmaüs. Il a marché et conversé avec eux, expliquant les Écritures, avant de se faire reconnaître lors du repas (Luc 24:13, 15-16, 30-31)"
+    },
+    {
+        "id": 116,
+        "question": "Jésus est monté au ciel 40 jours après sa résurrection.",
+        "reponse": "vrai",
+        "explication": "Jésus est resté avec ses disciples pendant 40 jours après sa résurrection, leur apparaissant à diverses reprises. Ensuite, il est monté au ciel sous leurs yeux, et une nuée l’a soustrait à leur vue (Actes 1:3, 9)"
+    },
+    {
+        "id": 117,
+        "question": "Avant de monter au ciel, Jésus a commandé à ses disciples de prêcher à toutes les nations.",
+        "reponse": "vrai",
+        "explication": "Avant son ascension, Jésus a donné à ses disciples la mission de faire de “toutes les nations” des disciples, baptisant et enseignant les futurs croyants, dans ce qu’on appelle la Grande Commission (Matthieu 28:19-20)"
+    },
+    {
+        "id": 118,
+        "question": "Le jour de la Pentecôte, l'esprit saint est descendu sur environ 120 disciples réunis.",
+        "reponse": "vrai",
+        "explication": "Dix jours après l’ascension de Jésus, lors de la fête de la Pentecôte, environ 120 disciples étaient rassemblés à Jérusalem. L’esprit saint est descendu sur eux avec un bruit semblable à un vent et des langues de feu se sont posées sur chacun d’eux (Actes 1:15; 2:1-4)"
+    },
+    {
+        "id": 119,
+        "question": "À la Pentecôte, les disciples ont reçu la capacité de parler en plusieurs langues.",
+        "reponse": "vrai",
+        "explication": "Quand l’esprit saint est venu sur les disciples à la Pentecôte, ils ont commencé à parler en différentes langues qu’ils n’avaient pas apprises, ce qui a stupéfié les Juifs de diverses contrées présents à Jérusalem (Actes 2:4-6)"
+    },
+    {
+        "id": 120,
+        "question": "Environ 3 000 personnes se sont faites baptiser le jour de la Pentecôte.",
+        "reponse": "vrai",
+        "explication": "Après le discours de l’apôtre Pierre le jour de la Pentecôte, environ trois mille personnes qui acceptèrent le message se sont fait baptiser, constituant la première grande augmentation de la congrégation chrétienne (Actes 2:40-41)"
+    },
+    {
+        "id": 121,
+        "question": "Étienne a été le premier martyr chrétien, lapidé pour sa foi.",
+        "reponse": "vrai",
+        "explication": "Étienne, l’un des premiers disciples et diacre, a courageusement témoigné devant le Sanhédrin. Ses paroles ont provoqué la fureur, et il a été emmené hors de la ville et lapidé, devenant le premier martyr chrétien relaté (Actes 7:59-60; 8:1)"
+    },
+    {
+        "id": 122,
+        "question": "Saül de Tarse s'est converti au christianisme après avoir vu une vision de Jésus.",
+        "reponse": "vrai",
+        "explication": "Saül, qui persécutait les chrétiens, a eu une vision de Jésus glorifié sur la route de Damas. Cet événement dramatique l’a rendu temporairement aveugle et a conduit à sa conversion ; il est devenu l’apôtre Paul (Actes 9:3-5, 17-18)"
+    },
+    {
+        "id": 123,
+        "question": "L'apôtre Pierre a eu une vision d'un drap rempli d'animaux purs et impurs.",
+        "reponse": "vrai",
+        "explication": "Pierre a eu une vision symbolique où un grand drap descendait du ciel avec toutes sortes d’animaux, purs et impurs, et une voix lui disait de tuer et de manger. Cette vision préparait Pierre à comprendre que les non-Juifs pouvaient être acceptés par Dieu (Actes 10:11-15)"
+    },
+    {
+        "id": 124,
+        "question": "Après la vision, Pierre a baptisé un eunuque éthiopien.",
+        "reponse": "faux",
+        "explication": "Ce n’est pas Pierre, mais Philippe l’évangélisateur qui a été envoyé pour expliquer les Écritures à un eunuque éthiopien et le baptiser. La vision de Pierre concernait Cornélius, un centurion romain, qu’il a ensuite baptisé, inaugurant le baptême des non-Juifs incirconcis (Actes 8:36-38; 10:44-48)"
+    },
+    {
+        "id": 125,
+        "question": "Pierre a été libéré miraculeusement de prison par un ange.",
+        "reponse": "vrai",
+        "explication": "L’apôtre Pierre a été emprisonné par le roi Hérode, mais durant la nuit, un ange du Seigneur est apparu dans sa cellule, a fait tomber ses chaînes et l’a guidé hors de la prison sans alerter les gardes (Actes 12:6-8, 10)"
+    },
+    {
+        "id": 126,
+        "question": "L'apôtre Paul a effectué plusieurs voyages missionnaires pour prêcher.",
+        "reponse": "vrai",
+        "explication": "Après sa conversion, l’apôtre Paul a entrepris au moins trois grands voyages missionnaires à travers l’Asie Mineure, la Grèce et jusqu’à Rome, prêchant la bonne nouvelle aux Juifs et aux non-Juifs (Actes 13:2-3; 2 Corinthiens 11:25-27)"
+    },
+    {
+        "id": 127,
+        "question": "Paul et Silas ont chanté des cantiques en prison et un tremblement de terre les a libérés.",
+        "reponse": "vrai",
+        "explication": "À Philippes, Paul et Silas, emprisonnés injustement, chantaient des louanges à Dieu la nuit. Dieu a provoqué un grand tremblement de terre qui a ouvert les portes de la prison et détaché leurs liens, aboutissant à la conversion du geôlier (Actes 16:25-26, 30-31)"
+    },
+    {
+        "id": 128,
+        "question": "L'apôtre Paul a écrit la totalité des livres du Nouveau Testament.",
+        "reponse": "faux",
+        "explication": "Paul a écrit de nombreuses lettres (épîtres) du Nouveau Testament, comme Romains, Corinthiens, etc., mais pas tous les livres. D’autres apôtres ou disciples ont écrit les Évangiles, les lettres de Pierre, de Jean, de Jacques, de Jude, et l’Apocalypse (2 Pierre 3:15-16)"
+    },
+    {
+        "id": 129,
+        "question": "Timothée, collaborateur de Paul, avait une mère juive et un père grec.",
+        "reponse": "vrai",
+        "explication": "Timothée, un jeune disciple proche de l’apôtre Paul, avait une mère juive chrétienne nommée Eunice et un père grec. Sa grand-mère Loïs était également croyante, ce qui montre son éducation spirituelle mixte (Actes 16:1; 2 Timothée 1:5)"
+    },
+    {
+        "id": 130,
+        "question": "L'apôtre Jean a reçu la Révélation (Apocalypse) sur l'île de Patmos.",
+        "reponse": "vrai",
+        "explication": "L’apôtre Jean a été exilé à l’île de Patmos à cause de son activité chrétienne. C’est là qu’il a reçu les visions prophétiques consignées dans le livre de la Révélation (Apocalypse) (Révélation 1:9-10)"
+    },
+    {
+        "id": 131,
+        "question": "L’arche de Noé mesurait 300 coudées de long.",
+        "reponse": "vrai",
+        "explication": "Dieu a fourni à Noé des instructions précises pour la construction de l’arche. Celle-ci mesurait 300 coudées de long, 50 coudées de large et 30 coudées de haut, soit environ 133 × 22 × 13 mètres (Genèse 6:15-16)"
+    },
+    {
+        "id": 132,
+        "question": "Goliath mesurait plus de deux mètres et demi de hauteur.",
+        "reponse": "vrai",
+        "explication": "Le géant philistin Goliath mesurait six coudées et un empan. Cela correspond à environ 2,9 mètres de haut, ce qui dépasse largement deux mètres et demi (1 Samuel 17:4)"
+    },
+    {
+        "id": 133,
+        "question": "Methousélah (Mathusalem) a vécu plus longtemps que n'importe qui d'autre dans la Bible.",
+        "reponse": "vrai",
+        "explication": "Methousélah, le grand-père de Noé, est l’homme ayant vécu le plus longtemps selon la Bible, atteignant l’âge de 969 ans (Genèse 5:27)"
+    },
+    {
+        "id": 134,
+        "question": "Les Israélites étaient esclaves en Égypte pendant 40 ans.",
+        "reponse": "faux",
+        "explication": "Les Israélites ont séjourné en Égypte bien plus longtemps que 40 ans. Ils y sont restés au total 430 ans, dont une partie en esclavage, avant l’Exode sous Moïse (Exode 12:40-41)"
+    },
+    {
+        "id": 135,
+        "question": "Le voyage des Israélites depuis l'Égypte jusqu'à la Terre promise aurait pu prendre quelques semaines seulement.",
+        "reponse": "vrai",
+        "explication": "Le trajet direct d’Égypte en Canaan aurait pu être relativement court, mais Dieu a fait passer les Israélites par un long itinéraire, et leur manque de foi a prolongé leur séjour dans le désert à 40 ans (Exode 13:17-18; Deutéronome 1:2-3)"
+    },
+    {
+        "id": 136,
+        "question": "Le tabernacle construit par Moïse était un temple en pierre permanent.",
+        "reponse": "faux",
+        "explication": "Sous la direction de Moïse, les Israélites ont construit un tabernacle portatif, fait de toiles, de bois et d’or, pour adorer Jéhovah. Ce sanctuaire mobile n’était pas un temple en pierre permanent, mais une tente sacrée (Exode 25:8-9)"
+    },
+    {
+        "id": 137,
+        "question": "Le premier temple de Jérusalem a mis 7 ans à être construit.",
+        "reponse": "vrai",
+        "explication": "Le roi Salomon a mis sept ans à construire le Temple de Jéhovah à Jérusalem. La construction a été achevée dans la huitième mois de la onzième année de son règne (1 Rois 6:37-38)"
+    },
+    {
+        "id": 138,
+        "question": "Le temple de Salomon a été détruit par les Babyloniens.",
+        "reponse": "vrai",
+        "explication": "En 607 av. n. è., les Babyloniens sous Neboukadnetsar ont pris Jérusalem, brûlé le temple construit par Salomon et emmené le peuple en exil à Babylone (2 Rois 25:8-9)"
+    },
+    {
+        "id": 139,
+        "question": "Le second temple (construit après l’exil) a été détruit par les Romains en l'an 70.",
+        "reponse": "vrai",
+        "explication": "Le temple reconstruit par les Juifs revenus de l’exil (embelli plus tard par Hérode) a finalement été détruit par les armées romaines sous Titus en l’an 70 de n. è., accomplissant la prophétie de Jésus (Luc 21:5-6; 21:20)"
+    },
+    {
+        "id": 140,
+        "question": "La période entre la fin de l’Ancien Testament et le début du Nouveau Testament est d’environ 400 ans.",
+        "reponse": "vrai",
+        "explication": "Après le livre de Malachie, il s’est écoulé environ quatre siècles sans récit biblique (période intertestamentaire) jusqu’à l’époque où les événements des Évangiles ont commencé (Malachie 4:5-6; Luc 1:11-13)"
+    },
+    {
+        "id": 141,
+        "question": "La Bible contient 66 livres.",
+        "reponse": "vrai",
+        "explication": "La Bible telle que la reconnaissent les Témoins de Jéhovah se compose de 66 livres : 39 livres dans les Écritures hébraïques (Ancien Testament) et 27 livres dans les Écritures grecques chrétiennes (Nouveau Testament)"
+    },
+    {
+        "id": 142,
+        "question": "La Bible a été écrite originellement en latin.",
+        "reponse": "faux",
+        "explication": "La Bible n’a pas été écrite en latin à l’origine. La majeure partie des Écritures hébraïques a été rédigée en hébreu (avec quelques portions en araméen), et les Écritures grecques chrétiennes ont été écrites en grec koinè (Luc 23:38; Romains 3:2)"
+    },
+    {
+        "id": 143,
+        "question": "Il y a 4 évangiles dans le Nouveau Testament.",
+        "reponse": "vrai",
+        "explication": "Le Nouveau Testament commence par quatre récits de la vie et du ministère de Jésus appelés Évangiles, attribués à Matthieu, Marc, Luc et Jean (Luc 1:1-3)"
+    },
+    {
+        "id": 144,
+        "question": "La plupart du Nouveau Testament a été écrit par l'apôtre Paul.",
+        "reponse": "vrai",
+        "explication": "Parmi les 27 livres du Nouveau Testament, 14 sont traditionnellement attribués à l’apôtre Paul (y compris Hébreux). Ses lettres constituent donc une part significative du NT (2 Pierre 3:15-16)"
+    },
+    {
+        "id": 145,
+        "question": "Le livre le plus long de la Bible (en chapitres) est le livre des Psaumes.",
+        "reponse": "vrai",
+        "explication": "Avec 150 chapitres, le livre des Psaumes est le plus long de la Bible en termes de chapitres. Il s’agit d’une collection d’hymnes et de prières (Psaume 1:1-2)"
+    },
+    {
+        "id": 146,
+        "question": "Le plus court chapitre de la Bible est le Psaume 117.",
+        "reponse": "vrai",
+        "explication": "Le Psaume 117 est le chapitre le plus court de la Bible, ne comportant que deux versets, invitant à louer Jéhovah pour sa bonté et sa fidélité (Psaume 117:1-2)"
+    },
+    {
+        "id": 147,
+        "question": "Le verset le plus court de la Bible en français est 'Priez constamment'.",
+        "reponse": "vrai",
+        "explication": "Dans de nombreuses traductions françaises, le verset 1 Thessaloniciens 5:17, « Priez constamment, est l’un des plus courts versets de la Bible. (1 Thessaloniciens 5:17)"
+    },
+    {
+        "id": 148,
+        "question": "La Bible a été divisée en chapitres et versets dès son écriture originale.",
+        "reponse": "faux",
+        "explication": "Les écrits bibliques originaux ne comportaient ni chapitres ni versets numérotés. Ces divisions ont été ajoutées bien plus tard (au Moyen Âge) pour faciliter les références et la lecture (Luc 4:17-20)"
+    },
+    {
+        "id": 149,
+        "question": "Le mot 'Bible' signifie 'bibliothèque'.",
+        "reponse": "faux",
+        "explication": "Le mot « Bible » vient du grec « biblia » qui signifie « livres ». On l’appelle ainsi parce qu’elle est une collection de livres sacrés, ce qui ressemble à une petite bibliothèque, mais le terme lui-même signifie simplement « livres » (Luc 24:27)"
+    },
+    {
+        "id": 150,
+        "question": "Environ 40 personnes différentes ont contribué à écrire la Bible.",
+        "reponse": "vrai",
+        "explication": "Sur une période d’environ 1 600 ans, environ quarante hommes ont été inspirés par Dieu pour écrire les différents livres de la Bible, de Moïse au 16ᵉ siècle av. n. è. jusqu’à l’apôtre Jean au 1ᵉʳ siècle de n. è. (2 Pierre 1:21)"
+    },
+    {
+        "id": 151,
+        "question": "Tous les écrivains de la Bible étaient juifs.",
+        "reponse": "faux",
+        "explication": "Si la plupart des rédacteurs bibliques étaient Israélites (Juifs) de naissance, il y a au moins un auteur non juif identifié : Luc, l’écrivain de l’Évangile de Luc et des Actes, était probablement un Gentil converti au christianisme (Colossiens 4:10-14)"
+    },
+    {
+        "id": 152,
+        "question": "L’écrivain de l’Évangile de Luc était médecin de profession.",
+        "reponse": "vrai",
+        "explication": "Luc, qui a rédigé l’Évangile de Luc et le livre des Actes des Apôtres, était médecin de profession, comme l’indique l’apôtre Paul en l’appelant « le médecin bien-aimé » (Colossiens 4:14)"
+    },
+    {
+        "id": 153,
+        "question": "Les Psaumes ont été tous écrits par le roi David.",
+        "reponse": "faux",
+        "explication": "Bien que David ait composé de nombreux psaumes, le recueil des Psaumes contient des écrits d’autres auteurs, tels que Moïse, Asaph, les fils de Koré, Salomon, Éthan, et d’autres anonymes (Psaume 90:1)"
+    },
+    {
+        "id": 154,
+        "question": "Le livre des Proverbes est principalement attribué au roi Salomon.",
+        "reponse": "vrai",
+        "explication": "Salomon est l’auteur principal du livre des Proverbes, bien que le recueil inclue aussi des proverbes collectés à l’époque d’Ézéchias, ainsi que les paroles d’Agour et du roi Lemuel (Proverbes 1:1; 25:1)"
+    },
+    {
+        "id": 155,
+        "question": "Le livre des Lamentations a été écrit par le prophète Jérémie.",
+        "reponse": "vrai",
+        "explication": "La tradition et de nombreux érudits attribuent à Jérémie la rédaction du livre des Lamentations, qui exprime la douleur devant la destruction de Jérusalem (Lamentations 1:1-2)"
+    },
+    {
+        "id": 156,
+        "question": "Le nom de Dieu, Jéhovah, apparaît dans les manuscrits originaux de l'Ancien Testament.",
+        "reponse": "vrai",
+        "explication": "Le tétragramme divin (YHWH), généralement rendu par « Jéhovah » en français, figure près de 7 000 fois dans les manuscrits hébreux originaux de l’Ancien Testament (Psaume 83:18)"
+    },
+    {
+        "id": 157,
+        "question": "Le nom de Dieu n'apparaît dans aucune traduction de la Bible.",
+        "reponse": "faux",
+        "explication": "Beaucoup de traductions de la Bible en diverses langues contiennent le nom divin sous la forme « Jéhovah » ou « Yahvé », en particulier dans l’Ancien Testament. Par exemple, Psaume 83:18 fait connaître le nom de Dieu (Psaume 83:18)"
+    },
+    {
+        "id": 158,
+        "question": "Dans la plupart des manuscrits grecs du Nouveau Testament, le nom divin (Jéhovah) n'apparaît pas directement.",
+        "reponse": "vrai",
+        "explication": "Les manuscrits grecs actuellement disponibles du Nouveau Testament utilisent généralement le mot « Seigneur » (Kurios) à la place du nom divin, probablement parce que les copistes ont suivi l’usage courant de leur époque, bien que les Témoins de Jéhovah pensent que le nom divin figurait dans les citations de l’Ancien Testament (Luc 4:17-21)"
+    },
+    {
+        "id": 159,
+        "question": "La Septante est une traduction latine de la Bible.",
+        "reponse": "faux",
+        "explication": "La Septante est la traduction de la Bible hébraïque en grec koinè, réalisée au IIIe–IIe siècle av. n. è. pour les Juifs hellénophones d’Alexandrie. La traduction latine principale de la Bible est plutôt la Vulgate de Jérôme (Luc 4:16-17)"
+    },
+    {
+        "id": 160,
+        "question": "Les manuscrits de la mer Morte contiennent des portions de livres bibliques vieux de plus de 2000 ans.",
+        "reponse": "vrai",
+        "explication": "Découverts à Qumrân, les manuscrits de la mer Morte datent du IIIe siècle av. n. è. au 1er siècle de n. è. Ils comprennent des portions de presque tous les livres de l’Ancien Testament, confirmant la fiabilité de transmission du texte biblique (Habacuc 2:2-3 [Manuscrits de la mer Morte])"
+    },
+    {
+        "id": 161,
+        "question": "Les pharisiens croyaient à la résurrection, contrairement aux sadducéens.",
+        "reponse": "vrai",
+        "explication": "Au sein du judaïsme du Ier siècle, les pharisiens reconnaissaient la résurrection et l’existence des anges et des esprits, tandis que les sadducéens n’y croyaient pas, ce qui est confirmé dans le livre des Actes (Actes 23:8)"
+    },
+    {
+        "id": 162,
+        "question": "Les Samaritains étaient considérés comme des étrangers par les Juifs du temps de Jésus.",
+        "reponse": "vrai",
+        "explication": "Les Samaritains descendaient en partie des Israélites du Nord mélangés avec d’autres peuples après la déportation. Au Ier siècle, les Juifs ne les considéraient pas comme de « vrais » Juifs et évitaient souvent tout contact avec eux (Jean 4:9)"
+    },
+    {
+        "id": 163,
+        "question": "Un sabbat juif correspond à un dimanche dans le calendrier actuel.",
+        "reponse": "faux",
+        "explication": "Le sabbat juif est le septième jour de la semaine biblique. Il commence le vendredi au coucher du soleil et se termine le samedi au coucher du soleil. Il ne correspond pas au dimanche, qui est le premier jour de la semaine (Luc 23:54-56)"
+    },
+    {
+        "id": 164,
+        "question": "Les Juifs du premier siècle utilisaient le denier romain comme monnaie courante.",
+        "reponse": "vrai",
+        "explication": "À l’époque de Jésus, la Palestine était sous domination romaine et la monnaie romaine circulait. Le denier romain, par exemple, est mentionné comme salaire journalier et monnaie d’impôt (Matthieu 22:19-21)"
+    },
+    {
+        "id": 165,
+        "question": "Un denier romain représentait environ le salaire d'une journée de travail.",
+        "reponse": "vrai",
+        "explication": "Dans la parabole de Jésus, les ouvriers de la vigne conviennent d’un denier pour la journée de travail. Cela indique qu’un denier était la paye courante pour une journée de labeur au Ier siècle (Matthieu 20:2)"
+    },
+    {
+        "id": 166,
+        "question": "Le Sanhédrin était un tribunal local de chaque ville en Israël.",
+        "reponse": "faux",
+        "explication": "Le Sanhédrin était le grand conseil suprême juif siégeant à Jérusalem, composé de 71 membres (y compris le grand prêtre). Des conseils plus petits existaient dans les villes, mais le Sanhédrin se réfère généralement à l’instance judiciaire et religieuse suprême à Jérusalem (Marc 14:55)"
+    },
+    {
+        "id": 167,
+        "question": "Les prêtres israélites entraient dans le lieu très saint du temple tous les sabbats.",
+        "reponse": "faux",
+        "explication": "Le lieu très saint (Saint des Saints) du temple était extrêmement sacré. Seul le grand prêtre y entrait, et ce seulement une fois par an, le jour des Propitiations (Yom Kippour), pour offrir le sang du sacrifice d’expiation (Hébreux 9:7)"
+    },
+    {
+        "id": 168,
+        "question": "Le souverain sacrificateur portait un pectoral orné de 12 pierres précieuses représentant les tribus d’Israël.",
+        "reponse": "vrai",
+        "explication": "Le grand prêtre en Israël portait un pectoral de jugement avec douze pierres précieuses, chacune gravée du nom d’une des douze tribus d’Israël, symbolisant la représentation du peuple devant Dieu (Exode 39:14)"
+    },
+    {
+        "id": 169,
+        "question": "Dans la Bible, le chiffre 7 symbolise souvent la complétude ou la perfection.",
+        "reponse": "vrai",
+        "explication": "Le nombre sept apparaît fréquemment dans la Bible avec une signification symbolique de complétude ou perfection divine (sept jours de la création, sept trompettes, etc.), suggérant quelque chose de achevé ou de complet (Révélation 1:20)"
+    },
+    {
+        "id": 170,
+        "question": "Dans la Bible, le chiffre 13 est considéré comme maudit.",
+        "reponse": "faux",
+        "explication": "La Bible ne donne pas au nombre 13 une signification particulière de malédiction. Cette idée superstitieuse n’a pas de fondement scripturaire; c’est une croyance populaire postérieure, sans appui biblique (1 Timothée 4:7)"
+    },
+    {
+        "id": 171,
+        "question": "La prophétie de Michée a annoncé que le Messie naîtrait à Bethléhem.",
+        "reponse": "vrai",
+        "explication": "Des siècles avant Jésus, le prophète Michée a prédit que le futur dirigeant d’Israël sortirait de Bethléhem Éphrata. Cette prophétie s’est accomplie avec la naissance de Jésus à Bethléhem (Michée 5:2; Matthieu 2:4-6)"
+    },
+    {
+        "id": 172,
+        "question": "Le terme 'Armageddon' vient de l’hébreu 'Har-Maguédon' qui signifie 'montagne de Megiddo'.",
+        "reponse": "vrai",
+        "explication": "Le mot « Harmaguédon » (Armageddon) utilisé dans la Révélation provient de l’hébreu et signifie probablement « montagne de Megiddo ». Plutôt que de désigner une montagne précise, il symbolise un lieu de rassemblement pour la bataille finale entre Dieu et les nations (Révélation 16:16)"
+    },
+    {
+        "id": 173,
+        "question": "Le nombre 666, mentionné dans l'Apocalypse, est associé à la 'marque de la bête'.",
+        "reponse": "vrai",
+        "explication": "Dans le livre de la Révélation, le nombre six cent soixante-six (666) est donné comme le chiffre représentant le nom symbolique de la bête sauvage. Ce nombre est présenté comme “un nombre d’homme” associé à la domination imparfaite opposée à Dieu (Révélation 13:17-18)"
+    },
+    {
+        "id": 174,
+        "question": "La fête juive de la Pâque commémore la délivrance des Juifs de Babylone.",
+        "reponse": "faux",
+        "explication": "La Pâque, instituée à l’époque de Moïse, commémore la délivrance des Israélites de l’esclavage en Égypte et l’« ange destructeur » qui a épargné leurs premiers-nés. Elle ne concerne pas la fin de l’exil à Babylone (Exode 12:26-27)"
+    },
+    {
+        "id": 175,
+        "question": "La Pentecôte avait lieu cinquante jours après la Pâque.",
+        "reponse": "vrai",
+        "explication": "La fête de la Pentecôte (également appelée fête des Semaines) survenait 50 jours après le 16 Nisan (le lendemain du sabbat de la Pâque). C’est pourquoi son nom signifie « cinquantième jour » en grec (Lévitique 23:15-16)"
+    },
+    {
+        "id": 176,
+        "question": "Les Israélites devaient donner la dîme de leurs revenus selon la Loi de Moïse.",
+        "reponse": "vrai",
+        "explication": "La Loi mosaïque exigeait des Israélites qu’ils donnent la dîme (un dixième) de leur production agricole et de leur bétail pour le service des Lévites et des activités sacrées, ainsi que pour des festins et les pauvres certains années (Lévitique 27:30; Deutéronome 14:28-29)"
+    },
+    {
+        "id": 177,
+        "question": "Le Jubilé survenait chaque 50e année dans la Loi mosaïque.",
+        "reponse": "vrai",
+        "explication": "Dans la Loi que Dieu donna à Israël, l’année jubilaire devait être célébrée chaque cinquantième année. C’était une année de libération : les terres étaient rendues à leurs propriétaires d’origine et les esclaves hébreux étaient affranchis (Lévitique 25:10)"
+    },
+    {
+        "id": 178,
+        "question": "Jérusalem est appelée 'la Cité de David'.",
+        "reponse": "vrai",
+        "explication": "Après avoir conquis Jérusalem, le roi David en a fait sa capitale. Jérusalem est ainsi appelée « Cité de David » à plusieurs reprises dans la Bible, notamment la partie fortifiée de Sion que David a prise (2 Samuel 5:7; Luc 2:4)"
+    },
+    {
+        "id": 179,
+        "question": "Antiochus IV Épiphane est mentionné nommément dans la Bible.",
+        "reponse": "faux",
+        "explication": "La Bible ne nomme pas directement le roi séleucide Antiochus IV Épiphane. Toutefois, beaucoup estiment que certaines prophéties de Daniel (comme le « petit corne » de Daniel 8) font allusion à lui, sans le nommer explicitement (Daniel 8:9-10, 23)"
+    },
+    {
+        "id": 180,
+        "question": "Marie, la mère de Jésus, avait d’autres enfants après Jésus.",
+        "reponse": "vrai",
+        "explication": "Les Évangiles mentionnent que Jésus avait des frères et des sœurs. Par exemple, les habitants de Nazareth citaient Jacques, José, Simon et Jude comme ses frères, ce qui indique que Marie a eu d’autres enfants après Jésus (Matthieu 13:55-56)"
+    },
+    {
+        "id": 181,
+        "question": "Les 'frères' de Jésus mentionnés dans la Bible étaient en fait ses cousins.",
+        "reponse": "faux",
+        "explication": "La Bible utilise le mot « frères » pour désigner les frères de Jésus, et il n’y a aucune indication qu’il s’agirait de cousins. Les noms de ces frères sont donnés, et le contexte les présente clairement comme la fratrie de Jésus (Marc 6:3)"
+    },
+    {
+        "id": 182,
+        "question": "Joseph, le mari de Marie, est mentionné lors du ministère de Jésus adulte.",
+        "reponse": "faux",
+        "explication": "Après l’épisode où Jésus, à 12 ans, est retrouvé au temple, Joseph n’est plus mentionné explicitement pendant le ministère de Jésus. Cela suggère qu’il était probablement décédé avant que Jésus ne commence son œuvre publique (Jean 19:26-27)"
+    },
+    {
+        "id": 183,
+        "question": "Les mages venus voir Jésus étaient probablement des astrologues de Babylonie ou de Perse.",
+        "reponse": "vrai",
+        "explication": "Les « mages » venus d’Orient pour rendre hommage à Jésus étaient en fait des astrologues (observateurs d’astres). Leur origine exacte n’est pas donnée, mais l’Orient pourrait indiquer la Babylonie ou la Perse, régions où l’astrologie était répandue (Matthieu 2:1-2)"
+    },
+    {
+        "id": 184,
+        "question": "Jean-Baptiste était un membre du Sanhédrin juif.",
+        "reponse": "faux",
+        "explication": "Jean le Baptiste était un prophète vivant de manière ascétique dans le désert, et non un membre du Sanhédrin. Il a prêché la repentance en dehors des structures religieuses officielles juives et a même repris les chefs religieux pour leur hypocrisie (Matthieu 3:1-2, 7)"
+    },
+    {
+        "id": 185,
+        "question": "L’apôtre Pierre était marié.",
+        "reponse": "vrai",
+        "explication": "Pierre était marié, comme le montre l’Évangile qui parle de sa belle-mère malade que Jésus a guérie. Ce détail indique qu’il avait une épouse, même si celle-ci n’est pas nommée dans le récit (Matthieu 8:14-15)"
+    },
+    {
+        "id": 186,
+        "question": "L'apôtre Paul était originaire de la ville de Tarse.",
+        "reponse": "vrai",
+        "explication": "Paul, d’abord connu sous le nom de Saül, était de Tarse en Cilicie de naissance. Il s’identifie comme un Tarsien, une ville importante de l’Asie Mineure, bien qu’il ait été éduqué à Jérusalem aux pieds de Gamaliel (Actes 21:39; 22:3)"
+    },
+    {
+        "id": 187,
+        "question": "Paul appartenait à la secte des Sadducéens avant de devenir chrétien.",
+        "reponse": "faux",
+        "explication": "Avant sa conversion, Paul (Saül) était un pharisien zélé, non un sadducéen. Il le déclare lui-même, se disant « pharisien, fils de pharisien » et strict observateur de la Loi (Actes 23:6; Philippiens 3:5)"
+    },
+    {
+        "id": 188,
+        "question": "Les Égyptiens de l’Antiquité embaumaient leurs morts, comme mentionné pour Jacob et Joseph.",
+        "reponse": "vrai",
+        "explication": "Le livre de la Genèse relate que les Égyptiens ont embaumé Jacob (Israël) sur la demande de Joseph, et plus tard Joseph lui-même fut embaumé à sa mort, pratique typique de l’Égypte ancienne (Genèse 50:2-3, 26)"
+    },
+    {
+        "id": 189,
+        "question": "Les disciples de Jésus étaient appelés 'chrétiens' dès l’an 33 de notre ère.",
+        "reponse": "faux",
+        "explication": "Le terme « chrétiens » pour désigner les disciples de Jésus est apparu plus tard. D’après Actes 11:26, ce fut à Antioche, probablement vers l’an 44 de n. è., que les disciples furent pour la première fois appelés « chrétiens » (Actes 11:25-26)"
+    },
+    {
+        "id": 190,
+        "question": "Luc, l'évangéliste, était l'un des 12 apôtres.",
+        "reponse": "faux",
+        "explication": "Luc n’était pas au nombre des douze apôtres. C’était un compagnon de l’apôtre Paul et l’auteur inspiré de l’Évangile de Luc et des Actes, mais il ne faisait pas partie des douze apôtres choisis par Jésus (Colossiens 4:14; Luc 1:1-3)"
+    },
+    {
+        "id": 191,
+        "question": "Moïse a détruit le veau d'or que les Israélites avaient fabriqué, le réduisant en poudre.",
+        "reponse": "vrai",
+        "explication": "En descendant du mont Sinaï et voyant Israël adorer le veau d’or, Moïse, en colère, a brisé les tablettes de la Loi. Il a ensuite brûlé et broyé la statue en poudre, qu’il a répandue dans l’eau et fait boire aux Israélites, montrant ainsi la futilité de cet idole (Exode 32:19-20)"
+    },
+    {
+        "id": 192,
+        "question": "David a dansé de joie en ramenant l'Arche de l'alliance à Jérusalem.",
+        "reponse": "vrai",
+        "explication": "Quand le roi David a transporté l’Arche de l’alliance à Jérusalem, il était tellement rempli de joie qu’il dansait de toutes ses forces devant Jéhovah, vêtu d’un simple éphod de lin. Il offrait des sacrifices et distribuait des gâteaux au peuple. Sa ferveur a été critiquée par Mikal, sa femme, mais agréée par Dieu (2 Samuel 6:14-16, 21)"
+    },
+    {
+        "id": 193,
+        "question": "Le roi Neboukadnetsar a perdu la raison pendant un temps à cause de son orgueil.",
+        "reponse": "vrai",
+        "explication": "Comme prédit en songe, le roi babylonien Neboukadnetsar a été frappé de folie à cause de son orgueil. Il a vécu tel un animal, mangeant de l’herbe, jusqu’à ce qu’il reconnaisse la souveraineté du Dieu Très-Haut. Après « sept temps » (sept années symboliques) passés dans cet état, son bon sens lui est revenu et son règne lui a été restauré (Daniel 4:31-34)"
+    },
+    {
+        "id": 194,
+        "question": "Un festin babylonien fut interrompu par une main mystérieuse écrivant sur le mur.",
+        "reponse": "vrai",
+        "explication": "La nuit de la chute de Babylone, le roi Belshatsar (Balthazar) donnait un grand banquet et profanait les vases sacrés du temple de Jérusalem. Soudain, les doigts d’une main sont apparus et ont écrit un message énigmatique sur le mur. Daniel a interprété l’écriture (“Compté, Pesé, Divisé”) comme annonçant la fin du royaume de Belshatsar, ce qui s’est accompli cette même nuit avec la prise de Babylone (Daniel 5:5, 25-28, 30)"
+    },
+    {
+        "id": 195,
+        "question": "Les Juifs de Bérée vérifiaient chaque jour dans les Écritures si ce qu’enseignait Paul était vrai.",
+        "reponse": "vrai",
+        "explication": "Les habitants juifs de Bérée ont accueilli la prédication de Paul avec un esprit ouvert, mais ne l’ont pas crue aveuglément. Chaque jour, ils examinaient scrupuleusement les Écritures pour vérifier la conformité du message de Paul. Pour cette attitude noble et studieuse, beaucoup d’entre eux devinrent croyants (Actes 17:10-12)"
+    },
+    {
+        "id": 196,
+        "question": "Saül (Paul) a fait valoir ses droits de citoyen romain pour faire appel à César.",
+        "reponse": "vrai",
+        "explication": "Lorsque Paul (Saül de Tarse) a été accusé par les chefs juifs et qu’il risquait un procès biaisé à Jérusalem, il a usé de son privilège de citoyen romain. En disant “J’en appelle à César”, il a exigé que son cas soit jugé devant l’empereur à Rome. Ce statut de citoyen l’avait déjà protégé d’une flagellation illégale auparavant (Actes 25:10-12; 22:25)"
+    },
+    {
+        "id": 197,
+        "question": "Le livre des Psaumes est subdivisé en cinq recueils ou sections.",
+        "reponse": "vrai",
+        "explication": "La collection des 150 psaumes est organisée en cinq “livres” internes, peut-être en écho aux cinq livres de la Loi de Moïse. Chaque section se termine par une doxologie (louange finale). Par exemple, le Livre I couvre les Psaumes 1 à 41, et le Livre V couvre les Psaumes 107 à 150 (Psaume 41:13; Psaume 150:6)"
+    },
+    {
+        "id": 198,
+        "question": "La femme de Loth a été changée en colonne de sel pour avoir regardé en arrière.",
+        "reponse": "vrai",
+        "explication": "Tandis que Loth et sa famille fuyaient Sodome, les anges les avaient avertis de ne pas regarder derrière eux. La femme de Loth a désobéi et s’est retournée pour voir la destruction en cours de la ville. Elle est alors devenue une statue de sel, subissant immédiatement les conséquences de son manque d’obéissance (Genèse 19:26)"
+    },
+    {
+        "id": 199,
+        "question": "L'expression 'Ne mettez pas Jéhovah votre Dieu à l'épreuve' a été citée par Jésus lorsqu'il a refusé de se jeter du temple.",
+        "reponse": "vrai",
+        "explication": "Lors de la tentation au désert, le Diable a incité Jésus à se jeter du haut du Temple en citant une promesse de protection divine. Jésus a répondu par un verset de Deutéronome, “Tu ne dois pas mettre Jéhovah ton Dieu à l’épreuve”, refusant ainsi de tester Dieu par un acte présomptueux. Il a utilisé les Écritures pour repousser chaque tentation (Matthieu 4:5-7)"
+    },
+    {
+        "id": 200,
+        "question": "Jésus a pleuré devant la tombe de son ami Lazare, avant de le ressusciter.",
+        "reponse": "vrai",
+        "explication": "En arrivant à Béthanie après la mort de Lazare, Jésus a vu la douleur de Marthe"
+    }
+]

@@ -13,6 +13,22 @@ body {
     flex-direction: column;
 }
 
+.mt-6 {
+    margin-top: 6rem;
+}
+.mt-7 {
+    margin-top: 7rem;
+}
+.mt-8 {
+    margin-top: 8rem;
+}
+.mt-9 {
+    margin-top: 9rem;
+}
+.mt-10 {
+    margin-top: 10rem;
+}
+
 main {
     flex: 1;
 }
@@ -49,6 +65,8 @@ main {
     padding: 1.25rem 2rem;
     border-radius: 999px;
     width: 100%;
+    max-width: 350px;
+    margin: 0 auto;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
     transition: transform 0.2s ease, box-shadow 0.2s ease;
     text-decoration: none;
@@ -184,6 +202,53 @@ main {
 }
 
 #suivant {
+    max-width: 500px;
+    user-select: none;
+}
+
+/* Pour le bloc de la question */
+#question-container {
+    max-width: 800px;
+    margin: 80px auto 60px;
+    padding: 30px;
+    background-color: #111;
+    border: 2px solid #f7df1e;
+    border-radius: 15px;
+    font-size: 1.3rem;
+}
+
+/* Pour les boutons Vrai/Faux */
+.quiz-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 50px;
+}
+
+/* Pour la réponse et explication */
+#reponses {
+    margin-top: 150px;
+    font-size: 1.1rem;
+}
+
+/* Message de succès ou erreur */
+.reponse-texte {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.reponse-texte.correct {
+    color: #28a745;
+}
+
+.reponse-texte.incorrect {
+    color: #dc3545;
+}
+
+/* Bouton suivant bien centré */
+#btn-suivant {
+    margin: 40px auto 0;
+    display: block;
     max-width: 500px;
     user-select: none;
 }
