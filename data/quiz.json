@@ -1194,9 +1194,567 @@
         "explication": "Lors de la tentation au désert, le Diable a incité Jésus à se jeter du haut du Temple en citant une promesse de protection divine. Jésus a répondu par un verset de Deutéronome, “Tu ne dois pas mettre Jéhovah ton Dieu à l’épreuve”, refusant ainsi de tester Dieu par un acte présomptueux. Il a utilisé les Écritures pour repousser chaque tentation (Matthieu 4:5-7)"
     },
     {
-        "id": 200,
-        "question": "Jésus a pleuré devant la tombe de son ami Lazare, avant de le ressusciter.",
+        "id": 201,
+        "question": "Noé a construit l’arche en 40 jours et 40 nuits.",
+        "reponse": "faux",
+        "explication": "La Bible indique que la pluie a duré 40 jours et 40 nuits (Genèse 7:12), mais ne précise pas la durée de la construction de l'arche. Cependant, Noé avait 600 ans lorsque le déluge a commencé (Genèse 7:6), et il est probable que la construction ait pris plusieurs décennies. De plus, 2 Pierre 2:5 décrit Noé comme un 'prédicateur de justice', ce qui suggère une période prolongée de préparation."
+    },
+    {
+        "id": 202,
+        "question": "Les 10 commandements ont été donnés à Moïse dans le désert de Sinaï après qu’il soit resté 7 jours et 7 nuits sur la montagne.",
+        "reponse": "faux",
+        "explication": "Moïse est resté 40 jours et 40 nuits sur le mont Sinaï avant de recevoir les 10 commandements, et non 7 jours et 7 nuits. (Exode 24:18)"
+    },
+    {
+        "id": 203,
+        "question": "La Bible affirme que les trois mages ont visité Jésus le soir même de sa naissance.",
+        "reponse": "faux",
+        "explication": "La Bible ne précise pas le nombre de mages et indique qu'ils ont visité Jésus dans une maison, probablement quelque temps après sa naissance. (Matthieu 2:11)"
+    },
+    {
+        "id": 204,
+        "question": "Jésus a été mis à mort par Hérode, roi de Judée.",
+        "reponse": "faux",
+        "explication": "Jésus a été mis à mort sur ordre du gouverneur romain Ponce Pilate, bien qu'Hérode Antipas ait joué un rôle dans son procès. (Jean 19:16)"
+    },
+    {
+        "id": 205,
+        "question": "La résurrection de Lazare a eu lieu après 7 jours de sa mort.",
+        "reponse": "faux",
+        "explication": "Lazare était mort depuis 4 jours lorsque Jésus l'a ressuscité. (Jean 11:17)"
+    },
+    {
+        "id": 206,
+        "question": "Le livre des Psaumes a été écrit uniquement par David.",
+        "reponse": "faux",
+        "explication": "Bien que David ait écrit de nombreux psaumes, d'autres auteurs tels qu'Asaph, les fils de Coré et Moïse ont également contribué au livre des Psaumes. (Psaumes 90:1; 73:1; 42:1)"
+    },
+    {
+        "id": 207,
+        "question": "L’apôtre Paul faisait partie des 12 apôtres choisis par Jésus.",
+        "reponse": "faux",
+        "explication": "Paul n'était pas parmi les 12 apôtres originels choisis par Jésus. Il est devenu apôtre plus tard, après la résurrection de Jésus. (Actes 9:15; 1 Corinthiens 15:8-9)"
+    },
+    {
+        "id": 208,
+        "question": "Adam a donné un nom à chacun des dinosaures dans le jardin d’Éden.",
+        "reponse": "faux",
+        "explication": "La Bible indique qu'Adam a nommé les animaux, mais elle ne mentionne pas spécifiquement les dinosaures. (Genèse 2:19-20)"
+    },
+    {
+        "id": 209,
+        "question": "Moïse a construit un temple en or dans le désert sur ordre de Dieu.",
+        "reponse": "faux",
+        "explication": "Moïse a construit un tabernacle, une tente mobile pour le culte, selon les instructions de Dieu, et non un temple en or. (Exode 25:8-9)"
+    },
+    {
+        "id": 210,
+        "question": "La Bible contient exactement 100 livres reconnus dans toutes les traductions.",
+        "reponse": "faux",
+        "explication": "Le nombre de livres dans la Bible varie selon les traditions religieuses, mais aucune version ne contient exactement 100 livres. La Bible hébraïque contient 39 livres, et le Nouveau Testament en contient 27, totalisant 66 livres dans la plupart des traductions."
+    },
+    {
+        "id": 211,
+        "question": "Le paradis promis par Jésus au malfaiteur sur la croix désignait le ciel.",
+        "reponse": "faux",
+        "explication": "Jésus a promis au malfaiteur qu'il serait avec lui au paradis, mais cela ne signifie pas nécessairement le ciel. Le terme 'paradis' peut aussi désigner un état ou un lieu de bonheur futur sur la terre. (Luc 23:43; Jean 5:28-29)"
+    },
+    {
+        "id": 212,
+        "question": "La Genèse enseigne que l’univers a été créé en 6 jours de 24 heures.",
+        "reponse": "faux",
+        "explication": "La Bible ne précise pas que les jours de création étaient de 24 heures. Le mot 'jour' peut désigner une période indéterminée. (Genèse 1:31; Psaume 90:4)"
+    },
+    {
+        "id": 213,
+        "question": "Judas Iscariote a écrit une lettre qui fait partie des Écritures grecques chrétiennes.",
+        "reponse": "faux",
+        "explication": "La lettre de Jude dans le Nouveau Testament a été écrite par Jude, frère de Jacques, et non par Judas Iscariote. (Jude 1:1)"
+    },
+    {
+        "id": 214,
+        "question": "Salomon a bâti deux temples : un à Jérusalem et un à Béthel.",
+        "reponse": "faux",
+        "explication": "Salomon a construit un seul temple à Jérusalem. Le roi Jéroboam a érigé des lieux de culte à Béthel et à Dan. (1 Rois 12:28-29)"
+    },
+    {
+        "id": 215,
+        "question": "Marie est la mère de Dieu.",
+        "reponse": "faux",
+        "explication": "Marie n’est pas la mère de Dieu au sens où elle aurait donné naissance à Dieu dans son entier, éternel et Tout-Puissant. Elle est la mère de Jésus, le Fils de Dieu, parce qu’elle a mis au monde l’homme Jésus, né par l’action de l’esprit saint (Luc 1:35). Jésus existait déjà avant sa naissance humaine, en tant que créature spirituelle auprès de Dieu (Jean 1:1, 14 ; Colossiens 1:15-17)."
+    },
+    {
+        "id": 216,
+        "question": "La tour de Babel a été construite pour glorifier Dieu.",
+        "reponse": "faux",
+        "explication": "La tour de Babel a été construite par des humains pour se faire un nom et éviter d'être dispersés, ce qui allait à l'encontre de la volonté de Dieu. (Genèse 11:4)"
+    },
+    {
+        "id": 217,
+        "question": "L’apocalypse de Jean annonce que tous les humains vivront au ciel après Harmaguédon.",
+        "reponse": "faux",
+        "explication": "La Bible enseigne qu'une 'grande foule' survivra à Harmaguédon et vivra sur la terre, tandis qu'un nombre limité de personnes iront au ciel. (Révélation 7:9-10; Psaume 37:29)"
+    },
+    {
+        "id": 218,
+        "question": "La Sainte Trinité est un enseignement fondamental de la Bible.",
+        "reponse": "faux",
+        "explication": "La doctrine de la Trinité n’apparaît pas dans la Bible. Les Écritures montrent que Jéhovah est un Dieu unique (Deutéronome 6:4), que Jésus est son Fils (Jean 20:17), et que l’esprit saint est la force active de Dieu, non une personne. (Actes 2:17, 18)"
+    },
+    {
+        "id": 219,
+        "question": "Tous les anges ont été créés après la création d’Adam.",
+        "reponse": "faux",
+        "explication": "La Bible indique que les anges existaient avant la création de la terre, car ils se réjouissaient lorsque Dieu posait les fondations du monde. (Job 38:4-7)"
+    },
+    {
+        "id": 220,
+        "question": "Le livre de l’Apocalypse affirme que les humains seront jugés selon leurs horoscopes.",
+        "reponse": "faux",
+        "explication": "L’Apocalypse enseigne que les humains seront jugés selon leurs œuvres, et non selon l’astrologie, qui est d’ailleurs condamnée par la Bible. (Révélation 20:12; Deutéronome 18:10-12)"
+    },
+    {
+        "id": 221,
+        "question": "La muraille de Jérusalem a été reconstruite en 1 an sous la direction de Néhémie.",
+        "reponse": "faux",
+        "explication": "Selon Néhémie 6:15, la muraille fut achevée en 52 jours malgré l'opposition. Ce court délai reflète l'organisation rigoureuse et la foi du peuple dirigé par Néhémie. Cette reconstruction a eu lieu en 455 av. n. è."
+    },
+    {
+        "id": 222,
+        "question": "L'arche de l’alliance mesurait 5 coudées de long, soit environ 2,25 mètres.",
+        "reponse": "faux",
+        "explication": "Exode 25:10 précise que l’arche mesurait 2,5 coudées de long, 1,5 de large et 1,5 de haut. Cela correspond à environ 111 cm de long, 67 cm de large et 67 cm de haut (1 coudée ≈ 44,5 cm)."
+    },
+    {
+        "id": 223,
+        "question": "Les Assyriens sont les premiers à avoir inventé la crucifixion comme méthode d’exécution.",
+        "reponse": "faux",
+        "explication": "Même si les Assyriens ont utilisé des méthodes brutales, la crucifixion en tant que peine de mort publique a été développée par les Perses, puis perfectionnée par les Romains."
+    },
+    {
+        "id": 224,
+        "question": "Il a fallu 67 ans pour que la prophétie de la désolation de Jérusalem s'accomplisse complètement.",
+        "reponse": "faux",
+        "explication": "Jérémie 25:11-12 avait prophétisé 70 ans de désolation pour Juda. La période s'étend de 607 av. n. è. à 537 av. n. è., année où les exilés juifs retournèrent à Jérusalem sous Cyrus."
+    },
+    {
+        "id": 225,
+        "question": "Le prophète Daniel a vécu jusqu’à la domination des Grecs.",
+        "reponse": "faux",
+        "explication": "Daniel a vécu jusqu’au début de la domination perse, mais il était déjà âgé lorsque l’empire de Babylone est tombé (vers 539 av. n. è.). Il n’a pas vécu jusqu’à l’époque grecque qui débute avec Alexandre le Grand en 332 av. n. è. (Daniel 1:21)."
+    },
+    {
+        "id": 226,
+        "question": "Le roi Ézéchias a construit un tunnel d’environ 100 mètres pour sécuriser l’approvisionnement en eau de Jérusalem.",
+        "reponse": "faux",
+        "explication": "2 Chroniques 32:30 rapporte qu’Ézéchias détourna les eaux du Gihôn. Des fouilles archéologiques ont confirmé que le tunnel mesurait environ 533 mètres de long."
+    },
+    {
+        "id": 227,
+        "question": "Le prophète Michée a prédit que le Messie naîtrait à Nazareth.",
+        "reponse": "faux",
+        "explication": "Michée 5:2 annonçait que le dirigeant promis naîtrait à Bethléhem, non à Nazareth. Jésus y est effectivement né, accomplissant la prophétie, même s’il a grandi à Nazareth. (Matthieu 2:1-6)."
+    },
+    {
+        "id": 228,
+        "question": "La 'mer de métal' dans le temple de Salomon contenait environ 66 000 litres d’eau.",
         "reponse": "vrai",
-        "explication": "En arrivant à Béthanie après la mort de Lazare, Jésus a vu la douleur de Marthe"
+        "explication": "1 Rois 7:23-26 décrit un bassin de 5 coudées de haut et 10 de diamètre. Cela correspond à environ 2,2 m de haut et 4,4 m de diamètre, pour un volume total de 2 000 baths, soit environ 66 000 litres."
+    },
+    {
+        "id": 229,
+        "question": "Les Philistins étaient originaires de la mer Égée, probablement de Crète.",
+        "reponse": "vrai",
+        "explication": "Selon Amos 9:7 et Jérémie 47:4, les Philistins venaient de Caphtor, souvent identifiée à la Crète. Ils s’installèrent ensuite dans la région côtière de Canaan."
+    },
+    {
+        "id": 230,
+        "question": "L’expression 'fils d’Issacar' désigne une tribu reconnue pour ses talents artistiques.",
+        "reponse": "faux",
+        "explication": "1 Chroniques 12:32 montre que les fils d’Issacar étaient reconnus pour leur discernement des temps et leur compréhension des décisions à prendre pour Israël, pas pour l’art."
+    },
+    {
+        "id": 231,
+        "question": "Jésus est-il mort sur une croix à deux branches ?",
+        "reponse": "faux",
+        "explication": " Le mot grec 'stauros' utilisé dans les Écritures désigne un poteau droit. Jésus est donc mort sur un poteau de supplice, et non sur une croix traditionnelle."
+    },
+    {
+        "id": 232,
+        "question": "Le temple de Salomon mesurait environ 15 m de long, 4 m de large et 6 m de haut.",
+        "reponse": "vrai",
+        "explication": "Selon 1 Rois 6:2, le temple construit par Salomon avait les dimensions suivantes : 60 coudées de long, 20 de large et 30 de haut, soit environ 27 m de long, 9 m de large et 13,5 m de haut, servant de lieu central de culte pour Israël."
+    },
+    {
+        "id": 233,
+        "question": "L’expression 'fils d’Issacar' désigne une tribu reconnue pour ses talents artistiques.",
+        "reponse": "faux",
+        "explication": "1 Chroniques 12:32 montre que les fils d’Issacar étaient reconnus pour leur discernement des temps et leur compréhension des décisions à prendre pour Israël, pas pour l’art."
+    },
+    {
+        "id": 234,
+        "question": "Le tabernacle était un temple fixe construit à Jérusalem.",
+        "reponse": "faux",
+        "explication": "Le tabernacle était une tente sacrée mobile utilisée par les Israélites pendant leur voyage dans le désert, bien avant la construction du temple permanent à Jérusalem par Salomon."
+    },
+    {
+        "id": 230,
+        "question": "L’arche de Noé comprenait deux niveaux.",
+        "reponse": "faux",
+        "explication": "Genèse 6:16 indique que l’arche devait avoir un étage inférieur, un second et un troisième, permettant une organisation efficace pour les animaux, les provisions et la famille de Noé."
+    },
+    {
+        "id": 235,
+        "question": "L’arche de Noé mesurait-elle 300 coudées de long, 50 de large et 30 de haut ?",
+        "reponse": "vrai",
+        "explication": "Selon Genèse 6:15, Dieu a ordonné à Noé de construire l’arche avec ces dimensions. Cela équivaut approximativement à 133,5 m de long, 22,3 m de large et 13,4 m de haut, offrant un volume d'environ 40 000 m³."
+    },
+    {
+        "id": 237,
+        "question": "L'arche de l’alliance était aussi grande qu'une voiture moderne.",
+        "reponse": "faux",
+        "explication": "L’arche de l’alliance mesurait environ 2,5 coudées de long, soit environ 1,10 mètre (Exode 25:10). C’était un coffre sacré recouvert d’or, bien plus petit qu’une voiture standard, mais d'une importance spirituelle immense."
+    },
+    {
+        "id": 238,
+        "question": "Est-il vrai que l’empire assyrien mentionné dans la Bible correspond en grande partie à l’actuel Irak ?",
+        "reponse": "vrai",
+        "explication": "L'Empire assyrien avait pour capitale Ninive, située près de Mossoul, en Irak. L'étendue de cet empire comprenait une grande partie du nord de l'Irak actuel, confirmant cette correspondance géographique."
+    },
+    {
+        "id": 239,
+        "question": "La prophétie des 70 semaines de Daniel s’est accomplie littéralement en 70 semaines.",
+        "reponse": "faux",
+        "explication": "Les '70 semaines' de Daniel 9:24-27 sont des semaines symboliques d’années. Une semaine équivaut à 7 ans, donc 70 semaines font 490 ans. Cette prophétie s’est accomplie entre 455 av. n. è. et l’an 36 de n. è., couvrant des événements majeurs liés à Jésus."
+    },
+    {
+        "id": 241,
+        "question": "Gabaon, où Josué fit arrêter le soleil, est située dans l’actuelle Jordanie.",
+        "reponse": "faux",
+        "explication": "Gabaon se trouvait en territoire israélite, près de Jérusalem, et non en Jordanie. C’est là que Josué 10:12 relate l’arrêt miraculeux du soleil. Elle est identifiée avec Tell el-Gib, dans les environs de Ramallah."
+    },
+    {
+        "id": 242,
+        "question": "Le rouleau d'Isaïe retrouvé à Qumrân correspond quasiment à 100 % au texte massorétique utilisé aujourd'hui.",
+        "reponse": "vrai",
+        "explication": "Le rouleau d’Isaïe découvert parmi les Manuscrits de la mer Morte à Qumrân (daté du IIe siècle av. n. è.) est presque identique au texte massorétique hébreu utilisé aujourd’hui, montrant la fidélité de la transmission biblique."
+    },
+    {
+        "id": 243,
+        "question": "Le royaume de Saba, dont la reine a visité Salomon, correspond aujourd’hui à la région du sud d’Israël.",
+        "reponse": "faux",
+        "explication": "Le royaume de Saba se situait au sud de la péninsule arabique, principalement dans l’actuel Yémen. La reine de Saba a fait un long voyage pour rencontrer Salomon, comme le relate 1 Rois 10:1-2."
+    },
+    {
+        "id": 244,
+        "question": "Les murailles de Jéricho sont tombées avant même que les Israélites n’entrent en Canaan.",
+        "reponse": "faux",
+        "explication": "Les Israélites entrèrent d’abord en Canaan, puis assiégèrent Jéricho, qui fut la première ville conquise. Les murailles tombèrent après sept jours de procession autour de la ville (Josué 6:1-20)."
+    },
+    {
+        "id": 245,
+        "question": "Est-il vrai que le voyage de Paul à Rome a duré plusieurs mois en raison d’un naufrage ?",
+        "reponse": "vrai",
+        "explication": "Le livre des Actes (chap. 27-28) raconte que Paul a mis plusieurs mois pour atteindre Rome, en partie à cause d’un naufrage près de Malte. Ce long périple incluait des escales et de nombreuses difficultés maritimes."
+    },
+    {
+        "id": 247,
+        "question": "Le roi Alexandre le Grand a jeté Daniel dans la fosse aux lions pendant le règne de l’empire grec.",
+        "reponse": "faux",
+        "explication": "Daniel a été jeté dans la fosse aux lions sous le règne des Mèdes et des Perses, plus précisément sous Darius le Mède (Daniel 6:1, 16). Cela s’est produit bien avant l’établissement de l’empire grec par Alexandre le Grand."
+    },
+    {
+        "id": 248,
+        "question": "Le fleuve Éuphrate a été détourné lors de la prise de Babylone par les Mèdes et les Perses.",
+        "reponse": "vrai",
+        "explication": "Selon des récits historiques et les prophéties bibliques (Isaïe 44:27-28 ; Jérémie 50:38), les armées de Cyrus ont détourné l'Éuphrate pour envahir Babylone en passant sous ses murailles par le lit asséché du fleuve. Cela accomplit les prophéties sur la chute de Babylone."
+    },
+    {
+        "id": 249,
+        "question": "Le temple reconstruit après l’exil babylonien avait la même splendeur que celui de Salomon.",
+        "reponse": "faux",
+        "explication": "Le second temple, reconstruit sous Zorobabel, était beaucoup plus modeste que celui de Salomon (Aggée 2:3). Bien qu’il ait été fonctionnel, il manquait plusieurs objets sacrés, comme l’arche de l’alliance."
+    },
+    {
+        "id": 250,
+        "question": "Le territoire de l’ancien royaume de Juda correspond aujourd’hui en grande partie au sud d’Israël et à une partie de la Cisjordanie.",
+        "reponse": "vrai",
+        "explication": "Le royaume de Juda, dont la capitale était Jérusalem, s’étendait sur une région qui correspond aujourd’hui au sud d’Israël moderne et à une partie de la Cisjordanie, notamment autour d’Hébron et Bethléhem."
+    },
+    {
+        "id": 252,
+        "question": "Les Assyriens sont à l’origine des pyramides d’Égypte selon certains versets de la Bible.",
+        "reponse": "faux",
+        "explication": "La Bible ne fait aucune mention des Assyriens construisant les pyramides. Celles-ci ont été bâties bien avant la domination assyrienne, et par les Égyptiens eux-mêmes, notamment sous les dynasties de l'Ancien Empire (Exode 1:11 montre que des Israélites ont bâti des villes de stockage, non des pyramides)."
+    },
+    {
+        "id": 253,
+        "question": "Le prophète Michée a prédit que le Messie naîtrait à Bethléhem, une prophétie accomplie selon Matthieu.",
+        "reponse": "vrai",
+        "explication": "Michée 5:2 a prophétisé que le dirigeant d’Israël sortirait de Bethléhem. Matthieu 2:1-6 cite cette prophétie en lien avec la naissance de Jésus, montrant son accomplissement clair et précis."
+    },
+    {
+        "id": 254,
+        "question": "Selon la Bible, le voyage de Moïse de l’Égypte au mont Sinaï a pris environ 40 jours.",
+        "reponse": "faux",
+        "explication": "Il n’y a pas de durée précise entre la sortie d’Égypte et l’arrivée au mont Sinaï, mais Exode 19:1 indique que c’était dans le 3e mois après leur sortie. Donc environ 60-75 jours, et non 40."
+    },
+    {
+        "id": 255,
+        "question": "Le livre de l’Ecclésiaste a été écrit par Salomon sous le nom de Qohéleth, ce qui signifie 'l’assemblée'.",
+        "reponse": "faux",
+        "explication": "Qohéleth signifie plutôt “celui qui convoque l’assemblée” ou “prédicateur”, et désigne un rôle, non l’assemblée elle-même. Le contenu et le style du livre pointent vers Salomon comme auteur (Ecclésiaste 1:1)."
+    },
+    {
+        "id": 256,
+        "question": "La destruction de Jérusalem par les Babyloniens a eu lieu en 607 av. notre ère.",
+        "reponse": "vrai",
+        "explication": "Selon les calculs chronologiques, la destruction a eu lieu en 607 av. n. è. Cette date est utilisée pour calculer les 2 520 ans de la prophétie des « temps des nations » (Daniel 4:16, Luc 21:24)."
+    },
+    {
+        "id": 257,
+        "question": "Le royaume de Babylone a régné sur Israël pendant exactement 70 ans, en accomplissement d’une prophétie.",
+        "reponse": "vrai",
+        "explication": "Jérémie 25:11 et 2 Chroniques 36:20-21 annoncent une domination babylonienne de 70 ans, accomplie de 607 à 537 av. n. è., date du retour des exilés à Jérusalem sous Cyrus."
+    },
+    {
+        "id": 258,
+        "question": "La ville de Ninive, capitale assyrienne, est située dans le nord de l’actuel Liban.",
+        "reponse": "faux",
+        "explication": "Ninive se trouvait dans le nord de l’actuel Irak, près de Mossoul, et non au Liban. Elle fut la capitale puissante de l’Empire assyrien (Nahoum 1:1)."
+    },
+    {
+        "id": 259,
+        "question": "Les Philistins étaient d’origine grecque selon les découvertes archéologiques et les indices bibliques.",
+        "reponse": "vrai",
+        "explication": "De nombreux chercheurs pensent que les Philistins venaient des îles de la mer Égée, en lien avec les Caphtorim (Amos 9:7 ; Jérémie 47:4). Ils sont considérés comme un peuple d'origine égéenne."
+    },
+    {
+        "id": 260,
+        "question": "La période entre le retour des exilés et la venue de Jésus est connue sous le nom d’âge d’or d’Israël.",
+        "reponse": "faux",
+        "explication": "Cette période, appelée intertestamentaire, fut marquée par de nombreuses dominations étrangères (perse, grecque, romaine) et des conflits, comme la révolte des Maccabées. Elle n’est pas vue comme un âge d’or (Daniel 11)."
+    },
+    {
+        "id": 261,
+        "question": "La reconstruction du temple après l’exil a été retardée à cause de l’opposition et de l’indifférence du peuple.",
+        "reponse": "vrai",
+        "explication": "Selon Aggée 1:2-4 et Esdras 4, les travaux du temple ont été interrompus pendant environ 15 ans à cause des ennemis et du manque d’enthousiasme du peuple. Le prophète Aggée a encouragé la reprise."
+    },
+    {
+        "id": 262,
+        "question": "La ville de Jéricho a été détruite par Josué en lançant des pierres catapultées sur les murailles.",
+        "reponse": "faux",
+        "explication": "La Bible rapporte que les murailles de Jéricho sont tombées après que le peuple a marché autour pendant 7 jours et crié fort (Josué 6:20). Aucun engin de guerre n’est mentionné dans ce récit miraculeux."
+    },
+    {
+        "id": 263,
+        "question": "Le prophète Élie a été enlevé au ciel dans un tourbillon, accompagné d’un char de feu.",
+        "reponse": "vrai",
+        "explication": "2 Rois 2:11 décrit comment Élie fut enlevé dans un tourbillon, alors qu’un char et des chevaux de feu apparaissaient. Cela montre l’intervention divine spectaculaire dans son départ."
+    },
+    {
+        "id": 264,
+        "question": "Le roi Saül a consulté une devineresse à Endor pour parler avec le prophète Samuel après sa mort.",
+        "reponse": "vrai",
+        "explication": "1 Samuel 28 raconte que Saül, désespéré, a consulté une spirite à Endor. Une vision d’un vieillard semblable à Samuel lui apparaît, mais ce récit est généralement interprété comme une illusion, non une communication réelle avec Samuel."
+    },
+    {
+        "id": 265,
+        "question": "Le livre de l’Apocalypse a été écrit en grec par Jean alors qu’il était à Rome.",
+        "reponse": "faux",
+        "explication": "L’Apocalypse a été écrit en grec, mais selon Apocalypse 1:9, Jean se trouvait sur l’île de Patmos, en exil, et non à Rome. Patmos est une île grecque de la mer Égée."
+    },
+    {
+        "id": 266,
+        "question": "La distance entre Nazareth et Jérusalem était d’environ 500 km.",
+        "reponse": "faux",
+        "explication": "La distance entre Nazareth et Jérusalem est d’environ 110 km à vol d’oiseau. Les pèlerins juifs mettaient plusieurs jours à faire ce trajet à pied, souvent en empruntant la vallée du Jourdain. Une distance de 500 km aurait placé Nazareth au niveau de l’actuelle Turquie, ce qui est incorrect (Luc 2:41-42)."
+    },
+    {
+        "id": 268,
+        "question": "Le mur reconstruit de Jérusalem sous Néhémie faisait environ 1400 mètres de circonférence.",
+        "reponse": "vrai",
+        "explication": "Selon les mesures modernes et les données archéologiques, le mur reconstruit par Néhémie faisait environ 1400 mètres de circonférence. Le récit de Néhémie 3 mentionne les différentes portes et portions reconstruites, ce qui permet d’estimer cette longueur (Néhémie 3)."
+    },
+    {
+        "id": 270,
+        "question": "Le fleuve du Nil est mentionné dans le livre d’Apocalypse comme étant une source des plaies.",
+        "reponse": "faux",
+        "explication": "Le Nil est associé aux plaies d’Égypte dans Exode, mais il n’est jamais mentionné dans l’Apocalypse. Les plaies symboliques de l’Apocalypse touchent les fleuves en général (Apocalypse 16:4), mais le Nil n’est pas cité nommément. Confondre les deux contextes est une erreur fréquente."
+    },
+    {
+        "id": 271,
+        "question": "La prophétie sur la destruction de Tyr a mis plusieurs siècles à s’accomplir complètement.",
+        "reponse": "vrai",
+        "explication": "Ézéchiel 26:3-14 prophétise la destruction de Tyr. Nabuchodonosor a attaqué la ville continentale, mais c’est Alexandre le Grand, 250 ans plus tard, qui a détruit la ville insulaire en construisant une chaussée. L’accomplissement a donc été progressif sur des siècles."
+    },
+    {
+        "id": 272,
+        "question": "Le territoire de Babylone correspond aujourd’hui à la région du sud d’Israël.",
+        "reponse": "faux",
+        "explication": "Babylone se situait en Mésopotamie, dans l’actuel Irak, près de l’Euphrate. Le sud d’Israël est à des centaines de kilomètres à l’ouest. Confondre ces deux régions géopolitiques serait une erreur historique (Isaïe 13:19)."
+    },
+    {
+        "id": 273,
+        "question": "C’est sous le règne d’Artaxerxès Ier que Néhémie a reçu la permission de reconstruire les murailles.",
+        "reponse": "vrai",
+        "explication": "Néhémie 2:1-8 indique que Néhémie a reçu l’autorisation de reconstruire les murailles en l’an 20 du règne d’Artaxerxès Ier (soit vers 455 av. n. è.). Ce point est crucial pour le calcul des 70 semaines prophétiques de Daniel 9:25."
+    },
+    {
+        "id": 274,
+        "question": "Les Philistins utilisaient principalement des chameaux pour la guerre.",
+        "reponse": "faux",
+        "explication": "Les Philistins, peuple de la mer, étaient connus pour leur usage de chars de guerre et leur maîtrise du fer, pas pour l’usage des chameaux qui étaient plutôt associés aux peuples du désert (Juges 1:19 ; 1 Samuel 13:5, 19-20)."
+    },
+    {
+        "id": 287,
+        "question": "Selon la Bible, la tour de Babel atteignait une hauteur de 300 mètres, soit presque celle de la tour Eiffel.",
+        "reponse": "faux",
+        "explication": "La Bible ne précise aucune dimension pour la tour de Babel (Genèse 11:4). L’idée d’une tour atteignant les cieux était symbolique d’arrogance humaine. Les ziggourats mésopotamiennes faisaient rarement plus de 90 mètres. La tour Eiffel, elle, culmine à 330 m, bien au-delà des constructions antiques."
+    },
+    {
+        "id": 288,
+        "question": "Jéroboam a mis en place deux veaux d’or à Dan et à Samarie pour détourner les Israélites du temple de Jérusalem.",
+        "reponse": "faux",
+        "explication": "Jéroboam a effectivement institué deux veaux d’or, mais ils furent placés à Dan et à Béthel, non à Samarie (1 Rois 12:28-29). Samarie ne devint capitale d’Israël que plus tard, sous Omri (1 Rois 16:24). Béthel, proche de Jérusalem, était un centre religieux déjà ancien."
+    },
+    {
+        "id": 289,
+        "question": "Ézéchias a fait construire un tunnel pour acheminer l’eau à l’intérieur de Jérusalem, mesurant environ 533 mètres de long.",
+        "reponse": "vrai",
+        "explication": "Le tunnel d’Ézéchias, encore visible aujourd’hui à Jérusalem, mesure environ 533 m. Il a été creusé au VIIIe siècle av. n. è. pour protéger l’approvisionnement en eau en cas de siège assyrien (2 Rois 20:20 ; 2 Chroniques 32:30)."
+    },
+    {
+        "id": 290,
+        "question": "La reine de Saba venait d’Éthiopie, un territoire correspondant aujourd’hui au sud de la Turquie.",
+        "reponse": "faux",
+        "explication": "Le royaume de Saba est généralement situé dans le sud de la péninsule arabique, principalement dans l’actuel Yémen. Certaines traditions relient sa reine à l’Éthiopie en raison de déplacements commerciaux, mais certainement pas à la Turquie (1 Rois 10:1-2)."
+    },
+    {
+        "id": 291,
+        "question": "Le prophète Daniel a été jeté dans une fosse de feu pour avoir refusé de prier le roi de Babylone.",
+        "reponse": "faux",
+        "explication": "Daniel a été jeté dans la fosse aux lions (Daniel 6:16-17). Ce sont ses compagnons, Chadrac, Méshac et Abed-Négo, qui furent jetés dans la fournaise ardente pour avoir refusé de se prosterner devant une statue (Daniel 3:12-21)."
+    },
+    {
+        "id": 292,
+        "question": "Le trône de Salomon était décoré de lions sculptés et comptait six marches.",
+        "reponse": "vrai",
+        "explication": "Le trône de Salomon était en ivoire et or, avec six marches, et douze lions sculptés flanquaient les marches, six de chaque côté (1 Rois 10:18-20). Cela renforçait son prestige et la symbolique de puissance et de sagesse."
+    },
+    {
+        "id": 293,
+        "question": "Le mot 'Satan' vient d’un mot grec qui signifie 'accusateur injuste'.",
+        "reponse": "faux",
+        "explication": "Le mot 'Satan' vient de l’hébreu 'satan', qui signifie littéralement 'adversaire' ou 'opposant'. Ce terme est utilisé dans la Bible pour désigner l’ennemi principal de Dieu et de son peuple. Il n’a pas une origine grecque, et il ne signifie pas 'accusateur injuste', bien que Satan soit souvent présenté comme tel (Job 1:6 ; Révélation 12:10)."
+    },
+    {
+        "id": 294,
+        "question": "Le mot 'Amen' signifie 'ainsi soit-il' et trouve son origine dans une racine hébraïque liée à la fidélité.",
+        "reponse": "vrai",
+        "explication": "‘Amen’ vient de la racine hébraïque ‘ʾāmán’, qui signifie 'être fidèle, digne de confiance, sûr'. Quand on dit 'Amen', on exprime son accord sincère, comme une validation pleine de foi. Cette expression est utilisée tout au long des Écritures pour marquer l'approbation (Deutéronome 27:26 ; Révélation 22:20)."
+    },
+    {
+        "id": 295,
+        "question": "Le mot 'Évangile' signifie 'parole divine' en araméen.",
+        "reponse": "faux",
+        "explication": "Le mot 'Évangile' vient du grec 'euangelion', qui signifie 'bonne nouvelle'. Il ne vient pas de l’araméen et ne signifie pas 'parole divine'. Dans la Bible, ce terme désigne le message salvateur de Dieu par Jésus Christ (Marc 1:1, Romains 1:1-3)."
+    },
+    {
+        "id": 296,
+        "question": "La ville de Ninive se trouvait sur le territoire de l’actuel Irak.",
+        "reponse": "vrai",
+        "explication": "Ninive, l’ancienne capitale de l’empire assyrien, se trouvait près de l’actuelle ville de Mossoul, en Irak. Elle était située sur la rive orientale du Tigre et est mentionnée dans des récits comme celui de Jonas (Jonas 1:2 ; 3:3)."
+    },
+    {
+        "id": 297,
+        "question": "Le nom 'Moïse' signifie 'berger' en hébreu.",
+        "reponse": "faux",
+        "explication": "Le nom 'Moïse' vient probablement de l’égyptien 'mèsou', signifiant 'enfant' ou 'tiré'. La fille de Pharaon a dit : « Je l’ai tiré de l’eau », en référence au fait qu’il avait été sauvé du Nil (Exode 2:10). Ce n’est donc pas un mot hébreu signifiant 'berger'."
+    },
+    {
+        "id": 298,
+        "question": "Selon la prophétie de Daniel, la reconstruction de Jérusalem devait durer 49 ans.",
+        "reponse": "vrai",
+        "explication": "Dans Daniel 9:25, il est question de « sept semaines » (7 x 7 = 49 ans) pour la reconstruction de Jérusalem, à partir de la sortie de la parole de restauration jusqu’à l’arrivée d’un 'oint'. Ces 49 ans correspondent à la période de reconstruction après le décret d’Artaxerxès en 455 av. n. è."
+    },
+    {
+        "id": 299,
+        "question": "Le désert d’Araba se trouve en Grèce.",
+        "reponse": "faux",
+        "explication": "L’Araba (ou Aravah) est une région désertique qui s'étend entre la mer Morte et le golfe d’Aqaba. Elle se situe entre Israël et la Jordanie, et non en Grèce. On y trouve plusieurs références bibliques, notamment dans Deutéronome 1:1."
+    },
+    {
+        "id": 300,
+        "question": "Le nom 'Bethléhem' signifie 'maison du pain'.",
+        "reponse": "vrai",
+        "explication": "‘Bethléhem’ vient de l’hébreu 'Béit Leḥem', qui signifie littéralement 'maison du pain'. Cette ville est connue pour avoir été le lieu de naissance de Jésus, et le nom peut symboliser la provision spirituelle qu’il représente (Michée 5:2 ; Matthieu 2:1)."
+    },
+    {
+        "id": 301,
+        "question": "Le royaume d’Ouz se situait probablement en Arabie ou au sud de l’Édom.",
+        "reponse": "vrai",
+        "explication": "Le pays d’Ouz, où vivait Job, est difficile à localiser précisément, mais des éléments bibliques laissent penser qu’il se situait au sud-est de la terre de Canaan, dans les régions avoisinant l’Arabie ou l’Édom (Lamentations 4:21 ; Job 1:1)."
+    },
+    {
+        "id": 302,
+        "question": "Le nom 'Pharaon' est un prénom personnel utilisé dans la Bible.",
+        "reponse": "faux",
+        "explication": "‘Pharaon’ n’est pas un prénom, mais un titre utilisé pour les souverains de l’Égypte. Ce mot vient de l’égyptien 'Per-aa', signifiant 'grande maison'. Plusieurs pharaons sont mentionnés dans la Bible sans qu’on connaisse toujours leur nom personnel (Exode 1:8)."
+    },
+    {
+        "id": 303,
+        "question": "Le mot 'Apocalypse' signifie 'destruction totale' en grec.",
+        "reponse": "faux",
+        "explication": "Le mot 'Apocalypse' vient du grec *apokálypsis*, qui signifie 'révélation', 'dévoilement'. Dans la Bible, il ne s’agit pas d’un synonyme de catastrophe, mais plutôt d’un dévoilement des choses cachées par Dieu (Révélation 1:1)."
+    },
+    {
+        "id": 304,
+        "question": "Selon les calculs bibliques, la construction du temple de Salomon a duré 7 ans.",
+        "reponse": "vrai",
+        "explication": "Le temple bâti par Salomon à Jérusalem a mis 7 ans à être construit, selon 1 Rois 6:38 : 'il l’acheva dans toutes ses parties et selon toutes ses prescriptions au bout de sept ans'."
+    },
+    {
+        "id": 305,
+        "question": "L’expression 'Jéhovah Jiré' signifie 'Jéhovah est colère'.",
+        "reponse": "faux",
+        "explication": "En Hébreu, *YHWH Yir’eh* (transcrit 'Jéhovah Jiré') signifie plutôt 'Jéhovah pourvoira'. Cette expression vient de Genèse 22:14, quand Abraham appelle le lieu où Dieu a pourvu un bélier 'Jéhovah-Yiré'."
+    },
+    {
+        "id": 306,
+        "question": "La vallée de Géhenne était un lieu symbolique de destruction finale utilisé par Jésus.",
+        "reponse": "vrai",
+        "explication": "Géhenne (ou Guehenne) était une vallée près de Jérusalem utilisée comme décharge, où l’on brûlait les déchets. Jésus s’en est servi pour illustrer la destruction éternelle, et non un lieu de tourment (Matthieu 10:28)."
+    },
+    {
+        "id": 307,
+        "question": "Le nom 'Satan' signifie 'ange lumineux'.",
+        "reponse": "faux",
+        "explication": "Le mot 'Satan' vient de l’hébreu *satan*, qui signifie 'adversaire', 'accusateur'. Il ne signifie pas 'ange lumineux'. C’est 'Lucifer' (du latin 'porteur de lumière') qui est parfois utilisé dans un tout autre contexte (Job 1:6; Zacharie 3:1)."
+    },
+    {
+        "id": 308,
+        "question": "Le figuier que Jésus a maudit était situé dans un verger appartenant à un pharisien.",
+        "reponse": "faux",
+        "explication": "La Bible ne précise pas à qui appartenait le figuier que Jésus a maudit. Il était simplement sur le chemin (Marc 11:13-14). Le récit illustre le jugement contre l’hypocrisie spirituelle."
+    },
+    {
+        "id": 309,
+        "question": "Le royaume de Babylone, qui a détruit Jérusalem, se situe aujourd’hui principalement en Irak.",
+        "reponse": "vrai",
+        "explication": "L’ancien empire babylonien, dont la capitale était Babylone, se trouvait principalement dans l’actuel Irak. Il est célèbre pour avoir détruit Jérusalem en 607 av. n. è. (2 Rois 25:1-10)."
+    },
+    {
+        "id": 310,
+        "question": "L’expression 'œil pour œil, dent pour dent' vient d’une lettre écrite par Moïse aux juges d’Israël.",
+        "reponse": "faux",
+        "explication": "Cette loi, appelée 'loi du talion', figure dans la Torah (Exode 21:24), mais ce n’est pas une lettre. Elle établissait un principe de justice équitable, non de vengeance personnelle."
+    },
+    {
+        "id": 311,
+        "question": "La ville de Capernaüm était connue pour son commerce de pierres précieuses.",
+        "reponse": "faux",
+        "explication": "Capernaüm était une ville de pêcheurs et de douaniers, au bord du lac de Galilée. Elle n’est jamais décrite comme un centre de pierres précieuses dans la Bible (Matthieu 4:13; 9:1)."
     }
 ]

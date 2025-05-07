@@ -6,8 +6,16 @@ fetch("../data/reference.json")
     .then((res) => res.json())
     .then((json) => {
         data = json;
+        melangerTableau(data);
         afficherVerset();
     });
+
+function melangerTableau(tableau) {
+    for (let i = tableau.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [tableau[i], tableau[j]] = [tableau[j], tableau[i]];
+    }
+}
 
 function afficherVerset() {
     const carte = document.querySelector(".carte");
