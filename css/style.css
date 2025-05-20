@@ -4,8 +4,24 @@
     box-sizing: border-box;
 }
 
+html,
 body {
-    height: 100vh;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: #121212;
+    color: #fff;
+    font-family: "Segoe UI", sans-serif;
+}
+
+body {
+    min-height: 100vh;
     background-color: #121212;
     color: #fff;
     font-family: "Segoe UI", sans-serif;
@@ -96,21 +112,21 @@ main {
 }
 
 .jeu-title {
-    font-size: 2.2rem;
+    font-size: 2rem;
     color: white;
-    margin-bottom: 1.5rem;
+    margin-bottom: 1.2rem;
 }
 
 .jeu-nom {
-    font-size: 2.5rem;
+    font-size: 2.2rem;
     font-weight: 800;
     color: #f7df1e;
-    margin-bottom: 2.5rem;
+    margin-bottom: 1.5rem;
     margin-top: 70px;
 }
 
 .jeu-description {
-    font-size: 1.3rem;
+    font-size: 1.1rem;
     color: white;
     max-width: 800px;
     margin: 0 auto 2rem;
@@ -123,7 +139,7 @@ main {
 }
 
 .jeu-difficulte {
-    font-size: 1.4rem;
+    font-size: 1rem;
     font-weight: 600;
     color: white;
     user-select: none;
@@ -131,7 +147,7 @@ main {
 
 .jeu-difficulte .etoile {
     margin-top: 2.5rem;
-    font-size: 1.6rem;
+    font-size: 1.1rem;
     color: #f7df1e;
     user-select: none;
 }
@@ -209,7 +225,7 @@ main {
 /* Pour le bloc de la question */
 #question-container {
     max-width: 800px;
-    margin: 80px auto 60px;
+    margin: 30px auto 30px;
     padding: 30px;
     background-color: #111;
     border: 2px solid #f7df1e;
